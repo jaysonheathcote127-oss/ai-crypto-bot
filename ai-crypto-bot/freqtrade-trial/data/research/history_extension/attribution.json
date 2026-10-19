@@ -1,0 +1,2512 @@
+{
+  "earlier_year_base": {
+    "DailyRelativeStrength": {
+      "net_profit": 88.91004751999999,
+      "gross_price_pnl": 108.04702173317699,
+      "fee_proxy_paid": 19.1369742908387,
+      "positive_coins": 9,
+      "top_five_trades_profit": 82.89344018999999,
+      "coins": [
+        {
+          "pair": "NEAR/USDT",
+          "trades": 21,
+          "net_profit": 36.484177169999995
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 23,
+          "net_profit": 20.3479963
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 17,
+          "net_profit": 16.01898604
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 14,
+          "net_profit": 15.046959119999999
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 14,
+          "net_profit": 12.71740908
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 14,
+          "net_profit": 12.681196339999998
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 13,
+          "net_profit": 6.29533967
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 13,
+          "net_profit": 4.73880749
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 16,
+          "net_profit": 4.503347510000001
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 16,
+          "net_profit": -1.37318702
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 13,
+          "net_profit": -2.0422958599999994
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 16,
+          "net_profit": -3.01647743
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 10,
+          "net_profit": -3.02105325
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 9,
+          "net_profit": -4.456165299999999
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 10,
+          "net_profit": -5.8740447200000006
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 15,
+          "net_profit": -6.81551057
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 19,
+          "net_profit": -13.32543705
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 21,
+          "net_profit": 9.02835086
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 17.64712579
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 24,
+          "net_profit": 52.143697720000006
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -20.38489587
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 29,
+          "net_profit": 4.472333959999999
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 19.74886138
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 17,
+          "net_profit": 0.7784612599999983
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 11,
+          "net_profit": 12.147588119999998
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 11,
+          "net_profit": -1.61894398
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 16,
+          "net_profit": -3.0348945599999997
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.51877808
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 22,
+          "net_profit": 11.501140920000001
+        }
+      ]
+    },
+    "DailyAbsoluteMomentum": {
+      "net_profit": 88.71684014,
+      "gross_price_pnl": 108.00375484512699,
+      "fee_proxy_paid": 19.286914744106404,
+      "positive_coins": 9,
+      "top_five_trades_profit": 82.49880112,
+      "coins": [
+        {
+          "pair": "NEAR/USDT",
+          "trades": 22,
+          "net_profit": 32.76125249
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 13,
+          "net_profit": 17.207261199999998
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 15,
+          "net_profit": 15.44814617
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 26,
+          "net_profit": 14.399073979999999
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 19,
+          "net_profit": 12.53036363
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 13,
+          "net_profit": 12.26306191
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 12,
+          "net_profit": 6.595677569999999
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 15,
+          "net_profit": 5.3742898100000005
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 13,
+          "net_profit": 2.9349023599999997
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 15,
+          "net_profit": -0.8108136800000003
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 13,
+          "net_profit": -1.0385943299999991
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 15,
+          "net_profit": -2.05406609
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 18,
+          "net_profit": -4.379826209999999
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 9,
+          "net_profit": -4.66751269
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 12,
+          "net_profit": -5.156820690000001
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 10,
+          "net_profit": -5.8740447200000006
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 15,
+          "net_profit": -6.81551057
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 22,
+          "net_profit": 9.54586237
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 17.64712579
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 25,
+          "net_profit": 54.32610209
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -22.23748469
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 30,
+          "net_profit": 2.3847624599999997
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 19.848828519999998
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 15,
+          "net_profit": 1.1033023499999992
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 12,
+          "net_profit": 11.65207582
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 10,
+          "net_profit": 1.79220898
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 17,
+          "net_profit": -5.116959
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.51877808
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 22,
+          "net_profit": 11.28979353
+        }
+      ]
+    },
+    "DailySlowMomentum": {
+      "net_profit": 105.18243958999997,
+      "gross_price_pnl": 119.98734184255994,
+      "fee_proxy_paid": 14.804902346215725,
+      "positive_coins": 9,
+      "top_five_trades_profit": 110.08996012,
+      "coins": [
+        {
+          "pair": "SOL/USDT",
+          "trades": 18,
+          "net_profit": 38.92066413
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 18,
+          "net_profit": 37.25201318
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 16,
+          "net_profit": 16.06621726
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 12,
+          "net_profit": 14.75112058
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 20,
+          "net_profit": 14.341828179999998
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 13,
+          "net_profit": 9.14831477
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 9,
+          "net_profit": 6.878125440000002
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 11,
+          "net_profit": 3.17759876
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 11,
+          "net_profit": 0.8252343900000001
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 2,
+          "net_profit": -0.88747656
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 6,
+          "net_profit": -1.9264869100000002
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 12,
+          "net_profit": -2.720505709999999
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 4,
+          "net_profit": -3.1759631500000003
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 13,
+          "net_profit": -3.5689434
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 4,
+          "net_profit": -3.8370808399999996
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 12,
+          "net_profit": -5.20707324
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 14,
+          "net_profit": -14.85514729
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 17,
+          "net_profit": -13.19997245
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 20,
+          "net_profit": 58.028598519999996
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 22,
+          "net_profit": 58.12244087
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 22,
+          "net_profit": -15.63639393
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 21,
+          "net_profit": 4.313288739999999
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 24,
+          "net_profit": 24.81340763
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 13,
+          "net_profit": -5.82384142
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 9,
+          "net_profit": -1.1547803199999997
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 13,
+          "net_profit": -6.56312651
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 11,
+          "net_profit": -3.84123502
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -12.177564480000001
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 14,
+          "net_profit": 18.30161796
+        }
+      ]
+    }
+  },
+  "earlier_year_stress": {
+    "DailyRelativeStrength": {
+      "net_profit": 50.636098900000015,
+      "gross_price_pnl": 108.04702173317699,
+      "fee_proxy_paid": 57.410922872516096,
+      "positive_coins": 9,
+      "top_five_trades_profit": 81.89326119,
+      "coins": [
+        {
+          "pair": "NEAR/USDT",
+          "trades": 21,
+          "net_profit": 33.21982809
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 23,
+          "net_profit": 16.83168383
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 17,
+          "net_profit": 13.41705772
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 14,
+          "net_profit": 12.898595700000003
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 14,
+          "net_profit": 10.576055250000001
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 14,
+          "net_profit": 10.539941999999996
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 13,
+          "net_profit": 4.32361043
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 13,
+          "net_profit": 2.7716406099999986
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 16,
+          "net_profit": 2.0862304500000004
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 16,
+          "net_profit": -3.77266668
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 13,
+          "net_profit": -3.98908711
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 10,
+          "net_profit": -4.514229849999999
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 16,
+          "net_profit": -5.4110191499999996
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 9,
+          "net_profit": -5.79480224
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 10,
+          "net_profit": -7.3586495
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 15,
+          "net_profit": -9.04841335
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 19,
+          "net_profit": -16.1396773
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 21,
+          "net_profit": 5.846498069999999
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 13.08736152
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 24,
+          "net_profit": 48.38164332
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -24.52993554
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 29,
+          "net_profit": 0.10238358000000014
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 14.43166144
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 17,
+          "net_profit": -1.777686709999999
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 11,
+          "net_profit": 10.45861639
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 11,
+          "net_profit": -3.2665415899999997
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 16,
+          "net_profit": -5.429352840000001
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -14.83018776
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 22,
+          "net_profit": 8.16163902
+        }
+      ]
+    },
+    "DailyAbsoluteMomentum": {
+      "net_profit": 50.14301066,
+      "gross_price_pnl": 108.00375484512699,
+      "fee_proxy_paid": 57.860744232319206,
+      "positive_coins": 9,
+      "top_five_trades_profit": 81.49980676999999,
+      "coins": [
+        {
+          "pair": "NEAR/USDT",
+          "trades": 22,
+          "net_profit": 29.35786364
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 13,
+          "net_profit": 15.202633559999997
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 15,
+          "net_profit": 13.148352050000003
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 26,
+          "net_profit": 10.449960229999999
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 13,
+          "net_profit": 10.27329674
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 19,
+          "net_profit": 9.638467590000001
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 12,
+          "net_profit": 4.77326023
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 15,
+          "net_profit": 3.10478116
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 13,
+          "net_profit": 0.9731553199999994
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 13,
+          "net_profit": -2.9884012099999997
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 15,
+          "net_profit": -3.0617570900000004
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 15,
+          "net_profit": -4.3012747000000005
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 9,
+          "net_profit": -6.0055146299999995
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 12,
+          "net_profit": -6.94403103
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 18,
+          "net_profit": -7.07071835
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 10,
+          "net_profit": -7.3586495
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 15,
+          "net_profit": -9.04841335
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 22,
+          "net_profit": 6.212231609999999
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 13.08736152
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 25,
+          "net_profit": 50.407263400000005
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -26.376955979999998
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 30,
+          "net_profit": -2.1291418400000004
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 14.531328050000003
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 15,
+          "net_profit": -1.1533719699999998
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 12,
+          "net_profit": 9.81436752
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 10,
+          "net_profit": 0.2845774400000002
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 17,
+          "net_profit": -7.6553879600000005
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -14.83018776
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 22,
+          "net_profit": 7.9509266300000006
+        }
+      ]
+    },
+    "DailySlowMomentum": {
+      "net_profit": 75.57263479000001,
+      "gross_price_pnl": 119.98734184255994,
+      "fee_proxy_paid": 44.414707038647165,
+      "positive_coins": 8,
+      "top_five_trades_profit": 109.00806767999998,
+      "coins": [
+        {
+          "pair": "SOL/USDT",
+          "trades": 18,
+          "net_profit": 36.09967700999999
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 18,
+          "net_profit": 34.43603313
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 16,
+          "net_profit": 13.61434257
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 12,
+          "net_profit": 12.90411375
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 20,
+          "net_profit": 11.294237380000002
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 13,
+          "net_profit": 7.16789966
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 9,
+          "net_profit": 5.505522490000001
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 11,
+          "net_profit": 1.5155742299999995
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 11,
+          "net_profit": -0.8297237399999999
+        },
+        {
+          "pair": "XLM/USDT",
+          "trades": 2,
+          "net_profit": -1.18526081
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 6,
+          "net_profit": -2.82205078
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 4,
+          "net_profit": -3.7673223
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 4,
+          "net_profit": -4.426452800000001
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 12,
+          "net_profit": -4.51503566
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 13,
+          "net_profit": -5.51113866
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 12,
+          "net_profit": -6.9941325999999995
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 14,
+          "net_profit": -16.91364808
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 17,
+          "net_profit": -15.71413595
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 20,
+          "net_profit": 54.84975384999999
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 22,
+          "net_profit": 54.64286126
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 22,
+          "net_profit": -18.89434908
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 21,
+          "net_profit": 1.1456039299999998
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 24,
+          "net_profit": 21.13347022
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 13,
+          "net_profit": -7.75925669
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 9,
+          "net_profit": -2.50332304
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 13,
+          "net_profit": -8.49630154
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 11,
+          "net_profit": -5.48216779
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.49300313
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 14,
+          "net_profit": 16.14348275
+        }
+      ]
+    }
+  },
+  "extended_continuous_base": {
+    "DailyRelativeStrength": {
+      "net_profit": 258.70378406000003,
+      "gross_price_pnl": 317.60482660098705,
+      "fee_proxy_paid": 58.901042617100345,
+      "positive_coins": 12,
+      "top_five_trades_profit": 169.81963562999996,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 33,
+          "net_profit": 56.98293973999999
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 50,
+          "net_profit": 43.741738489999996
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 29,
+          "net_profit": 38.73286215
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 48,
+          "net_profit": 38.41889921
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 44,
+          "net_profit": 34.47355394
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 47,
+          "net_profit": 22.05379755
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 45,
+          "net_profit": 20.607504220000003
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 59,
+          "net_profit": 16.605959640000002
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 47,
+          "net_profit": 11.08736986
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 50,
+          "net_profit": 6.86649931
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 48,
+          "net_profit": 4.467852790000001
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 40,
+          "net_profit": 2.4022027800000014
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 57,
+          "net_profit": -0.25895290000000015
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 36,
+          "net_profit": -7.04010105
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 44,
+          "net_profit": -8.771846190000002
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 54,
+          "net_profit": -9.96764506
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 48,
+          "net_profit": -11.69885042
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 21,
+          "net_profit": 9.02835086
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 17.64712579
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 24,
+          "net_profit": 52.143697720000006
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -20.38489587
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 29,
+          "net_profit": 4.472333959999999
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 19.74886138
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 17,
+          "net_profit": 0.7784612599999983
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 11,
+          "net_profit": 12.147588119999998
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 11,
+          "net_profit": -1.61894398
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 16,
+          "net_profit": -3.0348945599999997
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.51877808
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 17,
+          "net_profit": 8.498683020000001
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 35,
+          "net_profit": -2.70576833
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 28,
+          "net_profit": 176.32005837
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 39,
+          "net_profit": 4.787906800000002
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 31,
+          "net_profit": -20.1855532
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 7,
+          "net_profit": -9.3977024
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 10,
+          "net_profit": -10.448468309999999
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 27,
+          "net_profit": -4.81500041
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 43,
+          "net_profit": 6.0640519600000005
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 24,
+          "net_profit": -11.348472150000001
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 38,
+          "net_profit": 30.91038746
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 22,
+          "net_profit": 3.6043017399999995
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 11,
+          "net_profit": 2.10735552
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 19,
+          "net_profit": -2.0878358699999997
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 18,
+          "net_profit": -3.4768806000000003
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 26,
+          "net_profit": -11.54004272
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 23,
+          "net_profit": -5.31645697
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 6.24007281
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 46,
+          "net_profit": -21.44783722
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 27,
+          "net_profit": 15.34250855
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 24,
+          "net_profit": 25.57385635
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 18,
+          "net_profit": 4.615713059999998
+        }
+      ]
+    },
+    "DailyAbsoluteMomentum": {
+      "net_profit": 284.78572815,
+      "gross_price_pnl": 344.176619407517,
+      "fee_proxy_paid": 59.39089127271842,
+      "positive_coins": 13,
+      "top_five_trades_profit": 169.81963562999996,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 34,
+          "net_profit": 78.68353923
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 52,
+          "net_profit": 41.10385648
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 49,
+          "net_profit": 39.45266042
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 43,
+          "net_profit": 34.390970640000006
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 32,
+          "net_profit": 33.26155504
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 51,
+          "net_profit": 23.244858540000003
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 47,
+          "net_profit": 17.24020857
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 49,
+          "net_profit": 16.33932298
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 45,
+          "net_profit": 11.743637790000001
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 61,
+          "net_profit": 11.28025585
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 42,
+          "net_profit": 5.125441109999999
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 45,
+          "net_profit": 2.8681986800000008
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 40,
+          "net_profit": 1.300487750000002
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 63,
+          "net_profit": -3.087697799999999
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 33,
+          "net_profit": -6.1265829
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 53,
+          "net_profit": -10.34910409
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 46,
+          "net_profit": -11.68588014
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 22,
+          "net_profit": 9.54586237
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 17.64712579
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 25,
+          "net_profit": 54.32610209
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -22.23748469
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 30,
+          "net_profit": 2.3847624599999997
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 19.848828519999998
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 15,
+          "net_profit": 1.1033023499999992
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 12,
+          "net_profit": 11.65207582
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 10,
+          "net_profit": 1.79220898
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 17,
+          "net_profit": -5.116959
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.51877808
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 17,
+          "net_profit": 8.287335630000001
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 37,
+          "net_profit": -5.56062307
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 26,
+          "net_profit": 177.59748345
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 38,
+          "net_profit": 6.834784210000002
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 33,
+          "net_profit": -20.61996849
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 6,
+          "net_profit": -8.83442674
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 10,
+          "net_profit": -10.448468309999999
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 27,
+          "net_profit": -1.4215311500000007
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 41,
+          "net_profit": 6.800299520000001
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 22,
+          "net_profit": -11.41808018
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 39,
+          "net_profit": 48.14136158
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 22,
+          "net_profit": 2.46551731
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 10,
+          "net_profit": 2.9503054
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 19,
+          "net_profit": -2.6405584699999998
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 19,
+          "net_profit": -2.6396451400000003
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 25,
+          "net_profit": -12.54010864
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 26,
+          "net_profit": -9.04795837
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 6.08864415
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 51,
+          "net_profit": -22.95251323
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 27,
+          "net_profit": 15.70173772
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 24,
+          "net_profit": 30.486517520000003
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 18,
+          "net_profit": 10.128576839999997
+        }
+      ]
+    },
+    "DailySlowMomentum": {
+      "net_profit": 279.19578223999997,
+      "gross_price_pnl": 321.67803915860986,
+      "fee_proxy_paid": 42.4822569986253,
+      "positive_coins": 11,
+      "top_five_trades_profit": 221.08450050999997,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 14,
+          "net_profit": 74.07586271000001
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 20,
+          "net_profit": 54.12136849
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 42,
+          "net_profit": 43.061277839999995
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 41,
+          "net_profit": 38.530828819999996
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 17,
+          "net_profit": 32.7861081
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 36,
+          "net_profit": 24.83003018
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 30,
+          "net_profit": 19.155687300000004
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 35,
+          "net_profit": 12.255725949999997
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 46,
+          "net_profit": 12.026073099999998
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 36,
+          "net_profit": 11.7808174
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 26,
+          "net_profit": 2.6593605599999997
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 48,
+          "net_profit": -0.6459093599999992
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 38,
+          "net_profit": -1.0261434600000001
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 38,
+          "net_profit": -7.83470815
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 19,
+          "net_profit": -10.62525414
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 42,
+          "net_profit": -11.55916435
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 32,
+          "net_profit": -14.39617875
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 17,
+          "net_profit": -13.19997245
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 20,
+          "net_profit": 58.028598519999996
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 22,
+          "net_profit": 58.12244087
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 22,
+          "net_profit": -15.63639393
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 21,
+          "net_profit": 4.313288739999999
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 24,
+          "net_profit": 24.81340763
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 13,
+          "net_profit": -5.82384142
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 9,
+          "net_profit": -1.1547803199999997
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 13,
+          "net_profit": -6.56312651
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 11,
+          "net_profit": -3.84123502
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -12.177564480000001
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 10,
+          "net_profit": -2.71028576
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 26,
+          "net_profit": 9.5706458
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 12,
+          "net_profit": 49.97954668
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 24,
+          "net_profit": 133.23474027
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 26,
+          "net_profit": -22.08816921
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 3,
+          "net_profit": -5.4479831999999995
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 12,
+          "net_profit": -9.68235854
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 13,
+          "net_profit": 2.0214178699999996
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 33,
+          "net_profit": -0.2478382899999998
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 11,
+          "net_profit": 2.1993305000000003
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 19,
+          "net_profit": 34.82317284
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 18,
+          "net_profit": 4.900562929999999
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 9,
+          "net_profit": 3.19010014
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 7,
+          "net_profit": -4.59851395
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 18,
+          "net_profit": -11.54114084
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 22,
+          "net_profit": -11.06769569
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 17,
+          "net_profit": -8.18286807
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 5.10866048
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 37,
+          "net_profit": -16.20183524
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 15,
+          "net_profit": 9.58112244
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 21,
+          "net_profit": 23.1055036
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 11,
+          "net_profit": 6.36884585
+        }
+      ]
+    }
+  },
+  "extended_continuous_stress": {
+    "DailyRelativeStrength": {
+      "net_profit": 140.90169885000003,
+      "gross_price_pnl": 317.60482660098705,
+      "fee_proxy_paid": 176.70312785130102,
+      "positive_coins": 9,
+      "top_five_trades_profit": 168.55828478,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 33,
+          "net_profit": 51.85429801
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 50,
+          "net_profit": 36.09904919
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 29,
+          "net_profit": 34.25995419
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 48,
+          "net_profit": 31.092653160000005
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 44,
+          "net_profit": 27.760063279999997
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 47,
+          "net_profit": 14.92694684
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 45,
+          "net_profit": 13.78555286
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 59,
+          "net_profit": 7.692791759999999
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 47,
+          "net_profit": 3.9935171800000004
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 50,
+          "net_profit": -0.6653664999999984
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 48,
+          "net_profit": -2.7562935399999993
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 40,
+          "net_profit": -3.61402324
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 57,
+          "net_profit": -8.820608510000001
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 36,
+          "net_profit": -12.4270521
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 44,
+          "net_profit": -15.355402930000002
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 54,
+          "net_profit": -18.04986541
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 48,
+          "net_profit": -18.87451539
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 21,
+          "net_profit": 5.846498069999999
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 13.08736152
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 24,
+          "net_profit": 48.38164332
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -24.52993554
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 29,
+          "net_profit": 0.10238358000000014
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 14.43166144
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 17,
+          "net_profit": -1.777686709999999
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 11,
+          "net_profit": 10.45861639
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 11,
+          "net_profit": -3.2665415899999997
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 16,
+          "net_profit": -5.429352840000001
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -14.83018776
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 17,
+          "net_profit": 5.91932871
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 35,
+          "net_profit": -7.955515270000001
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 28,
+          "net_profit": 171.58400084
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 39,
+          "net_profit": -1.085222679999998
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 31,
+          "net_profit": -24.78187261
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 7,
+          "net_profit": -10.42103394
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 10,
+          "net_profit": -11.91932808
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 27,
+          "net_profit": -8.85660378
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 43,
+          "net_profit": -0.41379653999999844
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 24,
+          "net_profit": -14.91974437
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 38,
+          "net_profit": 25.108995
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 22,
+          "net_profit": 0.28853842000000074
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 11,
+          "net_profit": 0.4485677400000001
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 19,
+          "net_profit": -4.93580843
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 18,
+          "net_profit": -6.17047202
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 26,
+          "net_profit": -15.41120166
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 23,
+          "net_profit": -8.75562936
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 3.9679505499999994
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 46,
+          "net_profit": -28.29370966
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 27,
+          "net_profit": 11.240369
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 24,
+          "net_profit": 21.89163373
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 18,
+          "net_profit": 1.8977933800000002
+        }
+      ]
+    },
+    "DailyAbsoluteMomentum": {
+      "net_profit": 166.00394563,
+      "gross_price_pnl": 344.176619407517,
+      "fee_proxy_paid": 178.17267381815526,
+      "positive_coins": 10,
+      "top_five_trades_profit": 168.55828478,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 34,
+          "net_profit": 73.33947255
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 52,
+          "net_profit": 33.16864206
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 49,
+          "net_profit": 31.973083090000006
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 32,
+          "net_profit": 28.35440967
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 43,
+          "net_profit": 27.827953419999996
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 51,
+          "net_profit": 15.513558419999999
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 47,
+          "net_profit": 10.12792538
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 49,
+          "net_profit": 8.929190779999999
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 45,
+          "net_profit": 4.948259769999998
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 61,
+          "net_profit": 2.0826403699999982
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 42,
+          "net_profit": -1.1994197000000022
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 45,
+          "net_profit": -3.9004758699999993
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 40,
+          "net_profit": -4.712428119999998
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 33,
+          "net_profit": -11.06560316
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 63,
+          "net_profit": -12.542176520000002
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 53,
+          "net_profit": -18.279953
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 46,
+          "net_profit": -18.56113351
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 22,
+          "net_profit": 6.212231609999999
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 30,
+          "net_profit": 13.08736152
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 25,
+          "net_profit": 50.407263400000005
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 28,
+          "net_profit": -26.376955979999998
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 30,
+          "net_profit": -2.1291418400000004
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 35,
+          "net_profit": 14.531328050000003
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 15,
+          "net_profit": -1.1533719699999998
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 12,
+          "net_profit": 9.81436752
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 10,
+          "net_profit": 0.2845774400000002
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 17,
+          "net_profit": -7.6553879600000005
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -14.83018776
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 17,
+          "net_profit": 5.70861632
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 37,
+          "net_profit": -11.10224144
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 26,
+          "net_profit": 173.1580378
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 38,
+          "net_profit": 1.1057302000000018
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 33,
+          "net_profit": -25.51542715
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 6,
+          "net_profit": -9.70923121
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 10,
+          "net_profit": -11.91932808
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 27,
+          "net_profit": -5.47332979
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 41,
+          "net_profit": 0.6206815000000006
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 22,
+          "net_profit": -14.68868729
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 39,
+          "net_profit": 42.1379765
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 22,
+          "net_profit": -0.8468109199999996
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 10,
+          "net_profit": 1.43921031
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 19,
+          "net_profit": -5.486869169999999
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 19,
+          "net_profit": -5.48597758
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 25,
+          "net_profit": -16.25803971
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 26,
+          "net_profit": -12.92659074
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 3.8169758
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 51,
+          "net_profit": -30.54497552
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 27,
+          "net_profit": 11.598515849999998
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 24,
+          "net_profit": 26.78953258
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 18,
+          "net_profit": 7.394093340000002
+        }
+      ]
+    },
+    "DailySlowMomentum": {
+      "net_profit": 194.23126813,
+      "gross_price_pnl": 321.67803915860986,
+      "fee_proxy_paid": 127.4467709958759,
+      "positive_coins": 10,
+      "top_five_trades_profit": 219.66912402999998,
+      "coins": [
+        {
+          "pair": "XLM/USDT",
+          "trades": 14,
+          "net_profit": 71.75014657
+        },
+        {
+          "pair": "XRP/USDT",
+          "trades": 20,
+          "net_profit": 50.9542538
+        },
+        {
+          "pair": "NEAR/USDT",
+          "trades": 42,
+          "net_profit": 36.62243569
+        },
+        {
+          "pair": "SOL/USDT",
+          "trades": 41,
+          "net_profit": 32.255838929999996
+        },
+        {
+          "pair": "HBAR/USDT",
+          "trades": 17,
+          "net_profit": 30.1337713
+        },
+        {
+          "pair": "BTC/USDT",
+          "trades": 36,
+          "net_profit": 19.34739651
+        },
+        {
+          "pair": "DOGE/USDT",
+          "trades": 30,
+          "net_profit": 14.59137379
+        },
+        {
+          "pair": "AVAX/USDT",
+          "trades": 35,
+          "net_profit": 6.96101966
+        },
+        {
+          "pair": "ETH/USDT",
+          "trades": 36,
+          "net_profit": 6.3375908600000015
+        },
+        {
+          "pair": "SUI/USDT",
+          "trades": 46,
+          "net_profit": 5.079601309999999
+        },
+        {
+          "pair": "ADA/USDT",
+          "trades": 26,
+          "net_profit": -1.2544852100000008
+        },
+        {
+          "pair": "LINK/USDT",
+          "trades": 38,
+          "net_profit": -6.7316218899999996
+        },
+        {
+          "pair": "UNI/USDT",
+          "trades": 48,
+          "net_profit": -7.854783940000001
+        },
+        {
+          "pair": "LTC/USDT",
+          "trades": 19,
+          "net_profit": -13.4476069
+        },
+        {
+          "pair": "BCH/USDT",
+          "trades": 38,
+          "net_profit": -13.51968675
+        },
+        {
+          "pair": "TRX/USDT",
+          "trades": 42,
+          "net_profit": -17.83389892
+        },
+        {
+          "pair": "BNB/USDT",
+          "trades": 32,
+          "net_profit": -19.16007668
+        }
+      ],
+      "exit_months": [
+        {
+          "exit_month": "2023-10",
+          "trades": 17,
+          "net_profit": -15.71413595
+        },
+        {
+          "exit_month": "2023-11",
+          "trades": 20,
+          "net_profit": 54.84975384999999
+        },
+        {
+          "exit_month": "2023-12",
+          "trades": 22,
+          "net_profit": 54.64286126
+        },
+        {
+          "exit_month": "2024-01",
+          "trades": 22,
+          "net_profit": -18.89434908
+        },
+        {
+          "exit_month": "2024-02",
+          "trades": 21,
+          "net_profit": 1.1456039299999998
+        },
+        {
+          "exit_month": "2024-03",
+          "trades": 24,
+          "net_profit": 21.13347022
+        },
+        {
+          "exit_month": "2024-04",
+          "trades": 13,
+          "net_profit": -7.75925669
+        },
+        {
+          "exit_month": "2024-05",
+          "trades": 9,
+          "net_profit": -2.50332304
+        },
+        {
+          "exit_month": "2024-06",
+          "trades": 13,
+          "net_profit": -8.49630154
+        },
+        {
+          "exit_month": "2024-07",
+          "trades": 11,
+          "net_profit": -5.48216779
+        },
+        {
+          "exit_month": "2024-08",
+          "trades": 9,
+          "net_profit": -13.49300313
+        },
+        {
+          "exit_month": "2024-09",
+          "trades": 10,
+          "net_profit": -4.2043899
+        },
+        {
+          "exit_month": "2024-10",
+          "trades": 26,
+          "net_profit": 5.636041859999999
+        },
+        {
+          "exit_month": "2024-11",
+          "trades": 12,
+          "net_profit": 48.02668737
+        },
+        {
+          "exit_month": "2024-12",
+          "trades": 24,
+          "net_profit": 129.22903487
+        },
+        {
+          "exit_month": "2025-01",
+          "trades": 26,
+          "net_profit": -25.927650659999998
+        },
+        {
+          "exit_month": "2025-02",
+          "trades": 3,
+          "net_profit": -5.882290579999999
+        },
+        {
+          "exit_month": "2025-03",
+          "trades": 12,
+          "net_profit": -11.45596731
+        },
+        {
+          "exit_month": "2025-04",
+          "trades": 13,
+          "net_profit": 0.0624211499999997
+        },
+        {
+          "exit_month": "2025-05",
+          "trades": 33,
+          "net_profit": -5.204479509999999
+        },
+        {
+          "exit_month": "2025-06",
+          "trades": 11,
+          "net_profit": 0.5402805899999993
+        },
+        {
+          "exit_month": "2025-07",
+          "trades": 19,
+          "net_profit": 31.86427273
+        },
+        {
+          "exit_month": "2025-08",
+          "trades": 18,
+          "net_profit": 2.18182454
+        },
+        {
+          "exit_month": "2025-09",
+          "trades": 9,
+          "net_profit": 1.828498
+        },
+        {
+          "exit_month": "2025-10",
+          "trades": 7,
+          "net_profit": -5.63626588
+        },
+        {
+          "exit_month": "2026-01",
+          "trades": 18,
+          "net_profit": -14.21049206
+        },
+        {
+          "exit_month": "2026-03",
+          "trades": 22,
+          "net_profit": -14.33937452
+        },
+        {
+          "exit_month": "2026-04",
+          "trades": 17,
+          "net_profit": -10.71208166
+        },
+        {
+          "exit_month": "2026-05",
+          "trades": 15,
+          "net_profit": 2.8399331300000004
+        },
+        {
+          "exit_month": "2026-07",
+          "trades": 37,
+          "net_profit": -21.711463900000002
+        },
+        {
+          "exit_month": "2026-08",
+          "trades": 15,
+          "net_profit": 7.29897552
+        },
+        {
+          "exit_month": "2026-09",
+          "trades": 21,
+          "net_profit": 19.88136906
+        },
+        {
+          "exit_month": "2026-10",
+          "trades": 11,
+          "net_profit": 4.697233250000001
+        }
+      ]
+    }
+  }
+}

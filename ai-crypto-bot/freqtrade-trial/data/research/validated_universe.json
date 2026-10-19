@@ -1,0 +1,4418 @@
+{
+  "checked_at": "2026-10-19T14:06:33.916868+00:00",
+  "ranking_snapshot": "data/watchlists/20261019T135713.json",
+  "filters": {
+    "min_pair_volume_usd_24h": 1000000,
+    "max_spread_pct": 0.2,
+    "excluded_categories": [
+      "stablecoins",
+      "wrapped-tokens",
+      "liquid-staking-tokens",
+      "liquid-restaking-tokens"
+    ]
+  },
+  "limitations": [
+    "Current rankings and liquidity introduce historical selection bias.",
+    "CoinGecko and exchange listings may lag; identity validated across these sources only.",
+    "Regional account access and trading fees are not verified."
+  ],
+  "exchanges": {
+    "okx": [
+      {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "rank": 1,
+        "eligible": true,
+        "selected": {
+          "pair": "BTC/USDT",
+          "volume_usd_24h": 459716791.0,
+          "spread_pct": 0.010122,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "BTC/USDC",
+            "volume_usd_24h": 35630280.0,
+            "spread_pct": 0.010122,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "BTC/USDT",
+            "volume_usd_24h": 459716791.0,
+            "spread_pct": 0.010122,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "rank": 2,
+        "eligible": true,
+        "selected": {
+          "pair": "ETH/USDT",
+          "volume_usd_24h": 212374759.0,
+          "spread_pct": 0.010416,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ETH/USDC",
+            "volume_usd_24h": 20632121.0,
+            "spread_pct": 0.010416,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "ETH/USDT",
+            "volume_usd_24h": 212374759.0,
+            "spread_pct": 0.010416,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tether",
+        "name": "Tether",
+        "rank": 3,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_eligible_USDT_pair"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDT/USD",
+            "volume_usd_24h": 2423932.0,
+            "spread_pct": 0.011001,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "binancecoin",
+        "name": "BNB",
+        "rank": 4,
+        "eligible": true,
+        "selected": {
+          "pair": "BNB/USDT",
+          "volume_usd_24h": 4626514.0,
+          "spread_pct": 0.013748,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "BNB/USDC",
+            "volume_usd_24h": 225667.0,
+            "spread_pct": 0.096299,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BNB/USDT",
+            "volume_usd_24h": 4626514.0,
+            "spread_pct": 0.013748,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "ripple",
+        "name": "XRP",
+        "rank": 5,
+        "eligible": true,
+        "selected": {
+          "pair": "XRP/USDT",
+          "volume_usd_24h": 28458288.0,
+          "spread_pct": 0.017672,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XRP/USDC",
+            "volume_usd_24h": 4752047.0,
+            "spread_pct": 0.01536,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "XRP/USDT",
+            "volume_usd_24h": 28458288.0,
+            "spread_pct": 0.017672,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "usd-coin",
+        "name": "USDC",
+        "rank": 6,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDC/USDT",
+            "volume_usd_24h": 323437233.0,
+            "spread_pct": 0.010999,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "solana",
+        "name": "Solana",
+        "rank": 7,
+        "eligible": true,
+        "selected": {
+          "pair": "SOL/USDT",
+          "volume_usd_24h": 63902246.0,
+          "spread_pct": 0.019493,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "SOL/USDC",
+            "volume_usd_24h": 4009440.0,
+            "spread_pct": 0.028506,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "SOL/USDT",
+            "volume_usd_24h": 63902246.0,
+            "spread_pct": 0.019493,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tron",
+        "name": "TRON",
+        "rank": 8,
+        "eligible": true,
+        "selected": {
+          "pair": "TRX/USDT",
+          "volume_usd_24h": 5303654.0,
+          "spread_pct": 0.016027,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "TRX/USDC",
+            "volume_usd_24h": 371528.0,
+            "spread_pct": 0.012057,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "TRX/USDT",
+            "volume_usd_24h": 5303654.0,
+            "spread_pct": 0.016027,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "figure-heloc",
+        "name": "Figure Heloc",
+        "rank": 9,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "zcash",
+        "name": "Zcash",
+        "rank": 10,
+        "eligible": true,
+        "selected": {
+          "pair": "ZEC/USDT",
+          "volume_usd_24h": 56402862.0,
+          "spread_pct": 0.020047,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ZEC/USDC",
+            "volume_usd_24h": 3122283.0,
+            "spread_pct": 0.057079,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "ZEC/USDT",
+            "volume_usd_24h": 56402862.0,
+            "spread_pct": 0.020047,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "hyperliquid",
+        "name": "Hyperliquid",
+        "rank": 11,
+        "eligible": true,
+        "selected": {
+          "pair": "HYPE/USDT",
+          "volume_usd_24h": 15598674.0,
+          "spread_pct": 0.017577,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "HYPE/USDC",
+            "volume_usd_24h": 1532664.0,
+            "spread_pct": 0.042704,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "HYPE/USDT",
+            "volume_usd_24h": 15598674.0,
+            "spread_pct": 0.017577,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "dogecoin",
+        "name": "Dogecoin",
+        "rank": 12,
+        "eligible": true,
+        "selected": {
+          "pair": "DOGE/USDT",
+          "volume_usd_24h": 24745064.0,
+          "spread_pct": 0.012539,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "DOGE/USDC",
+            "volume_usd_24h": 418260.0,
+            "spread_pct": 0.01255,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "DOGE/USDT",
+            "volume_usd_24h": 24745064.0,
+            "spread_pct": 0.012539,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "monero",
+        "name": "Monero",
+        "rank": 13,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "usds",
+        "name": "USDS",
+        "rank": 14,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDS/USDT",
+            "volume_usd_24h": 176736.0,
+            "spread_pct": 0.01999,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "whitebit",
+        "name": "WhiteBIT Coin",
+        "rank": 15,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "rank": 16,
+        "eligible": true,
+        "selected": {
+          "pair": "LINK/USDT",
+          "volume_usd_24h": 3800751.0,
+          "spread_pct": 0.01826,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "LINK/USDC",
+            "volume_usd_24h": 831805.0,
+            "spread_pct": 0.132177,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LINK/USDT",
+            "volume_usd_24h": 3800751.0,
+            "spread_pct": 0.01826,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "leo-token",
+        "name": "LEO Token",
+        "rank": 17,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "LEO/USDC",
+            "volume_usd_24h": 107.46,
+            "spread_pct": 0.705001,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LEO/USDT",
+            "volume_usd_24h": 2538.07,
+            "spread_pct": 0.011075,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "cardano",
+        "name": "Cardano",
+        "rank": 18,
+        "eligible": true,
+        "selected": {
+          "pair": "ADA/USDT",
+          "volume_usd_24h": 3402799.0,
+          "spread_pct": 0.045935,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ADA/USDC",
+            "volume_usd_24h": 237924.0,
+            "spread_pct": 0.045977,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ADA/USDT",
+            "volume_usd_24h": 3402799.0,
+            "spread_pct": 0.045935,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "near",
+        "name": "NEAR Protocol",
+        "rank": 19,
+        "eligible": true,
+        "selected": {
+          "pair": "NEAR/USDT",
+          "volume_usd_24h": 24271553.0,
+          "spread_pct": 0.040169,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "NEAR/USDC",
+            "volume_usd_24h": 3339465.0,
+            "spread_pct": 0.060302,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "NEAR/USDT",
+            "volume_usd_24h": 24271553.0,
+            "spread_pct": 0.040169,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "rain",
+        "name": "Rain",
+        "rank": 20,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "stellar",
+        "name": "Stellar",
+        "rank": 21,
+        "eligible": true,
+        "selected": {
+          "pair": "XLM/USDT",
+          "volume_usd_24h": 3863209.0,
+          "spread_pct": 0.033868,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XLM/USDC",
+            "volume_usd_24h": 317496.0,
+            "spread_pct": 0.175201,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "XLM/USDT",
+            "volume_usd_24h": 3863209.0,
+            "spread_pct": 0.033868,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "rank": 22,
+        "eligible": true,
+        "selected": {
+          "pair": "BCH/USDT",
+          "volume_usd_24h": 2406606.0,
+          "spread_pct": 0.071788,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "BCH/USDC",
+            "volume_usd_24h": 37647.0,
+            "spread_pct": 0.108069,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BCH/USDT",
+            "volume_usd_24h": 2406606.0,
+            "spread_pct": 0.071788,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "ethena-usde",
+        "name": "Ethena USDe",
+        "rank": 23,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "rank": 24,
+        "eligible": true,
+        "selected": {
+          "pair": "LTC/USDT",
+          "volume_usd_24h": 6010298.0,
+          "spread_pct": 0.016565,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "LTC/USDC",
+            "volume_usd_24h": 960688.0,
+            "spread_pct": 0.099453,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LTC/USDT",
+            "volume_usd_24h": 6010298.0,
+            "spread_pct": 0.016565,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "rank": 25,
+        "eligible": true,
+        "selected": {
+          "pair": "UNI/USDT",
+          "volume_usd_24h": 14114242.0,
+          "spread_pct": 0.027167,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "UNI/USDC",
+            "volume_usd_24h": 409072.0,
+            "spread_pct": 0.05437,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "UNI/USDT",
+            "volume_usd_24h": 14114242.0,
+            "spread_pct": 0.027167,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "dai",
+        "name": "Dai",
+        "rank": 26,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "avalanche-2",
+        "name": "Avalanche",
+        "rank": 27,
+        "eligible": true,
+        "selected": {
+          "pair": "AVAX/USDT",
+          "volume_usd_24h": 2830335.0,
+          "spread_pct": 0.031017,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "AVAX/USDC",
+            "volume_usd_24h": 166393.0,
+            "spread_pct": 0.041395,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "AVAX/USDT",
+            "volume_usd_24h": 2830335.0,
+            "spread_pct": 0.031017,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "canton-network",
+        "name": "Canton",
+        "rank": 28,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "CC/USDC",
+            "volume_usd_24h": 66567.0,
+            "spread_pct": 0.277379,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CC/USDT",
+            "volume_usd_24h": 997502.0,
+            "spread_pct": 0.057559,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "sui",
+        "name": "Sui",
+        "rank": 29,
+        "eligible": true,
+        "selected": {
+          "pair": "SUI/USDT",
+          "volume_usd_24h": 12583406.0,
+          "spread_pct": 0.019955,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "SUI/USDC",
+            "volume_usd_24h": 1058289.0,
+            "spread_pct": 0.069742,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "SUI/USDT",
+            "volume_usd_24h": 12583406.0,
+            "spread_pct": 0.019955,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "usd1-wlfi",
+        "name": "USD1",
+        "rank": 30,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USD1/USDT",
+            "volume_usd_24h": 83775.0,
+            "spread_pct": 0.010002,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "the-open-network",
+        "name": "Gram (prev. Toncoin)",
+        "rank": 31,
+        "eligible": true,
+        "selected": {
+          "pair": "GRAM/USDT",
+          "volume_usd_24h": 1605466.0,
+          "spread_pct": 0.074239,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "GRAM/USDC",
+            "volume_usd_24h": 23200.0,
+            "spread_pct": 0.148478,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "GRAM/USDT",
+            "volume_usd_24h": 1605466.0,
+            "spread_pct": 0.074239,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "hedera-hashgraph",
+        "name": "Hedera",
+        "rank": 32,
+        "eligible": true,
+        "selected": {
+          "pair": "HBAR/USDT",
+          "volume_usd_24h": 4641235.0,
+          "spread_pct": 0.023995,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "HBAR/USDC",
+            "volume_usd_24h": 386406.0,
+            "spread_pct": 0.060024,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "HBAR/USDT",
+            "volume_usd_24h": 4641235.0,
+            "spread_pct": 0.023995,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tether-gold",
+        "name": "Tether Gold",
+        "rank": 33,
+        "eligible": true,
+        "selected": {
+          "pair": "XAUT/USDT",
+          "volume_usd_24h": 4999280.0,
+          "spread_pct": 0.012408,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XAUT/USDT",
+            "volume_usd_24h": 4999280.0,
+            "spread_pct": 0.012408,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "global-dollar",
+        "name": "Global Dollar",
+        "rank": 34,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDG/USDT",
+            "volume_usd_24h": 2061520.0,
+            "spread_pct": 0.019987,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bittensor",
+        "name": "Bittensor",
+        "rank": 35,
+        "eligible": true,
+        "selected": {
+          "pair": "TAO/USDT",
+          "volume_usd_24h": 3653839.0,
+          "spread_pct": 0.036697,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "TAO/USDC",
+            "volume_usd_24h": 978612.0,
+            "spread_pct": 0.073421,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "TAO/USDT",
+            "volume_usd_24h": 3653839.0,
+            "spread_pct": 0.036697,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "shiba-inu",
+        "name": "Shiba Inu",
+        "rank": 36,
+        "eligible": true,
+        "selected": {
+          "pair": "SHIB/USDT",
+          "volume_usd_24h": 1599377.0,
+          "spread_pct": 0.019833,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "SHIB/USDC",
+            "volume_usd_24h": 29118.0,
+            "spread_pct": 0.059536,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "SHIB/USDT",
+            "volume_usd_24h": 1599377.0,
+            "spread_pct": 0.019833,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "crypto-com-chain",
+        "name": "Cronos",
+        "rank": 37,
+        "eligible": true,
+        "selected": {
+          "pair": "CRO/USDT",
+          "volume_usd_24h": 1017231.0,
+          "spread_pct": 0.086311,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "CRO/USDC",
+            "volume_usd_24h": 16836.49,
+            "spread_pct": 0.294067,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CRO/USDT",
+            "volume_usd_24h": 1017231.0,
+            "spread_pct": 0.086311,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bitway",
+        "name": "Bitway",
+        "rank": 38,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "quant-network",
+        "name": "Quant",
+        "rank": 39,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "paypal-usd",
+        "name": "PayPal USD",
+        "rank": 40,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "PYUSD/USDT",
+            "volume_usd_24h": 60898.0,
+            "spread_pct": 0.019992,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ethena",
+        "name": "Ethena",
+        "rank": 41,
+        "eligible": true,
+        "selected": {
+          "pair": "ENA/USDT",
+          "volume_usd_24h": 6190630.0,
+          "spread_pct": 0.026694,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ENA/USDC",
+            "volume_usd_24h": 520687.0,
+            "spread_pct": 0.05343,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ENA/USDT",
+            "volume_usd_24h": 6190630.0,
+            "spread_pct": 0.026694,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "ripple-usd",
+        "name": "Ripple USD",
+        "rank": 42,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "RLUSD/USDT",
+            "volume_usd_24h": 1635828.0,
+            "spread_pct": 0.019989,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "okb",
+        "name": "OKB",
+        "rank": 43,
+        "eligible": true,
+        "selected": {
+          "pair": "OKB/USDT",
+          "volume_usd_24h": 12739032.0,
+          "spread_pct": 0.018784,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "OKB/USDC",
+            "volume_usd_24h": 147959.0,
+            "spread_pct": 0.061533,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "OKB/USDT",
+            "volume_usd_24h": 12739032.0,
+            "spread_pct": 0.018784,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "hashnote-usyc",
+        "name": "Circle USYC",
+        "rank": 44,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ondo-us-dollar-yield",
+        "name": "Ondo US Dollar Yield",
+        "rank": 45,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "aave",
+        "name": "Aave",
+        "rank": 46,
+        "eligible": true,
+        "selected": {
+          "pair": "AAVE/USDT",
+          "volume_usd_24h": 2249224.0,
+          "spread_pct": 0.020047,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "AAVE/USDC",
+            "volume_usd_24h": 173812.0,
+            "spread_pct": 0.060237,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "AAVE/USDT",
+            "volume_usd_24h": 2249224.0,
+            "spread_pct": 0.020047,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "blackrock-usd-institutional-digital-liquidity-fund",
+        "name": "BlackRock USD Institutional Digital Liquidity Fund",
+        "rank": 47,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ondo-finance",
+        "name": "Ondo",
+        "rank": 48,
+        "eligible": true,
+        "selected": {
+          "pair": "ONDO/USDT",
+          "volume_usd_24h": 3940795.0,
+          "spread_pct": 0.022805,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ONDO/USDC",
+            "volume_usd_24h": 774180.0,
+            "spread_pct": 0.068556,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ONDO/USDT",
+            "volume_usd_24h": 3940795.0,
+            "spread_pct": 0.022805,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "pump-fun",
+        "name": "Pump.fun",
+        "rank": 49,
+        "eligible": true,
+        "selected": {
+          "pair": "PUMP/USDT",
+          "volume_usd_24h": 12375425.0,
+          "spread_pct": 0.06737,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "PUMP/USDC",
+            "volume_usd_24h": 1812413.0,
+            "spread_pct": 0.06731,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "PUMP/USDT",
+            "volume_usd_24h": 12375425.0,
+            "spread_pct": 0.06737,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "worldcoin-wld",
+        "name": "Worldcoin",
+        "rank": 50,
+        "eligible": true,
+        "selected": {
+          "pair": "WLD/USDT",
+          "volume_usd_24h": 15461181.0,
+          "spread_pct": 0.019604,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "WLD/USDC",
+            "volume_usd_24h": 503326.0,
+            "spread_pct": 0.137309,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "WLD/USDT",
+            "volume_usd_24h": 15461181.0,
+            "spread_pct": 0.019604,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "rank": 51,
+        "eligible": true,
+        "selected": {
+          "pair": "DOT/USDT",
+          "volume_usd_24h": 2996972.0,
+          "spread_pct": 0.018843,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "DOT/USDC",
+            "volume_usd_24h": 218250.0,
+            "spread_pct": 0.035398,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "DOT/USDT",
+            "volume_usd_24h": 2996972.0,
+            "spread_pct": 0.018843,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "aster-2",
+        "name": "Aster",
+        "rank": 52,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ASTER/USDC",
+            "volume_usd_24h": 96825.0,
+            "spread_pct": 0.057176,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ASTER/USDT",
+            "volume_usd_24h": 704822.0,
+            "spread_pct": 0.02858,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "falcon-finance",
+        "name": "Falcon USD",
+        "rank": 53,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "pax-gold",
+        "name": "PAX Gold",
+        "rank": 54,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "PAXG/USDT",
+            "volume_usd_24h": 694153.0,
+            "spread_pct": 0.017213,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "PAXG/USDT",
+            "volume_usd_24h": 693984.0,
+            "spread_pct": 0.017213,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "world-liberty-financial",
+        "name": "World Liberty Financial",
+        "rank": 55,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "WLFI/USDC",
+            "volume_usd_24h": 112185.0,
+            "spread_pct": 0.157867,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "WLFI/USDT",
+            "volume_usd_24h": 665327.0,
+            "spread_pct": 0.035082,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "usdd",
+        "name": "USDD",
+        "rank": 56,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "mantle",
+        "name": "Mantle",
+        "rank": 57,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "pepe",
+        "name": "Pepe",
+        "rank": 58,
+        "eligible": true,
+        "selected": {
+          "pair": "PEPE/USDT",
+          "volume_usd_24h": 11573248.0,
+          "spread_pct": 0.024108,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "PEPE/USDC",
+            "volume_usd_24h": 229704.0,
+            "spread_pct": 0.04914,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "PEPE/USDT",
+            "volume_usd_24h": 11573248.0,
+            "spread_pct": 0.024108,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "morpho",
+        "name": "Morpho",
+        "rank": 59,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "MORPHO/USDC",
+            "volume_usd_24h": 144584.0,
+            "spread_pct": 0.21586,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "MORPHO/USDT",
+            "volume_usd_24h": 988298.0,
+            "spread_pct": 0.036972,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "spiko-amundi-overnight-swap-fund-eur",
+        "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+        "rank": 60,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "sky",
+        "name": "Sky",
+        "rank": 61,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "SKY/USDC",
+            "volume_usd_24h": 28458.0,
+            "spread_pct": 0.46935,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "SKY/USDT",
+            "volume_usd_24h": 151254.0,
+            "spread_pct": 0.056988,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "internet-computer",
+        "name": "Internet Computer",
+        "rank": 62,
+        "eligible": true,
+        "selected": {
+          "pair": "ICP/USDT",
+          "volume_usd_24h": 1671037.0,
+          "spread_pct": 0.069252,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ICP/USDC",
+            "volume_usd_24h": 183319.0,
+            "spread_pct": 0.17331,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ICP/USDT",
+            "volume_usd_24h": 1671037.0,
+            "spread_pct": 0.069252,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "memecore",
+        "name": "MemeCore",
+        "rank": 63,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "united-stables",
+        "name": "United Stables",
+        "rank": 64,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "htx-dao",
+        "name": "HTX DAO",
+        "rank": 65,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "rank": 66,
+        "eligible": true,
+        "selected": {
+          "pair": "ARB/USDT",
+          "volume_usd_24h": 7328410.0,
+          "spread_pct": 0.015096,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ARB/USDC",
+            "volume_usd_24h": 480746.0,
+            "spread_pct": 0.056223,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ARB/USDT",
+            "volume_usd_24h": 7328410.0,
+            "spread_pct": 0.015096,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bfusd",
+        "name": "BFUSD",
+        "rank": 67,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "bitget-token",
+        "name": "Bitget Token",
+        "rank": 68,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "usdgo",
+        "name": "USDGO",
+        "rank": 69,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "rank": 70,
+        "eligible": true,
+        "selected": {
+          "pair": "ETC/USDT",
+          "volume_usd_24h": 1051703.0,
+          "spread_pct": 0.025833,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ETC/USDC",
+            "volume_usd_24h": 3282.12,
+            "spread_pct": 0.297004,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ETC/USDT",
+            "volume_usd_24h": 1051703.0,
+            "spread_pct": 0.025833,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "venice-token",
+        "name": "Venice Token",
+        "rank": 71,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "VVV/USDT",
+            "volume_usd_24h": 954754.0,
+            "spread_pct": 0.084282,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "just",
+        "name": "JUST",
+        "rank": 72,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "gatechain-token",
+        "name": "Gate",
+        "rank": 73,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "kucoin-shares",
+        "name": "KuCoin",
+        "rank": 74,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "kaspa",
+        "name": "Kaspa",
+        "rank": 75,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "algorand",
+        "name": "Algorand",
+        "rank": 76,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ALGO/USDC",
+            "volume_usd_24h": 97748.0,
+            "spread_pct": 0.128111,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ALGO/USDT",
+            "volume_usd_24h": 506791.0,
+            "spread_pct": 0.045725,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "jupiter-exchange-solana",
+        "name": "Jupiter",
+        "rank": 77,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "JUP/USDC",
+            "volume_usd_24h": 40487.0,
+            "spread_pct": 0.437122,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "JUP/USDT",
+            "volume_usd_24h": 727242.0,
+            "spread_pct": 0.101044,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "polygon-ecosystem-token",
+        "name": "POL (ex-MATIC)",
+        "rank": 78,
+        "eligible": true,
+        "selected": {
+          "pair": "POL/USDT",
+          "volume_usd_24h": 1279889.0,
+          "spread_pct": 0.032436,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "POL/USDC",
+            "volume_usd_24h": 7325.06,
+            "spread_pct": 0.140389,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "POL/USDT",
+            "volume_usd_24h": 1279889.0,
+            "spread_pct": 0.032436,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "blockchain-capital",
+        "name": "Blockchain Capital",
+        "rank": 79,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "cosmos",
+        "name": "Cosmos Hub",
+        "rank": 80,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ATOM/USDC",
+            "volume_usd_24h": 85177.0,
+            "spread_pct": 0.057078,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ATOM/USDT",
+            "volume_usd_24h": 682685.0,
+            "spread_pct": 0.11409,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "render-token",
+        "name": "Render",
+        "rank": 81,
+        "eligible": true,
+        "selected": {
+          "pair": "RENDER/USDT",
+          "volume_usd_24h": 1281831.0,
+          "spread_pct": 0.055402,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "RENDER/USDC",
+            "volume_usd_24h": 297124.0,
+            "spread_pct": 0.166205,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "RENDER/USDT",
+            "volume_usd_24h": 1281831.0,
+            "spread_pct": 0.055402,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "pi-network",
+        "name": "Pi Network",
+        "rank": 82,
+        "eligible": true,
+        "selected": {
+          "pair": "PI/USDT",
+          "volume_usd_24h": 1462090.0,
+          "spread_pct": 0.051256,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "PI/USDC",
+            "volume_usd_24h": 22711.0,
+            "spread_pct": 0.217865,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "PI/USDT",
+            "volume_usd_24h": 1462090.0,
+            "spread_pct": 0.051256,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "filecoin",
+        "name": "Filecoin",
+        "rank": 83,
+        "eligible": true,
+        "selected": {
+          "pair": "FIL/USDT",
+          "volume_usd_24h": 9886366.0,
+          "spread_pct": 0.019606,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "FIL/USDC",
+            "volume_usd_24h": 200264.0,
+            "spread_pct": 0.196098,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "FIL/USDT",
+            "volume_usd_24h": 9886366.0,
+            "spread_pct": 0.019606,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "injective-protocol",
+        "name": "Injective",
+        "rank": 84,
+        "eligible": true,
+        "selected": {
+          "pair": "INJ/USDT",
+          "volume_usd_24h": 3142430.0,
+          "spread_pct": 0.046512,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "INJ/USDC",
+            "volume_usd_24h": 572692.0,
+            "spread_pct": 0.082382,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "INJ/USDT",
+            "volume_usd_24h": 3142430.0,
+            "spread_pct": 0.046512,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "open-usd",
+        "name": "Open USD",
+        "rank": 85,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "superstate-short-duration-us-government-securities-fund-ustb",
+        "name": "Invesco Short Duration US Government Securities Fund",
+        "rank": 86,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "nexo",
+        "name": "NEXO",
+        "rank": 87,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "aerodrome-finance",
+        "name": "Aerodrome Finance",
+        "rank": 88,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "lighter",
+        "name": "Lighter",
+        "rank": 89,
+        "eligible": true,
+        "selected": {
+          "pair": "LIT/USDT",
+          "volume_usd_24h": 7266238.0,
+          "spread_pct": 0.019555,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "LIT/USDC",
+            "volume_usd_24h": 466147.0,
+            "spread_pct": 0.078303,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LIT/USDT",
+            "volume_usd_24h": 7266238.0,
+            "spread_pct": 0.019555,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "layerzero",
+        "name": "LayerZero",
+        "rank": 90,
+        "eligible": true,
+        "selected": {
+          "pair": "ZRO/USDT",
+          "volume_usd_24h": 3476770.0,
+          "spread_pct": 0.037854,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ZRO/USDC",
+            "volume_usd_24h": 475341.0,
+            "spread_pct": 0.032408,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ZRO/USDT",
+            "volume_usd_24h": 3476770.0,
+            "spread_pct": 0.037854,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "gho",
+        "name": "GHO",
+        "rank": 91,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "blockstack",
+        "name": "Stacks",
+        "rank": 92,
+        "eligible": true,
+        "selected": {
+          "pair": "STX/USDT",
+          "volume_usd_24h": 2455400.0,
+          "spread_pct": 0.079156,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "STX/USDC",
+            "volume_usd_24h": 56291.0,
+            "spread_pct": 0.107904,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "STX/USDT",
+            "volume_usd_24h": 2455400.0,
+            "spread_pct": 0.079156,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "pancakeswap-token",
+        "name": "PancakeSwap",
+        "rank": 93,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "aptos",
+        "name": "Aptos",
+        "rank": 94,
+        "eligible": true,
+        "selected": {
+          "pair": "APT/USDT",
+          "volume_usd_24h": 2093965.0,
+          "spread_pct": 0.064842,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "APT/USDC",
+            "volume_usd_24h": 51166.0,
+            "spread_pct": 0.311244,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "APT/USDT",
+            "volume_usd_24h": 2093965.0,
+            "spread_pct": 0.064842,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "akedo",
+        "name": "Akedo",
+        "rank": 95,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ether-fi",
+        "name": "Ether.fi",
+        "rank": 96,
+        "eligible": true,
+        "selected": {
+          "pair": "ETHFI/USDT",
+          "volume_usd_24h": 1846563.0,
+          "spread_pct": 0.043497,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ETHFI/USDC",
+            "volume_usd_24h": 2910.13,
+            "spread_pct": 0.708195,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ETHFI/USDT",
+            "volume_usd_24h": 1846563.0,
+            "spread_pct": 0.043497,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "midnight-3",
+        "name": "Midnight",
+        "rank": 97,
+        "eligible": true,
+        "selected": {
+          "pair": "NIGHT/USDT",
+          "volume_usd_24h": 1608556.0,
+          "spread_pct": 0.012496,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "NIGHT/USDC",
+            "volume_usd_24h": 50352.0,
+            "spread_pct": 0.591878,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "NIGHT/USDT",
+            "volume_usd_24h": 1608556.0,
+            "spread_pct": 0.012496,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "xdce-crowd-sale",
+        "name": "XDC Network",
+        "rank": 98,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "pearl-2",
+        "name": "Pearl",
+        "rank": 99,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "dash",
+        "name": "Dash",
+        "rank": 100,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "DASH/USDC",
+            "volume_usd_24h": 15039.1,
+            "spread_pct": 0.2443,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "DASH/USDT",
+            "volume_usd_24h": 395795.0,
+            "spread_pct": 0.061087,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      }
+    ],
+    "kraken": [
+      {
+        "id": "bitcoin",
+        "name": "Bitcoin",
+        "rank": 1,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ethereum",
+        "name": "Ethereum",
+        "rank": 2,
+        "eligible": true,
+        "selected": {
+          "pair": "ETH/USD",
+          "volume_usd_24h": 55016574.0,
+          "spread_pct": 0.010416,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ETH/USD",
+            "volume_usd_24h": 55016574.0,
+            "spread_pct": 0.010416,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "ETH/USDC",
+            "volume_usd_24h": 10950779.0,
+            "spread_pct": 0.017906,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "ETH/USDT",
+            "volume_usd_24h": 2256539.0,
+            "spread_pct": 0.010416,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tether",
+        "name": "Tether",
+        "rank": 3,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDT/USD",
+            "volume_usd_24h": 95027710.0,
+            "spread_pct": 0.011001,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "binancecoin",
+        "name": "BNB",
+        "rank": 4,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "BNB/USD",
+            "volume_usd_24h": 936284.0,
+            "spread_pct": 0.011377,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BNB/USDC",
+            "volume_usd_24h": 53801.0,
+            "spread_pct": 0.272371,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BNB/USDT",
+            "volume_usd_24h": 9342.05,
+            "spread_pct": 0.169042,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ripple",
+        "name": "XRP",
+        "rank": 5,
+        "eligible": true,
+        "selected": {
+          "pair": "XRP/USD",
+          "volume_usd_24h": 24709404.0,
+          "spread_pct": 0.017725,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XRP/USD",
+            "volume_usd_24h": 24709404.0,
+            "spread_pct": 0.017725,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "XRP/USDC",
+            "volume_usd_24h": 1310000.0,
+            "spread_pct": 0.031661,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "XRP/USDT",
+            "volume_usd_24h": 1069380.0,
+            "spread_pct": 0.015401,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "usd-coin",
+        "name": "USDC",
+        "rank": 6,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDC/USD",
+            "volume_usd_24h": 93798999.0,
+            "spread_pct": 0.010001,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "USDC/USDT",
+            "volume_usd_24h": 16518859.0,
+            "spread_pct": 0.01999,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "solana",
+        "name": "Solana",
+        "rank": 7,
+        "eligible": true,
+        "selected": {
+          "pair": "SOL/USD",
+          "volume_usd_24h": 24416439.0,
+          "spread_pct": 0.01917,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "SOL/USD",
+            "volume_usd_24h": 24416439.0,
+            "spread_pct": 0.01917,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "SOL/USDC",
+            "volume_usd_24h": 2706022.0,
+            "spread_pct": 0.019166,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "SOL/USDT",
+            "volume_usd_24h": 1376366.0,
+            "spread_pct": 0.019574,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tron",
+        "name": "TRON",
+        "rank": 8,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "TRX/USD",
+            "volume_usd_24h": 725618.0,
+            "spread_pct": 0.010301,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "figure-heloc",
+        "name": "Figure Heloc",
+        "rank": 9,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "zcash",
+        "name": "Zcash",
+        "rank": 10,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "hyperliquid",
+        "name": "Hyperliquid",
+        "rank": 11,
+        "eligible": true,
+        "selected": {
+          "pair": "HYPE/USD",
+          "volume_usd_24h": 8357772.0,
+          "spread_pct": 0.012641,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "HYPE/USD",
+            "volume_usd_24h": 8357772.0,
+            "spread_pct": 0.012641,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "dogecoin",
+        "name": "Dogecoin",
+        "rank": 12,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "monero",
+        "name": "Monero",
+        "rank": 13,
+        "eligible": true,
+        "selected": {
+          "pair": "XMR/USD",
+          "volume_usd_24h": 4098845.0,
+          "spread_pct": 0.091133,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XMR/USD",
+            "volume_usd_24h": 4098845.0,
+            "spread_pct": 0.091133,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "XMR/USDC",
+            "volume_usd_24h": 377289.0,
+            "spread_pct": 0.209067,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "XMR/USDT",
+            "volume_usd_24h": 2368280.0,
+            "spread_pct": 0.089391,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "usds",
+        "name": "USDS",
+        "rank": 14,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDS/USD",
+            "volume_usd_24h": 25.53,
+            "spread_pct": 0.020001,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "whitebit",
+        "name": "WhiteBIT Coin",
+        "rank": 15,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "WBT/USD",
+            "volume_usd_24h": 54037.0,
+            "spread_pct": 0.099963,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "rank": 16,
+        "eligible": true,
+        "selected": {
+          "pair": "LINK/USD",
+          "volume_usd_24h": 3554827.0,
+          "spread_pct": 0.039361,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "LINK/USD",
+            "volume_usd_24h": 3554827.0,
+            "spread_pct": 0.039361,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "LINK/USDC",
+            "volume_usd_24h": 212324.0,
+            "spread_pct": 0.067849,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LINK/USDT",
+            "volume_usd_24h": 282183.0,
+            "spread_pct": 0.047391,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "leo-token",
+        "name": "LEO Token",
+        "rank": 17,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "cardano",
+        "name": "Cardano",
+        "rank": 18,
+        "eligible": true,
+        "selected": {
+          "pair": "ADA/USD",
+          "volume_usd_24h": 4435029.0,
+          "spread_pct": 0.033544,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ADA/USD",
+            "volume_usd_24h": 4435029.0,
+            "spread_pct": 0.033544,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "ADA/USDC",
+            "volume_usd_24h": 524152.0,
+            "spread_pct": 0.032151,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ADA/USDT",
+            "volume_usd_24h": 383653.0,
+            "spread_pct": 0.043593,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "near",
+        "name": "NEAR Protocol",
+        "rank": 19,
+        "eligible": true,
+        "selected": {
+          "pair": "NEAR/USD",
+          "volume_usd_24h": 21317960.0,
+          "spread_pct": 0.04648,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "NEAR/USD",
+            "volume_usd_24h": 21317960.0,
+            "spread_pct": 0.04648,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "rain",
+        "name": "Rain",
+        "rank": 20,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "stellar",
+        "name": "Stellar",
+        "rank": 21,
+        "eligible": true,
+        "selected": {
+          "pair": "XLM/USD",
+          "volume_usd_24h": 4692326.0,
+          "spread_pct": 0.025051,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "XLM/USD",
+            "volume_usd_24h": 4692326.0,
+            "spread_pct": 0.025051,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "rank": 22,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "BCH/USD",
+            "volume_usd_24h": 547157.0,
+            "spread_pct": 0.057674,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BCH/USDC",
+            "volume_usd_24h": 60552.0,
+            "spread_pct": 0.587028,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BCH/USDT",
+            "volume_usd_24h": 51586.0,
+            "spread_pct": 0.194161,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "BCH/USDC",
+            "volume_usd_24h": 60549.0,
+            "spread_pct": 0.666256,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ethena-usde",
+        "name": "Ethena USDe",
+        "rank": 23,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDE/USD",
+            "volume_usd_24h": 63136.0,
+            "spread_pct": 0.03,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "USDE/USDC",
+            "volume_usd_24h": 60019.0,
+            "spread_pct": 0.02,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "USDE/USDT",
+            "volume_usd_24h": 36884.0,
+            "spread_pct": 0.019982,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "rank": 24,
+        "eligible": true,
+        "selected": {
+          "pair": "LTC/USD",
+          "volume_usd_24h": 4424284.0,
+          "spread_pct": 0.016683,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "LTC/USD",
+            "volume_usd_24h": 4424284.0,
+            "spread_pct": 0.016683,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "LTC/USDC",
+            "volume_usd_24h": 138925.0,
+            "spread_pct": 0.126713,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "LTC/USDT",
+            "volume_usd_24h": 349205.0,
+            "spread_pct": 0.023995,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "rank": 25,
+        "eligible": true,
+        "selected": {
+          "pair": "UNI/USD",
+          "volume_usd_24h": 4034603.0,
+          "spread_pct": 0.05419,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "UNI/USD",
+            "volume_usd_24h": 4034603.0,
+            "spread_pct": 0.05419,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "dai",
+        "name": "Dai",
+        "rank": 26,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "DAI/USD",
+            "volume_usd_24h": 72174.0,
+            "spread_pct": 0.018001,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "DAI/USDT",
+            "volume_usd_24h": 97522.0,
+            "spread_pct": 0.016983,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "avalanche-2",
+        "name": "Avalanche",
+        "rank": 27,
+        "eligible": true,
+        "selected": {
+          "pair": "AVAX/USD",
+          "volume_usd_24h": 2351016.0,
+          "spread_pct": 0.010354,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "AVAX/USD",
+            "volume_usd_24h": 2351016.0,
+            "spread_pct": 0.010354,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "AVAX/USDC",
+            "volume_usd_24h": 199355.0,
+            "spread_pct": 0.020704,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "AVAX/USDT",
+            "volume_usd_24h": 107104.0,
+            "spread_pct": 0.010343,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "canton-network",
+        "name": "Canton",
+        "rank": 28,
+        "eligible": true,
+        "selected": {
+          "pair": "CC/USD",
+          "volume_usd_24h": 1326213.0,
+          "spread_pct": 0.047371,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "CC/USD",
+            "volume_usd_24h": 1326213.0,
+            "spread_pct": 0.047371,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "CC/USDC",
+            "volume_usd_24h": 49251.0,
+            "spread_pct": 0.481359,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CC/USDT",
+            "volume_usd_24h": 10040.09,
+            "spread_pct": 0.104029,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "sui",
+        "name": "Sui",
+        "rank": 29,
+        "eligible": true,
+        "selected": {
+          "pair": "SUI/USD",
+          "volume_usd_24h": 15953240.0,
+          "spread_pct": 0.030528,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "SUI/USD",
+            "volume_usd_24h": 15953240.0,
+            "spread_pct": 0.030528,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "usd1-wlfi",
+        "name": "USD1",
+        "rank": 30,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USD1/USD",
+            "volume_usd_24h": 1416.15,
+            "spread_pct": 0.020026,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "USD1/USDC",
+            "volume_usd_24h": 437.78,
+            "spread_pct": 0.020022,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "the-open-network",
+        "name": "Gram (prev. Toncoin)",
+        "rank": 31,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "TON/USD",
+            "volume_usd_24h": 346073.0,
+            "spread_pct": 0.074963,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "TON/USDC",
+            "volume_usd_24h": 47400.0,
+            "spread_pct": 0.299625,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "TON/USDT",
+            "volume_usd_24h": 11399.25,
+            "spread_pct": 0.820896,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "hedera-hashgraph",
+        "name": "Hedera",
+        "rank": 32,
+        "eligible": true,
+        "selected": {
+          "pair": "HBAR/USD",
+          "volume_usd_24h": 3643743.0,
+          "spread_pct": 0.04821,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "HBAR/USD",
+            "volume_usd_24h": 3643743.0,
+            "spread_pct": 0.04821,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "tether-gold",
+        "name": "Tether Gold",
+        "rank": 33,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "XAUT/USD",
+            "volume_usd_24h": 126435.0,
+            "spread_pct": 0.017242,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "XAUT/USDT",
+            "volume_usd_24h": 57322.0,
+            "spread_pct": 0.012411,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "global-dollar",
+        "name": "Global Dollar",
+        "rank": 34,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDG/USD",
+            "volume_usd_24h": 1071549.0,
+            "spread_pct": 0.02,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "USDG/USDC",
+            "volume_usd_24h": 719054.0,
+            "spread_pct": 0.019998,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "USDG/USDT",
+            "volume_usd_24h": 586188.0,
+            "spread_pct": 0.019988,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "bittensor",
+        "name": "Bittensor",
+        "rank": 35,
+        "eligible": true,
+        "selected": {
+          "pair": "TAO/USD",
+          "volume_usd_24h": 6946296.0,
+          "spread_pct": 0.033142,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "TAO/USD",
+            "volume_usd_24h": 6946296.0,
+            "spread_pct": 0.033142,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "shiba-inu",
+        "name": "Shiba Inu",
+        "rank": 36,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "SHIB/USD",
+            "volume_usd_24h": 437658.0,
+            "spread_pct": 0.040024,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "SHIB/USDC",
+            "volume_usd_24h": 12439.59,
+            "spread_pct": 0.179964,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "SHIB/USDT",
+            "volume_usd_24h": 3506.6,
+            "spread_pct": 0.299401,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "crypto-com-chain",
+        "name": "Cronos",
+        "rank": 37,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "CRO/USD",
+            "volume_usd_24h": 131272.0,
+            "spread_pct": 0.786728,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CRO/USDC",
+            "volume_usd_24h": 7191.36,
+            "spread_pct": 0.974026,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CRO/USDT",
+            "volume_usd_24h": 5630.95,
+            "spread_pct": 1.427358,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "CRO/USDT",
+            "volume_usd_24h": 5630.67,
+            "spread_pct": 0.947786,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "bitway",
+        "name": "Bitway",
+        "rank": 38,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "quant-network",
+        "name": "Quant",
+        "rank": 39,
+        "eligible": true,
+        "selected": {
+          "pair": "QNT/USD",
+          "volume_usd_24h": 8383948.0,
+          "spread_pct": 0.040675,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "QNT/USD",
+            "volume_usd_24h": 8383948.0,
+            "spread_pct": 0.040675,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "paypal-usd",
+        "name": "PayPal USD",
+        "rank": 40,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "PYUSD/USD",
+            "volume_usd_24h": 32204.0,
+            "spread_pct": 0.029994,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ethena",
+        "name": "Ethena",
+        "rank": 41,
+        "eligible": true,
+        "selected": {
+          "pair": "ENA/USD",
+          "volume_usd_24h": 2334970.0,
+          "spread_pct": 0.053476,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ENA/USD",
+            "volume_usd_24h": 2334970.0,
+            "spread_pct": 0.053476,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "ripple-usd",
+        "name": "Ripple USD",
+        "rank": 42,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "RLUSD/USD",
+            "volume_usd_24h": 24526.0,
+            "spread_pct": 0.015,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "RLUSD/USDC",
+            "volume_usd_24h": 132.46,
+            "spread_pct": 0.016996,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "RLUSD/USDT",
+            "volume_usd_24h": 74212.0,
+            "spread_pct": 0.010988,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "okb",
+        "name": "OKB",
+        "rank": 43,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "OKB/USD",
+            "volume_usd_24h": 9695.31,
+            "spread_pct": 0.629701,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "OKB/USD",
+            "volume_usd_24h": 9695.81,
+            "spread_pct": 0.819817,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "hashnote-usyc",
+        "name": "Circle USYC",
+        "rank": 44,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ondo-us-dollar-yield",
+        "name": "Ondo US Dollar Yield",
+        "rank": 45,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "aave",
+        "name": "Aave",
+        "rank": 46,
+        "eligible": true,
+        "selected": {
+          "pair": "AAVE/USD",
+          "volume_usd_24h": 1174718.0,
+          "spread_pct": 0.040134,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "AAVE/USD",
+            "volume_usd_24h": 1174718.0,
+            "spread_pct": 0.040134,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "blackrock-usd-institutional-digital-liquidity-fund",
+        "name": "BlackRock USD Institutional Digital Liquidity Fund",
+        "rank": 47,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "ondo-finance",
+        "name": "Ondo",
+        "rank": 48,
+        "eligible": true,
+        "selected": {
+          "pair": "ONDO/USD",
+          "volume_usd_24h": 1616005.0,
+          "spread_pct": 0.016112,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ONDO/USD",
+            "volume_usd_24h": 1616005.0,
+            "spread_pct": 0.016112,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "pump-fun",
+        "name": "Pump.fun",
+        "rank": 49,
+        "eligible": true,
+        "selected": {
+          "pair": "PUMP/USD",
+          "volume_usd_24h": 8944674.0,
+          "spread_pct": 0.089948,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "PUMP/USD",
+            "volume_usd_24h": 8944674.0,
+            "spread_pct": 0.089948,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "worldcoin-wld",
+        "name": "Worldcoin",
+        "rank": 50,
+        "eligible": true,
+        "selected": {
+          "pair": "WLD/USD",
+          "volume_usd_24h": 2980063.0,
+          "spread_pct": 0.119119,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "WLD/USD",
+            "volume_usd_24h": 2980063.0,
+            "spread_pct": 0.119119,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "rank": 51,
+        "eligible": true,
+        "selected": {
+          "pair": "DOT/USD",
+          "volume_usd_24h": 1213575.0,
+          "spread_pct": 0.026586,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "DOT/USD",
+            "volume_usd_24h": 1213575.0,
+            "spread_pct": 0.026586,
+            "fresh": true,
+            "eligible": true
+          },
+          {
+            "pair": "DOT/USDC",
+            "volume_usd_24h": 92491.0,
+            "spread_pct": 0.079695,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "DOT/USDT",
+            "volume_usd_24h": 167480.0,
+            "spread_pct": 0.053088,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "aster-2",
+        "name": "Aster",
+        "rank": 52,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ASTER/USD",
+            "volume_usd_24h": 286944.0,
+            "spread_pct": 0.040053,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "falcon-finance",
+        "name": "Falcon USD",
+        "rank": 53,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "pax-gold",
+        "name": "PAX Gold",
+        "rank": 54,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "PAXG/USD",
+            "volume_usd_24h": 479495.0,
+            "spread_pct": 0.012169,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "world-liberty-financial",
+        "name": "World Liberty Financial",
+        "rank": 55,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "WLFI/USD",
+            "volume_usd_24h": 101373.0,
+            "spread_pct": 0.181488,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "usdd",
+        "name": "USDD",
+        "rank": 56,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDD/USD",
+            "volume_usd_24h": 2130.78,
+            "spread_pct": 1.187625,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "mantle",
+        "name": "Mantle",
+        "rank": 57,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "MNT/USD",
+            "volume_usd_24h": 82091.0,
+            "spread_pct": 0.074794,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "pepe",
+        "name": "Pepe",
+        "rank": 58,
+        "eligible": true,
+        "selected": {
+          "pair": "PEPE/USD",
+          "volume_usd_24h": 1133139.0,
+          "spread_pct": 0.048745,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "PEPE/USD",
+            "volume_usd_24h": 1133139.0,
+            "spread_pct": 0.048745,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "morpho",
+        "name": "Morpho",
+        "rank": 59,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "MORPHO/USD",
+            "volume_usd_24h": 358648.0,
+            "spread_pct": 0.215974,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "spiko-amundi-overnight-swap-fund-eur",
+        "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+        "rank": 60,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "sky",
+        "name": "Sky",
+        "rank": 61,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "SKY/USD",
+            "volume_usd_24h": 213045.0,
+            "spread_pct": 0.057061,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "internet-computer",
+        "name": "Internet Computer",
+        "rank": 62,
+        "eligible": true,
+        "selected": {
+          "pair": "ICP/USD",
+          "volume_usd_24h": 1287415.0,
+          "spread_pct": 0.035014,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ICP/USD",
+            "volume_usd_24h": 1287415.0,
+            "spread_pct": 0.035014,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "memecore",
+        "name": "MemeCore",
+        "rank": 63,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "united-stables",
+        "name": "United Stables",
+        "rank": 64,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USTABLES/USD",
+            "volume_usd_24h": 5.3,
+            "spread_pct": 0.026011,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "htx-dao",
+        "name": "HTX DAO",
+        "rank": 65,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "rank": 66,
+        "eligible": true,
+        "selected": {
+          "pair": "ARB/USD",
+          "volume_usd_24h": 1882628.0,
+          "spread_pct": 0.101989,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "ARB/USD",
+            "volume_usd_24h": 1882628.0,
+            "spread_pct": 0.101989,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "bfusd",
+        "name": "BFUSD",
+        "rank": 67,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "bitget-token",
+        "name": "Bitget Token",
+        "rank": 68,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "BGB/USD",
+            "volume_usd_24h": 819.04,
+            "spread_pct": 0.265252,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "usdgo",
+        "name": "USDGO",
+        "rank": 69,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "USDGO/USD",
+            "volume_usd_24h": 2018.31,
+            "spread_pct": 0.018,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "rank": 70,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ETC/USD",
+            "volume_usd_24h": 91079.0,
+            "spread_pct": 0.232558,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "venice-token",
+        "name": "Venice Token",
+        "rank": 71,
+        "eligible": true,
+        "selected": {
+          "pair": "VVV/USD",
+          "volume_usd_24h": 2567876.0,
+          "spread_pct": 0.150635,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "VVV/USD",
+            "volume_usd_24h": 2567876.0,
+            "spread_pct": 0.150635,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "just",
+        "name": "JUST",
+        "rank": 72,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "JST/USD",
+            "volume_usd_24h": 21730.0,
+            "spread_pct": 0.286615,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "gatechain-token",
+        "name": "Gate",
+        "rank": 73,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "kucoin-shares",
+        "name": "KuCoin",
+        "rank": 74,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "kaspa",
+        "name": "Kaspa",
+        "rank": 75,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "KAS/USD",
+            "volume_usd_24h": 906152.0,
+            "spread_pct": 0.056164,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "KAS/USDT",
+            "volume_usd_24h": 68915.0,
+            "spread_pct": 0.140924,
+            "fresh": false,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "algorand",
+        "name": "Algorand",
+        "rank": 76,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ALGO/USD",
+            "volume_usd_24h": 762475.0,
+            "spread_pct": 0.082365,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ALGO/USDC",
+            "volume_usd_24h": 41460.0,
+            "spread_pct": 0.401313,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ALGO/USDT",
+            "volume_usd_24h": 120983.0,
+            "spread_pct": 0.109639,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "jupiter-exchange-solana",
+        "name": "Jupiter",
+        "rank": 77,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "JUP/USD",
+            "volume_usd_24h": 338451.0,
+            "spread_pct": 0.104532,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "polygon-ecosystem-token",
+        "name": "POL (ex-MATIC)",
+        "rank": 78,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "POL/USD",
+            "volume_usd_24h": 303562.0,
+            "spread_pct": 0.13052,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "blockchain-capital",
+        "name": "Blockchain Capital",
+        "rank": 79,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "cosmos",
+        "name": "Cosmos Hub",
+        "rank": 80,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ATOM/USD",
+            "volume_usd_24h": 466058.0,
+            "spread_pct": 0.057081,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ATOM/USDC",
+            "volume_usd_24h": 10395.14,
+            "spread_pct": 0.199612,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "ATOM/USDT",
+            "volume_usd_24h": 96064.0,
+            "spread_pct": 0.051349,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "render-token",
+        "name": "Render",
+        "rank": 81,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "RENDER/USD",
+            "volume_usd_24h": 769637.0,
+            "spread_pct": 0.111545,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "pi-network",
+        "name": "Pi Network",
+        "rank": 82,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "PI/USD",
+            "volume_usd_24h": 25620.0,
+            "spread_pct": 0.11537,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "filecoin",
+        "name": "Filecoin",
+        "rank": 83,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "FIL/USD",
+            "volume_usd_24h": 720481.0,
+            "spread_pct": 0.098135,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "injective-protocol",
+        "name": "Injective",
+        "rank": 84,
+        "eligible": true,
+        "selected": {
+          "pair": "INJ/USD",
+          "volume_usd_24h": 6737791.0,
+          "spread_pct": 0.07068,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "INJ/USD",
+            "volume_usd_24h": 6737791.0,
+            "spread_pct": 0.07068,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "open-usd",
+        "name": "Open USD",
+        "rank": 85,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "OUSD/USD",
+            "volume_usd_24h": 60.55,
+            "spread_pct": 0.02,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "superstate-short-duration-us-government-securities-fund-ustb",
+        "name": "Invesco Short Duration US Government Securities Fund",
+        "rank": 86,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "nexo",
+        "name": "NEXO",
+        "rank": 87,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "aerodrome-finance",
+        "name": "Aerodrome Finance",
+        "rank": 88,
+        "eligible": true,
+        "selected": {
+          "pair": "AERO/USD",
+          "volume_usd_24h": 1020597.0,
+          "spread_pct": 0.115459,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "AERO/USD",
+            "volume_usd_24h": 1020597.0,
+            "spread_pct": 0.115459,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "lighter",
+        "name": "Lighter",
+        "rank": 89,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "LIGHTER/USD",
+            "volume_usd_24h": 832944.0,
+            "spread_pct": 0.131062,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "layerzero",
+        "name": "LayerZero",
+        "rank": 90,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "gho",
+        "name": "GHO",
+        "rank": 91,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "stablecoins",
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "blockstack",
+        "name": "Stacks",
+        "rank": 92,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "pancakeswap-token",
+        "name": "PancakeSwap",
+        "rank": 93,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "CAKE/USD",
+            "volume_usd_24h": 39898.0,
+            "spread_pct": 0.046104,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "aptos",
+        "name": "Aptos",
+        "rank": 94,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "APT/USD",
+            "volume_usd_24h": 482176.0,
+            "spread_pct": 0.10395,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "akedo",
+        "name": "Akedo",
+        "rank": 95,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "AKE/USD",
+            "volume_usd_24h": 490472.0,
+            "spread_pct": 0.153154,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "ether-fi",
+        "name": "Ether.fi",
+        "rank": 96,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "ETHFI/USD",
+            "volume_usd_24h": 317060.0,
+            "spread_pct": 0.20284,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "midnight-3",
+        "name": "Midnight",
+        "rank": 97,
+        "eligible": true,
+        "selected": {
+          "pair": "NIGHT/USD",
+          "volume_usd_24h": 1669639.0,
+          "spread_pct": 0.025132,
+          "fresh": true,
+          "eligible": true
+        },
+        "reasons": [],
+        "verified_pairs": [
+          {
+            "pair": "NIGHT/USD",
+            "volume_usd_24h": 1669639.0,
+            "spread_pct": 0.025132,
+            "fresh": true,
+            "eligible": true
+          }
+        ]
+      },
+      {
+        "id": "xdce-crowd-sale",
+        "name": "XDC Network",
+        "rank": 98,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "XDC/USD",
+            "volume_usd_24h": 434851.0,
+            "spread_pct": 0.121655,
+            "fresh": true,
+            "eligible": false
+          },
+          {
+            "pair": "XDC/USDC",
+            "volume_usd_24h": 124176.0,
+            "spread_pct": 0.091185,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      },
+      {
+        "id": "pearl-2",
+        "name": "Pearl",
+        "rank": 99,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "no_identity_verified_USD_USDT_USDC_spot_pair"
+        ],
+        "verified_pairs": []
+      },
+      {
+        "id": "dash",
+        "name": "Dash",
+        "rank": 100,
+        "eligible": false,
+        "selected": null,
+        "reasons": [
+          "fails_current_liquidity_spread_or_freshness_filter"
+        ],
+        "verified_pairs": [
+          {
+            "pair": "DASH/USD",
+            "volume_usd_24h": 587707.0,
+            "spread_pct": 0.067428,
+            "fresh": true,
+            "eligible": false
+          }
+        ]
+      }
+    ]
+  }
+}

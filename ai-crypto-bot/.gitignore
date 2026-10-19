@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+*.log
+*.sqlite*
+.DS_Store
+freqtrade-trial/user_data/plot/
+
+# Preserve research evidence in private version control.
+!freqtrade-trial/data/**/run.log

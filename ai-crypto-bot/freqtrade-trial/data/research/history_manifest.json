@@ -1,0 +1,165 @@
+{
+  "checked_at": "2026-10-19T14:05:55.564658+00:00",
+  "start": "2024-07-01T00:00:00+00:00",
+  "end_exclusive": "2026-10-19T00:00:00+00:00",
+  "selection": "First 20 current eligible assets by market cap, without backfilling exclusions",
+  "assets": [
+    {
+      "id": "bitcoin",
+      "rank": 1,
+      "pair": "BTC/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "a0ec97f0314185c4f80d4ea53cd98a99128f837c2f5fbdebfc6b39bb58881f47"
+    },
+    {
+      "id": "ethereum",
+      "rank": 2,
+      "pair": "ETH/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "b8579de7040c2d03e4eba837a57c268213939f4e11b63ee4c888271db7f7d010"
+    },
+    {
+      "id": "binancecoin",
+      "rank": 4,
+      "pair": "BNB/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "6832c682f2cdad9ae99df3d446ec642cd28b0d7f30c98126fe9506e90570577f"
+    },
+    {
+      "id": "ripple",
+      "rank": 5,
+      "pair": "XRP/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "cdc2ec21fc77b793d2fa89a5bfd381dc6a19b8d0c6a5e232cefc0d6dadc40d98"
+    },
+    {
+      "id": "solana",
+      "rank": 7,
+      "pair": "SOL/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "ae8f484b42410f9eaf183e06a2d57e1cdd5e25cfd6abb1d3780b70c9dc9cf152"
+    },
+    {
+      "id": "tron",
+      "rank": 8,
+      "pair": "TRX/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "67623752b966bac38e0b0a4690ad9c8da7ac1a47322acfe0b27697da7633d0e0"
+    },
+    {
+      "id": "zcash",
+      "rank": 10,
+      "pair": "ZEC/USDT",
+      "status": "excluded",
+      "reason": "No history at required start; not backfilled"
+    },
+    {
+      "id": "hyperliquid",
+      "rank": 11,
+      "pair": "HYPE/USDT",
+      "status": "excluded",
+      "reason": "No history at required start; not backfilled"
+    },
+    {
+      "id": "dogecoin",
+      "rank": 12,
+      "pair": "DOGE/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "86354e482ac817158b30e88d66abd064461f308f88ca860a1dfd9d0175b0adc3"
+    },
+    {
+      "id": "chainlink",
+      "rank": 16,
+      "pair": "LINK/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "f639e6c9d9e26b7224fedb78327c348a06bbca3b5e69c962cfc999bf094c782d"
+    },
+    {
+      "id": "cardano",
+      "rank": 18,
+      "pair": "ADA/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "ff442ed1af4f2ba32af872cf3133fdaf6104cb86bc052342afbb29ef9ad7bd6c"
+    },
+    {
+      "id": "near",
+      "rank": 19,
+      "pair": "NEAR/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "331a4ea25f6383ccc4f54935bcf2b3377c96521e490d00492599cc87476c2f1a"
+    },
+    {
+      "id": "stellar",
+      "rank": 21,
+      "pair": "XLM/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "b408c25d8000d47542b0e5367dcd01e21bbdc0a442ca0ecc862ce479241073d9"
+    },
+    {
+      "id": "bitcoin-cash",
+      "rank": 22,
+      "pair": "BCH/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "8fa142bb9909f16be6b6abd846698c0e9b2b167b9bc7b662a8874f3f99fe869d"
+    },
+    {
+      "id": "litecoin",
+      "rank": 24,
+      "pair": "LTC/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "64487171b50a23c73e8973f7cd172156fbddd97414debb5000695d291bfb9d8e"
+    },
+    {
+      "id": "uniswap",
+      "rank": 25,
+      "pair": "UNI/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "805b9fe84d537043274dd4d3b0fcd0578c6acb516dcb6309739115f27328d73a"
+    },
+    {
+      "id": "avalanche-2",
+      "rank": 27,
+      "pair": "AVAX/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "21e924ae54bd75aeddb3f7c41c8300441fbaae33376bcc77d7599df0efa44132"
+    },
+    {
+      "id": "sui",
+      "rank": 29,
+      "pair": "SUI/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "18990b5c6e689f6f5c182cced73782592732eb544198dc7c0205d6ba76ba8c97"
+    },
+    {
+      "id": "the-open-network",
+      "rank": 31,
+      "pair": "GRAM/USDT",
+      "status": "excluded",
+      "reason": "No history at required start; not backfilled"
+    },
+    {
+      "id": "hedera-hashgraph",
+      "rank": 32,
+      "pair": "HBAR/USDT",
+      "status": "accepted",
+      "bars": 5040,
+      "sha256": "fb2af7a69322fbe73e34fba6eba450835f7e7288e3e2cf68c1b525d88c2b3727"
+    }
+  ]
+}

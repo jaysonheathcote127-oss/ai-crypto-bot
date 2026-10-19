@@ -1,0 +1,6 @@
+{
+  "chosen_before_holdout": null,
+  "validation_candidates": [],
+  "recorded_at": "2026-10-19T14:06:35.213814+00:00",
+  "criteria": "Positive validation after both costs, >=30 trades at base cost, marked-wallet drawdown <=15% at both costs"
+}

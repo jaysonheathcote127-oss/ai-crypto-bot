@@ -1,0 +1,385 @@
+{
+  "completed_at": "2026-10-19T14:06:43.996020+00:00",
+  "hashes": {
+    "RESEARCH_PLAN.md": "c03e6eba21a297478fe28c814c4e6e6e698d11397aea6e3ea87db9da08c5598d",
+    "config.research.json": "0e07ce374ee94587ec427d3f74f5451e193828ff62853964f03932f9a0cbc755",
+    "user_data/strategies/research_baselines.py": "46e6e1987e85c72ec87e7c3150d29c4f8cf00498bef332f505d56854c3ee1841"
+  },
+  "selection": {
+    "chosen_before_holdout": null,
+    "validation_candidates": [],
+    "recorded_at": "2026-10-19T14:06:35.213814+00:00",
+    "criteria": "Positive validation after both costs, >=30 trades at base cost, marked-wallet drawdown <=15% at both costs"
+  },
+  "holdout_performance_gate_passed": false,
+  "results": {
+    "development_base": {
+      "TrendBaseline": {
+        "return_pct": 50.677019546000004,
+        "profit": 506.77019546,
+        "final_balance": 1506.77019546,
+        "trades": 139,
+        "closed_trade_drawdown_pct": 12.678741693118194,
+        "marked_wallet_drawdown_pct": 22.927116614408583,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 2,
+        "source_archive": "data/research/evaluation/development_base/backtest-result-2026-10-19_14-06-21.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": 21.079495564000002,
+        "profit": 210.79495564,
+        "final_balance": 1210.7949556400001,
+        "trades": 241,
+        "closed_trade_drawdown_pct": 24.614518883712698,
+        "marked_wallet_drawdown_pct": 27.857518818373727,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 3,
+        "source_archive": "data/research/evaluation/development_base/backtest-result-2026-10-19_14-06-21.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -21.548925179,
+        "profit": -215.48925179,
+        "final_balance": 784.5107482100001,
+        "trades": 177,
+        "closed_trade_drawdown_pct": 28.883216750435547,
+        "marked_wallet_drawdown_pct": 30.973966681336805,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/development_base/backtest-result-2026-10-19_14-06-21.zip"
+      }
+    },
+    "development_stress": {
+      "TrendBaseline": {
+        "return_pct": 42.17225226,
+        "profit": 421.7225226,
+        "final_balance": 1421.7225226,
+        "trades": 139,
+        "closed_trade_drawdown_pct": 15.709191767598327,
+        "marked_wallet_drawdown_pct": 25.705421796229267,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 2,
+        "source_archive": "data/research/evaluation/development_stress/backtest-result-2026-10-19_14-06-25.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": 6.534470048999999,
+        "profit": 65.34470049,
+        "final_balance": 1065.34470049,
+        "trades": 241,
+        "closed_trade_drawdown_pct": 31.05356781748246,
+        "marked_wallet_drawdown_pct": 34.299388947115304,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 3,
+        "source_archive": "data/research/evaluation/development_stress/backtest-result-2026-10-19_14-06-25.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -32.1201103,
+        "profit": -321.201103,
+        "final_balance": 678.7988970000001,
+        "trades": 177,
+        "closed_trade_drawdown_pct": 35.00444779809934,
+        "marked_wallet_drawdown_pct": 36.913872301041984,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-10-01 00:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/development_stress/backtest-result-2026-10-19_14-06-25.zip"
+      }
+    },
+    "validation_base": {
+      "TrendBaseline": {
+        "return_pct": -15.870240966,
+        "profit": -158.70240966000003,
+        "final_balance": 841.2975903399999,
+        "trades": 46,
+        "closed_trade_drawdown_pct": 16.919519127,
+        "marked_wallet_drawdown_pct": 17.951106219917378,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_base/backtest-result-2026-10-19_14-06-30.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": -14.745671813000003,
+        "profit": -147.45671813,
+        "final_balance": 852.54328187,
+        "trades": 79,
+        "closed_trade_drawdown_pct": 15.4213424009863,
+        "marked_wallet_drawdown_pct": 16.856274161017502,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_base/backtest-result-2026-10-19_14-06-30.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -16.772314108,
+        "profit": -167.72314108,
+        "final_balance": 832.27685892,
+        "trades": 127,
+        "closed_trade_drawdown_pct": 26.530658744999997,
+        "marked_wallet_drawdown_pct": 25.712878548156016,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_base/backtest-result-2026-10-19_14-06-30.zip"
+      }
+    },
+    "validation_stress": {
+      "TrendBaseline": {
+        "return_pct": -18.586700096,
+        "profit": -185.86700096000004,
+        "final_balance": 814.13299904,
+        "trades": 46,
+        "closed_trade_drawdown_pct": 19.572735559000012,
+        "marked_wallet_drawdown_pct": 20.492379384210324,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_stress/backtest-result-2026-10-19_14-06-34.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": -19.448470517,
+        "profit": -194.48470517,
+        "final_balance": 805.51529483,
+        "trades": 79,
+        "closed_trade_drawdown_pct": 19.88307840769736,
+        "marked_wallet_drawdown_pct": 21.384627106953513,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_stress/backtest-result-2026-10-19_14-06-34.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -24.353355157,
+        "profit": -243.53355157000001,
+        "final_balance": 756.4664484300001,
+        "trades": 127,
+        "closed_trade_drawdown_pct": 32.520040384000005,
+        "marked_wallet_drawdown_pct": 31.67916270453388,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-04-01 00:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/evaluation/validation_stress/backtest-result-2026-10-19_14-06-34.zip"
+      }
+    },
+    "holdout_base": {
+      "TrendBaseline": {
+        "return_pct": 18.414787180000005,
+        "profit": 184.14787180000002,
+        "final_balance": 1184.1478718,
+        "trades": 83,
+        "closed_trade_drawdown_pct": 5.216729552597481,
+        "marked_wallet_drawdown_pct": 8.9735986930493,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/holdout_base/backtest-result-2026-10-19_14-06-38.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": 10.958017480999999,
+        "profit": 109.58017480999999,
+        "final_balance": 1109.58017481,
+        "trades": 148,
+        "closed_trade_drawdown_pct": 9.096488195999996,
+        "marked_wallet_drawdown_pct": 11.484112186108486,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/holdout_base/backtest-result-2026-10-19_14-06-38.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -3.3870244210000005,
+        "profit": -33.87024421,
+        "final_balance": 966.12975579,
+        "trades": 102,
+        "closed_trade_drawdown_pct": 11.218658080085628,
+        "marked_wallet_drawdown_pct": 11.95394778476312,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 2,
+        "source_archive": "data/research/evaluation/holdout_base/backtest-result-2026-10-19_14-06-38.zip"
+      }
+    },
+    "holdout_stress": {
+      "TrendBaseline": {
+        "return_pct": 13.371987442,
+        "profit": 133.71987442,
+        "final_balance": 1133.71987442,
+        "trades": 83,
+        "closed_trade_drawdown_pct": 7.973468278999997,
+        "marked_wallet_drawdown_pct": 11.111782807754022,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/holdout_stress/backtest-result-2026-10-19_14-06-43.zip"
+      },
+      "MomentumBaseline": {
+        "return_pct": 2.031767029999999,
+        "profit": 20.31767029999999,
+        "final_balance": 1020.3176703,
+        "trades": 148,
+        "closed_trade_drawdown_pct": 12.755161173,
+        "marked_wallet_drawdown_pct": 13.388584013860584,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/evaluation/holdout_stress/backtest-result-2026-10-19_14-06-43.zip"
+      },
+      "ReversionBaseline": {
+        "return_pct": -9.506032978,
+        "profit": -95.06032978,
+        "final_balance": 904.93967022,
+        "trades": 102,
+        "closed_trade_drawdown_pct": 12.154798657222814,
+        "marked_wallet_drawdown_pct": 12.907449204401145,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 2,
+        "source_archive": "data/research/evaluation/holdout_stress/backtest-result-2026-10-19_14-06-43.zip"
+      }
+    }
+  },
+  "benchmarks": {
+    "development_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 39.775682991092665,
+        "marked_wallet_drawdown_pct": 19.3200594296569
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 79.55136598218533,
+        "marked_wallet_drawdown_pct": 30.640001256407913
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 51.135122475704996,
+        "marked_wallet_drawdown_pct": 40.923127473261935
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 102.27024495140999,
+        "marked_wallet_drawdown_pct": 56.484330519160366
+      }
+    },
+    "development_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 39.23863640783147,
+        "marked_wallet_drawdown_pct": 19.29870176260072
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 78.47727281566293,
+        "marked_wallet_drawdown_pct": 30.640001256407913
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 50.53012265655943,
+        "marked_wallet_drawdown_pct": 40.88938351325019
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 101.06024531311886,
+        "marked_wallet_drawdown_pct": 56.48433051916037
+      }
+    },
+    "validation_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": -20.155544160783666,
+        "marked_wallet_drawdown_pct": 26.081048409287234
+      },
+      "BTC_hold_100pct": {
+        "return_pct": -40.31108832156735,
+        "marked_wallet_drawdown_pct": 49.83438454362058
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": -25.596114544017013,
+        "marked_wallet_drawdown_pct": 31.208024553175672
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": -51.19222908803401,
+        "marked_wallet_drawdown_pct": 59.415452484539124
+      }
+    },
+    "validation_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": -20.33407650388299,
+        "marked_wallet_drawdown_pct": 26.043863115196842
+      },
+      "BTC_hold_100pct": {
+        "return_pct": -40.66815300776596,
+        "marked_wallet_drawdown_pct": 49.83438454362058
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": -25.742100883143316,
+        "marked_wallet_drawdown_pct": 31.163706213587705
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": -51.48420176628663,
+        "marked_wallet_drawdown_pct": 59.415452484539124
+      }
+    },
+    "holdout_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 9.948637142063777,
+        "marked_wallet_drawdown_pct": 15.997225606635368
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 19.897274284127576,
+        "marked_wallet_drawdown_pct": 29.25261073667731
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 14.97356111521908,
+        "marked_wallet_drawdown_pct": 15.627264919807516
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 29.947122230438183,
+        "marked_wallet_drawdown_pct": 28.9965603709025
+      }
+    },
+    "holdout_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 9.590018753702378,
+        "marked_wallet_drawdown_pct": 15.975540898012552
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 19.180037507404755,
+        "marked_wallet_drawdown_pct": 29.25261073667731
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 14.584883158820784,
+        "marked_wallet_drawdown_pct": 15.605711513682907
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 29.16976631764152,
+        "marked_wallet_drawdown_pct": 28.99656037090249
+      }
+    }
+  },
+  "limitations": [
+    "Today's membership and liquidity cause historical selection bias.",
+    "Cost proxy is not an actual slippage model; no intrabar fill validation.",
+    "USDT dollar peg assumed. Current exchange minimums/precision used historically.",
+    "No automatic promotion. Causality/lookahead/startup checks also required."
+  ]
+}

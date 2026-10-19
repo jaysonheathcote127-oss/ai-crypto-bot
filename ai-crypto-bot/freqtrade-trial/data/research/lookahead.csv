@@ -1,0 +1,4 @@
+filename,strategy,has_bias,total_signals,biased_entry_signals,biased_exit_signals,biased_indicators
+research_baselines.py,TrendBaseline,False,20,0,0,
+research_baselines.py,MomentumBaseline,False,20,0,0,
+research_baselines.py,ReversionBaseline,False,20,0,0,

@@ -1,0 +1,43 @@
+{
+  "causality": {
+    "BTC-USDT": {
+      "prefix_bars": 13969,
+      "prefix_signals": 13,
+      "prefix_equal": true,
+      "future_shock_equal": true
+    },
+    "ETH-USDT": {
+      "prefix_bars": 13969,
+      "prefix_signals": 5,
+      "prefix_equal": true,
+      "future_shock_equal": true
+    }
+  },
+  "accounting": {
+    "NC-base": {
+      "trades": 3,
+      "reconciled": true,
+      "cost_formula": true,
+      "session_unique": true,
+      "entry_signal_match": true,
+      "minimum_rr": true
+    },
+    "NC-stress": {
+      "trades": 3,
+      "reconciled": true,
+      "cost_formula": true,
+      "session_unique": true,
+      "entry_signal_match": true,
+      "minimum_rr": true
+    },
+    "SBC-base": {
+      "trades": 0,
+      "reconciled": true
+    },
+    "SBC-stress": {
+      "trades": 0,
+      "reconciled": true
+    }
+  },
+  "scope": "Custom simulator, no full Freqtrade engine audit"
+}

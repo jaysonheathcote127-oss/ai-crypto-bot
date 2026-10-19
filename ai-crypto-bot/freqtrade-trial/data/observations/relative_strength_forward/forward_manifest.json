@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-10-19T14:58:36.562296+00:00",
+  "first_forward_candle_open": "2026-10-19T16:00:00+00:00",
+  "hashes": {
+    "FORWARD_OBSERVATION.md": "29db45a18b6c3d23f65b9bd54161c18fee75847f6a736e3b6c4304fac655a80d",
+    "config.research.json": "0e07ce374ee94587ec427d3f74f5451e193828ff62853964f03932f9a0cbc755",
+    "observe_relative_strength.py": "b63309effa86054956354f732b78ef6a14b9f7866a6350caf0f9e4e320bf2a8b",
+    "observe_top100.py": "e4b28dc0b4d793b2a69c023d8f6775d9754779de9ecf0464a8bdb0cf9e3f4f57",
+    "user_data/strategies/research_baselines.py": "46e6e1987e85c72ec87e7c3150d29c4f8cf00498bef332f505d56854c3ee1841",
+    "user_data/strategies/regime_relative_strength.py": "0b841f6d436f5ba3f3718ef36c903fdb29520a350a47c1b2922c2dd3175821dc",
+    "user_data/strategies/daily_relative_strength.py": "2ac2cc4c21d356568ecd242476eba56a7d4cd81bb83489485ebb9e2f5f331658",
+    "user_data/strategies/absolute_momentum.py": "31dcf912803936912d85a2a8056264580f52d98cdce3547fca6e19b87113c331"
+  },
+  "pairs": [
+    "BTC/USDT",
+    "ETH/USDT",
+    "BNB/USDT",
+    "XRP/USDT",
+    "SOL/USDT",
+    "TRX/USDT",
+    "DOGE/USDT",
+    "LINK/USDT",
+    "ADA/USDT",
+    "NEAR/USDT",
+    "XLM/USDT",
+    "BCH/USDT",
+    "LTC/USDT",
+    "UNI/USDT",
+    "AVAX/USDT",
+    "SUI/USDT",
+    "HBAR/USDT"
+  ],
+  "notice": "Observation only, no candidate promoted; no orders or performance claims."
+}

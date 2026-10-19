@@ -1,0 +1,3217 @@
+{
+  "name": "Kraken",
+  "tickers": [
+    {
+      "base": "0G",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.204,
+      "volume": 24990.96765,
+      "converted_last": {
+        "btc": 2.79e-06,
+        "eth": 9.537e-05,
+        "usd": 0.229114
+      },
+      "converted_volume": {
+        "btc": 0.06975924,
+        "eth": 2.383401,
+        "usd": 5725.77
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.490196,
+      "timestamp": "2026-10-19T13:45:17+00:00",
+      "last_traded_at": "2026-10-19T13:45:17+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/0G-EUR",
+      "token_info_url": null,
+      "coin_id": "zero-gravity",
+      "coin_mcap_usd": 137607007.58553398
+    },
+    {
+      "base": "0G",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.228,
+      "volume": 72423.38162,
+      "converted_last": {
+        "btc": 2.78e-06,
+        "eth": 9.497e-05,
+        "usd": 0.228149
+      },
+      "converted_volume": {
+        "btc": 0.20130995,
+        "eth": 6.877976,
+        "usd": 16523.33
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.436681,
+      "timestamp": "2026-10-19T13:55:52+00:00",
+      "last_traded_at": "2026-10-19T13:55:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/0G-USD",
+      "token_info_url": null,
+      "coin_id": "zero-gravity",
+      "coin_mcap_usd": 137607007.58553398
+    },
+    {
+      "base": "1INCH",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0824,
+      "volume": 130741.09827245,
+      "converted_last": {
+        "btc": 1.13e-06,
+        "eth": 3.852e-05,
+        "usd": 0.092544
+      },
+      "converted_volume": {
+        "btc": 0.14741031,
+        "eth": 5.036435,
+        "usd": 12099.3
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.121951,
+      "timestamp": "2026-10-19T13:16:09+00:00",
+      "last_traded_at": "2026-10-19T13:16:09+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/1INCH-EUR",
+      "token_info_url": null,
+      "coin_id": "1inch",
+      "coin_mcap_usd": 129272832.47578754
+    },
+    {
+      "base": "1INCH",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0922,
+      "volume": 148695.32976408,
+      "converted_last": {
+        "btc": 1.12e-06,
+        "eth": 3.84e-05,
+        "usd": 0.09226
+      },
+      "converted_volume": {
+        "btc": 0.16713979,
+        "eth": 5.710515,
+        "usd": 13718.67
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.217155,
+      "timestamp": "2026-10-19T13:48:57+00:00",
+      "last_traded_at": "2026-10-19T13:48:57+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/1INCH-USD",
+      "token_info_url": null,
+      "coin_id": "1inch",
+      "coin_mcap_usd": 129272832.47578754
+    },
+    {
+      "base": "2Z",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.02606,
+      "volume": 496089.14602,
+      "converted_last": {
+        "btc": 3.56585e-07,
+        "eth": 1.218e-05,
+        "usd": 0.02926814
+      },
+      "converted_volume": {
+        "btc": 0.17689789,
+        "eth": 6.043911,
+        "usd": 14519.61
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.038521,
+      "timestamp": "2026-10-19T13:41:20+00:00",
+      "last_traded_at": "2026-10-19T13:41:20+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/2Z-EUR",
+      "token_info_url": null,
+      "coin_id": "doublezero",
+      "coin_mcap_usd": 151438161.6356236
+    },
+    {
+      "base": "2Z",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0291,
+      "volume": 933728.2782,
+      "converted_last": {
+        "btc": 3.54768e-07,
+        "eth": 1.212e-05,
+        "usd": 0.02911902
+      },
+      "converted_volume": {
+        "btc": 0.33125703,
+        "eth": 11.317761,
+        "usd": 27189
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.068611,
+      "timestamp": "2026-10-19T13:53:56+00:00",
+      "last_traded_at": "2026-10-19T13:53:56+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/2Z-USD",
+      "token_info_url": null,
+      "coin_id": "doublezero",
+      "coin_mcap_usd": 151438161.6356236
+    },
+    {
+      "base": "A",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0774,
+      "volume": 116093.74973,
+      "converted_last": {
+        "btc": 1.06e-06,
+        "eth": 3.618e-05,
+        "usd": 0.086928
+      },
+      "converted_volume": {
+        "btc": 0.12295277,
+        "eth": 4.200817,
+        "usd": 10091.84
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.387097,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/A-EUR",
+      "token_info_url": null,
+      "coin_id": "vaulta",
+      "coin_mcap_usd": 145778229.29180026
+    },
+    {
+      "base": "A",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0868,
+      "volume": 2067063.16396,
+      "converted_last": {
+        "btc": 1.06e-06,
+        "eth": 3.615e-05,
+        "usd": 0.086857
+      },
+      "converted_volume": {
+        "btc": 2.187384,
+        "eth": 74.734,
+        "usd": 179538
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.115207,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/A-USD",
+      "token_info_url": null,
+      "coin_id": "vaulta",
+      "coin_mcap_usd": 145778229.29180026
+    },
+    {
+      "base": "AAPLX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 344.66329,
+      "volume": 249.208348,
+      "converted_last": {
+        "btc": 0.00420191,
+        "eth": 0.14356284,
+        "usd": 344.89
+      },
+      "converted_volume": {
+        "btc": 1.047151,
+        "eth": 35.777058,
+        "usd": 85949
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.012905,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AAPLx-USD",
+      "token_info_url": null,
+      "coin_id": "apple-xstock",
+      "coin_mcap_usd": 12618397.35328893
+    },
+    {
+      "base": "AAVE",
+      "target": "ETH",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.06326,
+      "volume": 0.3,
+      "converted_last": {
+        "btc": 0.00185908,
+        "eth": 0.06389901,
+        "usd": 153.51
+      },
+      "converted_volume": {
+        "btc": 0.00055773,
+        "eth": 0.0191697,
+        "usd": 46.05
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 1.023836,
+      "timestamp": "2026-10-19T00:01:06+00:00",
+      "last_traded_at": "2026-10-19T00:01:06+00:00",
+      "last_fetch_at": "2026-10-19T08:01:00+00:00",
+      "is_anomaly": false,
+      "is_stale": true,
+      "trade_url": "https://pro.kraken.com/app/trade/AAVE-ETH",
+      "token_info_url": null,
+      "coin_id": "aave",
+      "target_coin_id": "ethereum",
+      "coin_mcap_usd": 2307957047.207651
+    },
+    {
+      "base": "AAVE",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 133.04,
+      "volume": 2533.41308376,
+      "converted_last": {
+        "btc": 0.00182042,
+        "eth": 0.06219653,
+        "usd": 149.42
+      },
+      "converted_volume": {
+        "btc": 4.611867,
+        "eth": 157.57,
+        "usd": 378538
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.037526,
+      "timestamp": "2026-10-19T13:55:52+00:00",
+      "last_traded_at": "2026-10-19T13:55:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AAVE-EUR",
+      "token_info_url": null,
+      "coin_id": "aave",
+      "coin_mcap_usd": 2307957047.207651
+    },
+    {
+      "base": "AAVE",
+      "target": "GBP",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 112.51,
+      "volume": 41.83638252,
+      "converted_last": {
+        "btc": 0.00182796,
+        "eth": 0.06245426,
+        "usd": 150.04
+      },
+      "converted_volume": {
+        "btc": 0.07647523,
+        "eth": 2.61286,
+        "usd": 6277.01
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.818069,
+      "timestamp": "2026-10-19T12:05:05+00:00",
+      "last_traded_at": "2026-10-19T12:05:05+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AAVE-GBP",
+      "token_info_url": null,
+      "coin_id": "aave",
+      "coin_mcap_usd": 2307957047.207651
+    },
+    {
+      "base": "AAVE",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 149.28,
+      "volume": 7084.71403383,
+      "converted_last": {
+        "btc": 0.00181992,
+        "eth": 0.0621797,
+        "usd": 149.38
+      },
+      "converted_volume": {
+        "btc": 12.89364,
+        "eth": 440.525,
+        "usd": 1058298
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.040134,
+      "timestamp": "2026-10-19T13:55:52+00:00",
+      "last_traded_at": "2026-10-19T13:55:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AAVE-USD",
+      "token_info_url": null,
+      "coin_id": "aave",
+      "coin_mcap_usd": 2307957047.207651
+    },
+    {
+      "base": "AAVE",
+      "target": "XBT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0018237,
+      "volume": 1065.41732144,
+      "converted_last": {
+        "btc": 0.0018237,
+        "eth": 0.06226801,
+        "usd": 149.59
+      },
+      "converted_volume": {
+        "btc": 1.943002,
+        "eth": 66.341,
+        "usd": 159375
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.313221,
+      "timestamp": "2026-10-19T13:45:17+00:00",
+      "last_traded_at": "2026-10-19T13:45:17+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AAVE-XBT",
+      "token_info_url": null,
+      "coin_id": "aave",
+      "target_coin_id": "bitcoin",
+      "coin_mcap_usd": 2307957047.207651
+    },
+    {
+      "base": "AB",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.000476,
+      "volume": 914547.92009,
+      "converted_last": {
+        "btc": 6.513e-09,
+        "eth": 2.22531e-07,
+        "usd": 0.0005346
+      },
+      "converted_volume": {
+        "btc": 0.00595665,
+        "eth": 0.20351543,
+        "usd": 488.92
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.420168,
+      "timestamp": "2026-10-19T11:04:47+00:00",
+      "last_traded_at": "2026-10-19T11:04:47+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AB-EUR",
+      "token_info_url": null,
+      "coin_id": "newton-project",
+      "coin_mcap_usd": 52569333.47822904
+    },
+    {
+      "base": "AB",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.000533,
+      "volume": 1221202.48175,
+      "converted_last": {
+        "btc": 6.498e-09,
+        "eth": 2.22011e-07,
+        "usd": 0.00053335
+      },
+      "converted_volume": {
+        "btc": 0.00793536,
+        "eth": 0.27112022,
+        "usd": 651.33
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.374532,
+      "timestamp": "2026-10-19T12:17:33+00:00",
+      "last_traded_at": "2026-10-19T12:17:33+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AB-USD",
+      "token_info_url": null,
+      "coin_id": "newton-project",
+      "coin_mcap_usd": 52569333.47822904
+    },
+    {
+      "base": "ABBVX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 283.15124,
+      "volume": 0.201687,
+      "converted_last": {
+        "btc": 0.00345199,
+        "eth": 0.11794118,
+        "usd": 283.34
+      },
+      "converted_volume": {
+        "btc": 0.00069622,
+        "eth": 0.0237872,
+        "usd": 57.15
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.157348,
+      "timestamp": "2026-10-19T12:30:59+00:00",
+      "last_traded_at": "2026-10-19T12:30:59+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ABBVx-USD",
+      "token_info_url": null,
+      "coin_id": "abbvie-xstock",
+      "coin_mcap_usd": 274393.82186827855
+    },
+    {
+      "base": "ABTX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 99.95797,
+      "volume": 2.0582197,
+      "converted_last": {
+        "btc": 0.00121041,
+        "eth": 0.0416356,
+        "usd": 100.02
+      },
+      "converted_volume": {
+        "btc": 0.0024913,
+        "eth": 0.08569522,
+        "usd": 205.87
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.13401,
+      "timestamp": "2026-10-19T00:01:52+00:00",
+      "last_traded_at": "2026-10-19T00:01:52+00:00",
+      "last_fetch_at": "2026-10-19T08:01:50+00:00",
+      "is_anomaly": false,
+      "is_stale": true,
+      "trade_url": "https://pro.kraken.com/app/trade/ABTx-USD",
+      "token_info_url": null,
+      "coin_id": "abbott-xstock",
+      "coin_mcap_usd": 158369.48806201402
+    },
+    {
+      "base": "ACH",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00474,
+      "volume": 1365432.48722127,
+      "converted_last": {
+        "btc": 6.4858e-08,
+        "eth": 2.22e-06,
+        "usd": 0.00532352
+      },
+      "converted_volume": {
+        "btc": 0.0885599,
+        "eth": 3.025746,
+        "usd": 7268.91
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.211416,
+      "timestamp": "2026-10-19T13:50:44+00:00",
+      "last_traded_at": "2026-10-19T13:50:44+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ACH-EUR",
+      "token_info_url": null,
+      "coin_id": "alchemy-pay",
+      "coin_mcap_usd": 0.0
+    },
+    {
+      "base": "ACH",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00531,
+      "volume": 5287415.51441268,
+      "converted_last": {
+        "btc": 6.4736e-08,
+        "eth": 2.21e-06,
+        "usd": 0.00531347
+      },
+      "converted_volume": {
+        "btc": 0.34228634,
+        "eth": 11.694589,
+        "usd": 28095
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.37594,
+      "timestamp": "2026-10-19T13:52:15+00:00",
+      "last_traded_at": "2026-10-19T13:52:15+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ACH-USD",
+      "token_info_url": null,
+      "coin_id": "alchemy-pay",
+      "coin_mcap_usd": 0.0
+    },
+    {
+      "base": "ACNX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 225.6467,
+      "volume": 0.037578,
+      "converted_last": {
+        "btc": 0.00273273,
+        "eth": 0.09398896,
+        "usd": 225.79
+      },
+      "converted_volume": {
+        "btc": 0.00010269,
+        "eth": 0.00353192,
+        "usd": 8.48
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.169029,
+      "timestamp": "2026-10-19T00:01:06+00:00",
+      "last_traded_at": "2026-10-19T00:01:06+00:00",
+      "last_fetch_at": "2026-10-19T08:01:00+00:00",
+      "is_anomaly": false,
+      "is_stale": true,
+      "trade_url": "https://pro.kraken.com/app/trade/ACNx-USD",
+      "token_info_url": null,
+      "coin_id": "accenture-xstock",
+      "coin_mcap_usd": 156185.60162645075
+    },
+    {
+      "base": "ACT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00882,
+      "volume": 389995.46788,
+      "converted_last": {
+        "btc": 1.07528e-07,
+        "eth": 3.67e-06,
+        "usd": 0.00882577
+      },
+      "converted_volume": {
+        "btc": 0.0419353,
+        "eth": 1.432766,
+        "usd": 3442.01
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.341686,
+      "timestamp": "2026-10-19T13:02:34+00:00",
+      "last_traded_at": "2026-10-19T13:02:34+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ACT-USD",
+      "token_info_url": null,
+      "coin_id": "act-i-the-ai-prophecy",
+      "coin_mcap_usd": 8308549.959716201
+    },
+    {
+      "base": "ACU",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0892,
+      "volume": 24244.3972,
+      "converted_last": {
+        "btc": 1.22e-06,
+        "eth": 4.17e-05,
+        "usd": 0.100181
+      },
+      "converted_volume": {
+        "btc": 0.02959135,
+        "eth": 1.011021,
+        "usd": 2428.83
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.223464,
+      "timestamp": "2026-10-19T13:48:00+00:00",
+      "last_traded_at": "2026-10-19T13:48:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ACU-EUR",
+      "token_info_url": null,
+      "coin_id": "acurast",
+      "coin_mcap_usd": 41954604.66622014
+    },
+    {
+      "base": "ACU",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1006,
+      "volume": 307105.17196,
+      "converted_last": {
+        "btc": 1.23e-06,
+        "eth": 4.19e-05,
+        "usd": 0.100666
+      },
+      "converted_volume": {
+        "btc": 0.37664891,
+        "eth": 12.868624,
+        "usd": 30915
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.099602,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ACU-USD",
+      "token_info_url": null,
+      "coin_id": "acurast",
+      "coin_mcap_usd": 41954604.66622014
+    },
+    {
+      "base": "ADA",
+      "target": "AUD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.31241,
+      "volume": 6211.10799295,
+      "converted_last": {
+        "btc": 2.66e-06,
+        "eth": 9.094e-05,
+        "usd": 0.218462
+      },
+      "converted_volume": {
+        "btc": 0.01653153,
+        "eth": 0.56481779,
+        "usd": 1356.89
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.952625,
+      "timestamp": "2026-10-19T10:41:30+00:00",
+      "last_traded_at": "2026-10-19T10:41:30+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-AUD",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "ETH",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 9.054e-05,
+      "volume": 396768.48679933,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.041e-05,
+        "usd": 0.217205
+      },
+      "converted_volume": {
+        "btc": 1.050652,
+        "eth": 35.873236,
+        "usd": 86180
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.198544,
+      "timestamp": "2026-10-19T13:27:51+00:00",
+      "last_traded_at": "2026-10-19T13:27:51+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-ETH",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "target_coin_id": "ethereum",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.193931,
+      "volume": 8442524.93002644,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.066e-05,
+        "usd": 0.217805
+      },
+      "converted_volume": {
+        "btc": 22.4031,
+        "eth": 765.427,
+        "usd": 1838825
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.071614,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-EUR",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "GBP",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.16329,
+      "volume": 219850.98516722,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.064e-05,
+        "usd": 0.217755
+      },
+      "converted_volume": {
+        "btc": 0.58326184,
+        "eth": 19.927783,
+        "usd": 47874
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.079608,
+      "timestamp": "2026-10-19T13:45:17+00:00",
+      "last_traded_at": "2026-10-19T13:45:17+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-GBP",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.217413,
+      "volume": 19598805.00572234,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.056e-05,
+        "usd": 0.217555
+      },
+      "converted_volume": {
+        "btc": 51.948,
+        "eth": 1775,
+        "usd": 4263821
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.033544,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-USD",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "USDC",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.217665,
+      "volume": 2415957.91864443,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.055e-05,
+        "usd": 0.217523
+      },
+      "converted_volume": {
+        "btc": 6.393882,
+        "eth": 218.755,
+        "usd": 525526
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.032151,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-USDC",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "target_coin_id": "usd-coin",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "USDT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.217842,
+      "volume": 1721889.41509271,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.062e-05,
+        "usd": 0.2177
+      },
+      "converted_volume": {
+        "btc": 4.560721,
+        "eth": 156.037,
+        "usd": 374855
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.043593,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-USDT",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "target_coin_id": "tether",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADA",
+      "target": "XBT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 2.647e-06,
+      "volume": 60592.31085721,
+      "converted_last": {
+        "btc": 2.65e-06,
+        "eth": 9.038e-05,
+        "usd": 0.217121
+      },
+      "converted_volume": {
+        "btc": 0.16038785,
+        "eth": 5.476247,
+        "usd": 13155.88
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.150886,
+      "timestamp": "2026-10-19T10:33:52+00:00",
+      "last_traded_at": "2026-10-19T10:33:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADA-XBT",
+      "token_info_url": null,
+      "coin_id": "cardano",
+      "target_coin_id": "bitcoin",
+      "coin_mcap_usd": 8169331455.638238
+    },
+    {
+      "base": "ADI",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 8.2338,
+      "volume": 5083.89357,
+      "converted_last": {
+        "btc": 0.00010038,
+        "eth": 0.00342963,
+        "usd": 8.24
+      },
+      "converted_volume": {
+        "btc": 0.51032679,
+        "eth": 17.435876,
+        "usd": 41887
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.144572,
+      "timestamp": "2026-10-19T13:26:16+00:00",
+      "last_traded_at": "2026-10-19T13:26:16+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ADI-USD",
+      "token_info_url": null,
+      "coin_id": "adi-token",
+      "coin_mcap_usd": 77565265.31989439
+    },
+    {
+      "base": "AERO",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.7773,
+      "volume": 1240698.76638,
+      "converted_last": {
+        "btc": 9.48e-06,
+        "eth": 0.00032377,
+        "usd": 0.777808
+      },
+      "converted_volume": {
+        "btc": 11.757273,
+        "eth": 401.7,
+        "usd": 965026
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.115459,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AERO-USD",
+      "token_info_url": null,
+      "coin_id": "aerodrome-finance",
+      "coin_mcap_usd": 780850703.8368285
+    },
+    {
+      "base": "AI",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.01666,
+      "volume": 1821705.36149,
+      "converted_last": {
+        "btc": 2.03108e-07,
+        "eth": 6.94e-06,
+        "usd": 0.01667089
+      },
+      "converted_volume": {
+        "btc": 0.37000257,
+        "eth": 12.641545,
+        "usd": 30369
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.060132,
+      "timestamp": "2026-10-19T13:30:55+00:00",
+      "last_traded_at": "2026-10-19T13:30:55+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AI-USD",
+      "token_info_url": null,
+      "coin_id": "gensyn",
+      "coin_mcap_usd": 21708548.069096453
+    },
+    {
+      "base": "AIN",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0396,
+      "volume": 217382.02519,
+      "converted_last": {
+        "btc": 4.82777e-07,
+        "eth": 1.649e-05,
+        "usd": 0.03962589
+      },
+      "converted_volume": {
+        "btc": 0.10494709,
+        "eth": 3.585633,
+        "usd": 8613.96
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.277848,
+      "timestamp": "2026-10-19T13:48:57+00:00",
+      "last_traded_at": "2026-10-19T13:48:57+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AIN-USD",
+      "token_info_url": null,
+      "coin_id": "infinity-ground",
+      "coin_mcap_usd": 7304851.286605831
+    },
+    {
+      "base": "AIOZ",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0931,
+      "volume": 332583.46908,
+      "converted_last": {
+        "btc": 1.27e-06,
+        "eth": 4.352e-05,
+        "usd": 0.104561
+      },
+      "converted_volume": {
+        "btc": 0.42368088,
+        "eth": 14.475523,
+        "usd": 34775
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.107875,
+      "timestamp": "2026-10-19T13:46:29+00:00",
+      "last_traded_at": "2026-10-19T13:46:29+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AIOZ-EUR",
+      "token_info_url": null,
+      "coin_id": "aioz-network",
+      "coin_mcap_usd": 133550802.11716262
+    },
+    {
+      "base": "AIOZ",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.104,
+      "volume": 2502777.34766,
+      "converted_last": {
+        "btc": 1.27e-06,
+        "eth": 4.332e-05,
+        "usd": 0.104068
+      },
+      "converted_volume": {
+        "btc": 3.173271,
+        "eth": 108.418,
+        "usd": 260459
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.192308,
+      "timestamp": "2026-10-19T13:55:13+00:00",
+      "last_traded_at": "2026-10-19T13:55:13+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AIOZ-USD",
+      "token_info_url": null,
+      "coin_id": "aioz-network",
+      "coin_mcap_usd": 133550802.11716262
+    },
+    {
+      "base": "AIXBT",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.01667,
+      "volume": 97272.35751,
+      "converted_last": {
+        "btc": 2.28099e-07,
+        "eth": 7.79e-06,
+        "usd": 0.01872218
+      },
+      "converted_volume": {
+        "btc": 0.02218777,
+        "eth": 0.75806941,
+        "usd": 1821.15
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.360794,
+      "timestamp": "2026-10-19T13:10:01+00:00",
+      "last_traded_at": "2026-10-19T13:10:01+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AIXBT-EUR",
+      "token_info_url": null,
+      "coin_id": "aixbt",
+      "coin_mcap_usd": 18606972.653827924
+    },
+    {
+      "base": "AIXBT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.01864,
+      "volume": 90839.58455,
+      "converted_last": {
+        "btc": 2.27247e-07,
+        "eth": 7.76e-06,
+        "usd": 0.01865219
+      },
+      "converted_volume": {
+        "btc": 0.02064299,
+        "eth": 0.70529055,
+        "usd": 1694.36
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.375134,
+      "timestamp": "2026-10-19T13:16:46+00:00",
+      "last_traded_at": "2026-10-19T13:16:46+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AIXBT-USD",
+      "token_info_url": null,
+      "coin_id": "aixbt",
+      "coin_mcap_usd": 18606972.653827924
+    },
+    {
+      "base": "AKE",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0295289,
+      "volume": 16620253.87259,
+      "converted_last": {
+        "btc": 3.59997e-07,
+        "eth": 1.23e-05,
+        "usd": 0.02954821
+      },
+      "converted_volume": {
+        "btc": 5.983241,
+        "eth": 204.424,
+        "usd": 491099
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.153154,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AKE-USD",
+      "token_info_url": null,
+      "coin_id": "akedo",
+      "coin_mcap_usd": 673473864.9189438
+    },
+    {
+      "base": "AKT",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.6173,
+      "volume": 61048.85247189,
+      "converted_last": {
+        "btc": 8.45e-06,
+        "eth": 0.00028859,
+        "usd": 0.693293
+      },
+      "converted_volume": {
+        "btc": 0.51565864,
+        "eth": 17.618045,
+        "usd": 42325
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.308341,
+      "timestamp": "2026-10-19T13:48:57+00:00",
+      "last_traded_at": "2026-10-19T13:48:57+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AKT-EUR",
+      "token_info_url": null,
+      "coin_id": "akash-network",
+      "coin_mcap_usd": 206662915.45928693
+    },
+    {
+      "base": "AKT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.6902,
+      "volume": 715303.28263894,
+      "converted_last": {
+        "btc": 8.41e-06,
+        "eth": 0.00028749,
+        "usd": 0.690651
+      },
+      "converted_volume": {
+        "btc": 6.018895,
+        "eth": 205.642,
+        "usd": 494025
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.202576,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AKT-USD",
+      "token_info_url": null,
+      "coin_id": "akash-network",
+      "coin_mcap_usd": 206662915.45928693
+    },
+    {
+      "base": "ALCX",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 2.01,
+      "volume": 65.32230271,
+      "converted_last": {
+        "btc": 2.737e-05,
+        "eth": 0.00093981,
+        "usd": 2.26
+      },
+      "converted_volume": {
+        "btc": 0.00178819,
+        "eth": 0.06139071,
+        "usd": 147.48
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 4.368932,
+      "timestamp": "2026-10-19T05:20:33+00:00",
+      "last_traded_at": "2026-10-19T05:20:33+00:00",
+      "last_fetch_at": "2026-10-19T13:20:30+00:00",
+      "is_anomaly": false,
+      "is_stale": true,
+      "trade_url": "https://pro.kraken.com/app/trade/ALCX-EUR",
+      "token_info_url": null,
+      "coin_id": "alchemix",
+      "coin_mcap_usd": 5674729.63661106
+    },
+    {
+      "base": "ALCX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 2.23,
+      "volume": 11416.63809377,
+      "converted_last": {
+        "btc": 2.719e-05,
+        "eth": 0.00092886,
+        "usd": 2.23
+      },
+      "converted_volume": {
+        "btc": 0.31038069,
+        "eth": 10.604498,
+        "usd": 25476
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.888889,
+      "timestamp": "2026-10-19T13:16:09+00:00",
+      "last_traded_at": "2026-10-19T13:16:09+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALCX-USD",
+      "token_info_url": null,
+      "coin_id": "alchemix",
+      "coin_mcap_usd": 5674729.63661106
+    },
+    {
+      "base": "ALEO",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.04899,
+      "volume": 11062439.53737,
+      "converted_last": {
+        "btc": 5.97254e-07,
+        "eth": 2.041e-05,
+        "usd": 0.04902203
+      },
+      "converted_volume": {
+        "btc": 6.607086,
+        "eth": 225.738,
+        "usd": 542303
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.36526,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALEO-USD",
+      "token_info_url": null,
+      "coin_id": "aleo",
+      "coin_mcap_usd": 74052510.33919266
+    },
+    {
+      "base": "ALEO",
+      "target": "USDT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.04904,
+      "volume": 2017070.84651,
+      "converted_last": {
+        "btc": 5.96262e-07,
+        "eth": 2.04e-05,
+        "usd": 0.04900796
+      },
+      "converted_volume": {
+        "btc": 1.202703,
+        "eth": 41.14821,
+        "usd": 98853
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.385083,
+      "timestamp": "2026-10-19T13:53:56+00:00",
+      "last_traded_at": "2026-10-19T13:53:56+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALEO-USDT",
+      "token_info_url": null,
+      "coin_id": "aleo",
+      "target_coin_id": "tether",
+      "coin_mcap_usd": 74052510.33919266
+    },
+    {
+      "base": "ALGO",
+      "target": "ETH",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 4.538e-05,
+      "volume": 5694.59175098,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.532e-05,
+        "usd": 0.108866
+      },
+      "converted_volume": {
+        "btc": 0.00755803,
+        "eth": 0.25805958,
+        "usd": 619.95
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.857708,
+      "timestamp": "2026-10-19T10:36:46+00:00",
+      "last_traded_at": "2026-10-19T10:36:46+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-ETH",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "target_coin_id": "ethereum",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0972,
+      "volume": 2327007.21631708,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.544e-05,
+        "usd": 0.109166
+      },
+      "converted_volume": {
+        "btc": 3.094942,
+        "eth": 105.742,
+        "usd": 254030
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.123178,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-EUR",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "GBP",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.08221,
+      "volume": 262518.39805016,
+      "converted_last": {
+        "btc": 1.34e-06,
+        "eth": 4.563e-05,
+        "usd": 0.109631
+      },
+      "converted_volume": {
+        "btc": 0.35063879,
+        "eth": 11.97996,
+        "usd": 28780
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.109729,
+      "timestamp": "2026-10-19T13:33:22+00:00",
+      "last_traded_at": "2026-10-19T13:33:22+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-GBP",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.10916,
+      "volume": 7013454.57492046,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.547e-05,
+        "usd": 0.109231
+      },
+      "converted_volume": {
+        "btc": 9.333556,
+        "eth": 318.891,
+        "usd": 766089
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.082365,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-USD",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "USDC",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.10912,
+      "volume": 378254.59236764,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.539e-05,
+        "usd": 0.109049
+      },
+      "converted_volume": {
+        "btc": 0.50185151,
+        "eth": 17.169905,
+        "usd": 41248
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.401313,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-USDC",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "target_coin_id": "usd-coin",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "USDT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.10918,
+      "volume": 1053244.05015046,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.542e-05,
+        "usd": 0.109109
+      },
+      "converted_volume": {
+        "btc": 1.398166,
+        "eth": 47.835623,
+        "usd": 114918
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.109639,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-USDT",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "target_coin_id": "tether",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALGO",
+      "target": "XBT",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 1.328e-06,
+      "volume": 756984.05547719,
+      "converted_last": {
+        "btc": 1.33e-06,
+        "eth": 4.534e-05,
+        "usd": 0.10893
+      },
+      "converted_volume": {
+        "btc": 1.005275,
+        "eth": 34.32388,
+        "usd": 82458
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.075245,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALGO-XBT",
+      "token_info_url": null,
+      "coin_id": "algorand",
+      "target_coin_id": "bitcoin",
+      "coin_mcap_usd": 989459319.2051474
+    },
+    {
+      "base": "ALICE",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1284,
+      "volume": 16064.50052626,
+      "converted_last": {
+        "btc": 1.76e-06,
+        "eth": 6.003e-05,
+        "usd": 0.144207
+      },
+      "converted_volume": {
+        "btc": 0.02822414,
+        "eth": 0.96430892,
+        "usd": 2316.61
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.54902,
+      "timestamp": "2026-10-19T10:01:31+00:00",
+      "last_traded_at": "2026-10-19T10:01:31+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALICE-EUR",
+      "token_info_url": null,
+      "coin_id": "my-neighbor-alice",
+      "coin_mcap_usd": 14202231.048767358
+    },
+    {
+      "base": "ALICE",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1425,
+      "volume": 88074.25325821,
+      "converted_last": {
+        "btc": 1.74e-06,
+        "eth": 5.936e-05,
+        "usd": 0.142593
+      },
+      "converted_volume": {
+        "btc": 0.15300846,
+        "eth": 5.227702,
+        "usd": 12558.79
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.210231,
+      "timestamp": "2026-10-19T13:55:13+00:00",
+      "last_traded_at": "2026-10-19T13:55:13+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALICE-USD",
+      "token_info_url": null,
+      "coin_id": "my-neighbor-alice",
+      "coin_mcap_usd": 14202231.048767358
+    },
+    {
+      "base": "ALIGN",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00457,
+      "volume": 66975201.73745,
+      "converted_last": {
+        "btc": 5.5714e-08,
+        "eth": 1.9e-06,
+        "usd": 0.00457299
+      },
+      "converted_volume": {
+        "btc": 3.731486,
+        "eth": 127.49,
+        "usd": 306277
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.21978,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALIGN-USD",
+      "token_info_url": null,
+      "coin_id": "aligned",
+      "coin_mcap_usd": 7438818.466706795
+    },
+    {
+      "base": "ALKIMI",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00053,
+      "volume": 968924.53402,
+      "converted_last": {
+        "btc": 7.252e-09,
+        "eth": 2.47776e-07,
+        "usd": 0.00059525
+      },
+      "converted_volume": {
+        "btc": 0.00702675,
+        "eth": 0.24007656,
+        "usd": 576.75
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 9.259259,
+      "timestamp": "2026-10-19T10:42:19+00:00",
+      "last_traded_at": "2026-10-19T10:42:19+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALKIMI-EUR",
+      "token_info_url": null,
+      "coin_id": "alkimi-2",
+      "coin_mcap_usd": 208930.35185862533
+    },
+    {
+      "base": "ALKIMI",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00056,
+      "volume": 3442397.7261,
+      "converted_last": {
+        "btc": 6.827e-09,
+        "eth": 2.33257e-07,
+        "usd": 0.00056037
+      },
+      "converted_volume": {
+        "btc": 0.02350178,
+        "eth": 0.80296402,
+        "usd": 1929.0
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 1.754386,
+      "timestamp": "2026-10-19T13:55:52+00:00",
+      "last_traded_at": "2026-10-19T13:55:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALKIMI-USD",
+      "token_info_url": null,
+      "coin_id": "alkimi-2",
+      "coin_mcap_usd": 208930.35185862533
+    },
+    {
+      "base": "ALPHA",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.000392,
+      "volume": 52100.0,
+      "converted_last": {
+        "btc": 5.364e-09,
+        "eth": 1.83261e-07,
+        "usd": 0.00044026
+      },
+      "converted_volume": {
+        "btc": 0.00027946,
+        "eth": 0.0095479,
+        "usd": 22.94
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 5.995204,
+      "timestamp": "2026-10-19T10:05:16+00:00",
+      "last_traded_at": "2026-10-19T10:05:16+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALPHA-EUR",
+      "token_info_url": null,
+      "coin_id": "alpha-finance",
+      "coin_mcap_usd": 444454.78855744284
+    },
+    {
+      "base": "ALPHA",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.000451,
+      "volume": 2491870.66030152,
+      "converted_last": {
+        "btc": 5.498e-09,
+        "eth": 1.87855e-07,
+        "usd": 0.00045129
+      },
+      "converted_volume": {
+        "btc": 0.01370104,
+        "eth": 0.46811122,
+        "usd": 1124.57
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 1.769912,
+      "timestamp": "2026-10-19T13:38:58+00:00",
+      "last_traded_at": "2026-10-19T13:38:58+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALPHA-USD",
+      "token_info_url": null,
+      "coin_id": "alpha-finance",
+      "coin_mcap_usd": 444454.78855744284
+    },
+    {
+      "base": "ALT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00852,
+      "volume": 2198186.12532,
+      "converted_last": {
+        "btc": 1.0387e-07,
+        "eth": 3.55e-06,
+        "usd": 0.00852557
+      },
+      "converted_volume": {
+        "btc": 0.22832615,
+        "eth": 7.801014,
+        "usd": 18740.79
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.235018,
+      "timestamp": "2026-10-19T13:50:44+00:00",
+      "last_traded_at": "2026-10-19T13:50:44+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALT-USD",
+      "token_info_url": null,
+      "coin_id": "altlayer",
+      "coin_mcap_usd": 62543493.42244222
+    },
+    {
+      "base": "ALTHEA",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.04,
+      "volume": 65791.94664,
+      "converted_last": {
+        "btc": 5.47329e-07,
+        "eth": 1.87e-05,
+        "usd": 0.04492424
+      },
+      "converted_volume": {
+        "btc": 0.03600984,
+        "eth": 1.230316,
+        "usd": 2955.65
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 41.891892,
+      "timestamp": "2026-10-19T12:49:14+00:00",
+      "last_traded_at": "2026-10-19T12:49:14+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALTHEA-EUR",
+      "token_info_url": null,
+      "coin_id": "althea",
+      "coin_mcap_usd": 568954.6905525962
+    },
+    {
+      "base": "ALTHEA",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0389,
+      "volume": 5193943.69093,
+      "converted_last": {
+        "btc": 4.74243e-07,
+        "eth": 1.62e-05,
+        "usd": 0.03892543
+      },
+      "converted_volume": {
+        "btc": 2.463193,
+        "eth": 84.158,
+        "usd": 202177
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 4.627249,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ALTHEA-USD",
+      "token_info_url": null,
+      "coin_id": "althea",
+      "coin_mcap_usd": 568954.6905525962
+    },
+    {
+      "base": "AMBRX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 1.84,
+      "volume": 46.54925,
+      "converted_last": {
+        "btc": 2.243e-05,
+        "eth": 0.00076642,
+        "usd": 1.84
+      },
+      "converted_volume": {
+        "btc": 0.0010442,
+        "eth": 0.03567611,
+        "usd": 85.71
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 4.519774,
+      "timestamp": "2026-10-19T12:55:11+00:00",
+      "last_traded_at": "2026-10-19T12:55:11+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AMBRx-USD",
+      "token_info_url": null,
+      "coin_id": "amber-xstock",
+      "coin_mcap_usd": 397419.45318204124
+    },
+    {
+      "base": "AMDX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 549.83,
+      "volume": 161.625952,
+      "converted_last": {
+        "btc": 0.00670317,
+        "eth": 0.22902107,
+        "usd": 550.19
+      },
+      "converted_volume": {
+        "btc": 1.083406,
+        "eth": 37.015749,
+        "usd": 88925
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.029148,
+      "timestamp": "2026-10-19T13:54:34+00:00",
+      "last_traded_at": "2026-10-19T13:54:34+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AMDx-USD",
+      "token_info_url": null,
+      "coin_id": "amd-xstock",
+      "coin_mcap_usd": 4245330.245344437
+    },
+    {
+      "base": "AMI",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.000869,
+      "volume": 3578220.5786239,
+      "converted_last": {
+        "btc": 1.0594e-08,
+        "eth": 3.61965e-07,
+        "usd": 0.00086957
+      },
+      "converted_volume": {
+        "btc": 0.03790866,
+        "eth": 1.295191,
+        "usd": 3111.51
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 4.352941,
+      "timestamp": "2026-10-19T08:55:16+00:00",
+      "last_traded_at": "2026-10-19T08:55:16+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AMI-USD",
+      "token_info_url": null,
+      "coin_id": "ami",
+      "coin_mcap_usd": 516420.7709305015
+    },
+    {
+      "base": "AMZNX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 256.34,
+      "volume": 711.57323,
+      "converted_last": {
+        "btc": 0.00312513,
+        "eth": 0.10677348,
+        "usd": 256.51
+      },
+      "converted_volume": {
+        "btc": 2.223758,
+        "eth": 75.977,
+        "usd": 182524
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.023382,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AMZNx-USD",
+      "token_info_url": null,
+      "coin_id": "amazon-xstock",
+      "coin_mcap_usd": 9264145.503407538
+    },
+    {
+      "base": "ANIME",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.002367,
+      "volume": 1500.0,
+      "converted_last": {
+        "btc": 3.2074e-08,
+        "eth": 1.1e-06,
+        "usd": 0.00265016
+      },
+      "converted_volume": {
+        "btc": 4.811e-05,
+        "eth": 0.00165473,
+        "usd": 3.98
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 2.518892,
+      "timestamp": "2026-10-19T00:01:06+00:00",
+      "last_traded_at": "2026-10-19T00:01:06+00:00",
+      "last_fetch_at": "2026-10-19T08:01:00+00:00",
+      "is_anomaly": false,
+      "is_stale": true,
+      "trade_url": "https://pro.kraken.com/app/trade/ANIME-EUR",
+      "token_info_url": null,
+      "coin_id": "anime",
+      "coin_mcap_usd": 14665200.432521211
+    },
+    {
+      "base": "ANIME",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.002649,
+      "volume": 3494092.77527,
+      "converted_last": {
+        "btc": 3.2295e-08,
+        "eth": 1.1e-06,
+        "usd": 0.00265073
+      },
+      "converted_volume": {
+        "btc": 0.11284128,
+        "eth": 3.855346,
+        "usd": 9261.9
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.075586,
+      "timestamp": "2026-10-19T13:48:00+00:00",
+      "last_traded_at": "2026-10-19T13:48:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ANIME-USD",
+      "token_info_url": null,
+      "coin_id": "anime",
+      "coin_mcap_usd": 14665200.432521211
+    },
+    {
+      "base": "ANKR",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00367,
+      "volume": 1514285.93006955,
+      "converted_last": {
+        "btc": 5.0217e-08,
+        "eth": 1.72e-06,
+        "usd": 0.0041218
+      },
+      "converted_volume": {
+        "btc": 0.07604357,
+        "eth": 2.598112,
+        "usd": 6241.58
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.547945,
+      "timestamp": "2026-10-19T13:18:15+00:00",
+      "last_traded_at": "2026-10-19T13:18:15+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ANKR-EUR",
+      "token_info_url": null,
+      "coin_id": "ankr",
+      "coin_mcap_usd": 40875497.52976529
+    },
+    {
+      "base": "ANKR",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0041,
+      "volume": 3761536.80376492,
+      "converted_last": {
+        "btc": 4.9985e-08,
+        "eth": 1.71e-06,
+        "usd": 0.00410268
+      },
+      "converted_volume": {
+        "btc": 0.18801858,
+        "eth": 6.423862,
+        "usd": 15432.38
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.487805,
+      "timestamp": "2026-10-19T13:48:00+00:00",
+      "last_traded_at": "2026-10-19T13:48:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ANKR-USD",
+      "token_info_url": null,
+      "coin_id": "ankr",
+      "coin_mcap_usd": 40875497.52976529
+    },
+    {
+      "base": "ANON",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.279,
+      "volume": 20180.52565,
+      "converted_last": {
+        "btc": 3.4e-06,
+        "eth": 0.00011621,
+        "usd": 0.279182
+      },
+      "converted_volume": {
+        "btc": 0.06864174,
+        "eth": 2.345221,
+        "usd": 5634.05
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 5.734767,
+      "timestamp": "2026-10-19T10:37:32+00:00",
+      "last_traded_at": "2026-10-19T10:37:32+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ANON-USD",
+      "token_info_url": null,
+      "coin_id": "heyanon",
+      "coin_mcap_usd": 4178229.5854404243
+    },
+    {
+      "base": "APE",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1303,
+      "volume": 429303.24386908,
+      "converted_last": {
+        "btc": 1.78e-06,
+        "eth": 6.092e-05,
+        "usd": 0.146341
+      },
+      "converted_volume": {
+        "btc": 0.76541524,
+        "eth": 26.151254,
+        "usd": 62825
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.076805,
+      "timestamp": "2026-10-19T13:53:11+00:00",
+      "last_traded_at": "2026-10-19T13:53:11+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APE-EUR",
+      "token_info_url": null,
+      "coin_id": "apecoin",
+      "coin_mcap_usd": 146032020.39630938
+    },
+    {
+      "base": "APE",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1459,
+      "volume": 855880.18723985,
+      "converted_last": {
+        "btc": 1.78e-06,
+        "eth": 6.077e-05,
+        "usd": 0.145995
+      },
+      "converted_volume": {
+        "btc": 1.522369,
+        "eth": 52.013,
+        "usd": 124955
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.136893,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APE-USD",
+      "token_info_url": null,
+      "coin_id": "apecoin",
+      "coin_mcap_usd": 146032020.39630938
+    },
+    {
+      "base": "APE",
+      "target": "USDC",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.146,
+      "volume": 41605.15520314,
+      "converted_last": {
+        "btc": 1.78e-06,
+        "eth": 6.073e-05,
+        "usd": 0.145905
+      },
+      "converted_volume": {
+        "btc": 0.07385615,
+        "eth": 2.526849,
+        "usd": 6070.38
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.205198,
+      "timestamp": "2026-10-19T13:45:17+00:00",
+      "last_traded_at": "2026-10-19T13:45:17+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APE-USDC",
+      "token_info_url": null,
+      "coin_id": "apecoin",
+      "target_coin_id": "usd-coin",
+      "coin_mcap_usd": 146032020.39630938
+    },
+    {
+      "base": "APENFT",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 2.134e-07,
+      "volume": 1732041521.67,
+      "converted_last": {
+        "btc": 2.92e-12,
+        "eth": 9.9765e-11,
+        "usd": 2.39671e-07
+      },
+      "converted_volume": {
+        "btc": 0.00505756,
+        "eth": 0.17279718,
+        "usd": 415.12
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 1.668211,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APENFT-EUR",
+      "token_info_url": null,
+      "coin_id": "apenft",
+      "coin_mcap_usd": 237108648.6656763
+    },
+    {
+      "base": "APENFT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 2.389e-07,
+      "volume": 5498141744.84579,
+      "converted_last": {
+        "btc": 2.913e-12,
+        "eth": 9.9509e-11,
+        "usd": 2.39056e-07
+      },
+      "converted_volume": {
+        "btc": 0.0160134,
+        "eth": 0.5471156,
+        "usd": 1314.36
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.958333,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APENFT-USD",
+      "token_info_url": null,
+      "coin_id": "apenft",
+      "coin_mcap_usd": 237108648.6656763
+    },
+    {
+      "base": "API3",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.2659,
+      "volume": 38087.40879643,
+      "converted_last": {
+        "btc": 3.24e-06,
+        "eth": 0.00011076,
+        "usd": 0.266074
+      },
+      "converted_volume": {
+        "btc": 0.12346713,
+        "eth": 4.21839,
+        "usd": 10134.06
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.60015,
+      "timestamp": "2026-10-19T13:17:39+00:00",
+      "last_traded_at": "2026-10-19T13:17:39+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/API3-USD",
+      "token_info_url": null,
+      "coin_id": "api3",
+      "coin_mcap_usd": 39046319.120868854
+    },
+    {
+      "base": "APPX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 267.89,
+      "volume": 5.04359,
+      "converted_last": {
+        "btc": 0.00326594,
+        "eth": 0.11158441,
+        "usd": 268.07
+      },
+      "converted_volume": {
+        "btc": 0.01647206,
+        "eth": 0.56278601,
+        "usd": 1352.01
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.203774,
+      "timestamp": "2026-10-19T11:39:53+00:00",
+      "last_traded_at": "2026-10-19T11:39:53+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APPx-USD",
+      "token_info_url": null,
+      "coin_id": "applovin-xstock",
+      "coin_mcap_usd": 751140.4916165816
+    },
+    {
+      "base": "APR",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.02206,
+      "volume": 347394.0015,
+      "converted_last": {
+        "btc": 3.01852e-07,
+        "eth": 1.031e-05,
+        "usd": 0.02477572
+      },
+      "converted_volume": {
+        "btc": 0.10486157,
+        "eth": 3.582711,
+        "usd": 8606.94
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.719748,
+      "timestamp": "2026-10-19T12:59:40+00:00",
+      "last_traded_at": "2026-10-19T12:59:40+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APR-EUR",
+      "token_info_url": null,
+      "coin_id": "apriori",
+      "coin_mcap_usd": 6853888.728633131
+    },
+    {
+      "base": "APR",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.02461,
+      "volume": 6308430.17098,
+      "converted_last": {
+        "btc": 3.00029e-07,
+        "eth": 1.025e-05,
+        "usd": 0.02462609
+      },
+      "converted_volume": {
+        "btc": 1.892712,
+        "eth": 64.667,
+        "usd": 155352
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.721443,
+      "timestamp": "2026-10-19T13:43:21+00:00",
+      "last_traded_at": "2026-10-19T13:43:21+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APR-USD",
+      "token_info_url": null,
+      "coin_id": "apriori",
+      "coin_mcap_usd": 6853888.728633131
+    },
+    {
+      "base": "APT",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.6841,
+      "volume": 229343.62970676,
+      "converted_last": {
+        "btc": 9.36e-06,
+        "eth": 0.00031982,
+        "usd": 0.768317
+      },
+      "converted_volume": {
+        "btc": 2.146816,
+        "eth": 73.348,
+        "usd": 176209
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.087476,
+      "timestamp": "2026-10-19T13:55:52+00:00",
+      "last_traded_at": "2026-10-19T13:55:52+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APT-EUR",
+      "token_info_url": null,
+      "coin_id": "aptos",
+      "coin_mcap_usd": 679247609.9082738
+    },
+    {
+      "base": "APT",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.768,
+      "volume": 633710.1783263,
+      "converted_last": {
+        "btc": 9.36e-06,
+        "eth": 0.0003199,
+        "usd": 0.768502
+      },
+      "converted_volume": {
+        "btc": 5.933398,
+        "eth": 202.721,
+        "usd": 487008
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.10395,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/APT-USD",
+      "token_info_url": null,
+      "coin_id": "aptos",
+      "coin_mcap_usd": 679247609.9082738
+    },
+    {
+      "base": "AR",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 3.357,
+      "volume": 2860.9809,
+      "converted_last": {
+        "btc": 4.593e-05,
+        "eth": 0.00156941,
+        "usd": 3.77
+      },
+      "converted_volume": {
+        "btc": 0.13141799,
+        "eth": 4.49004,
+        "usd": 10786.66
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.502513,
+      "timestamp": "2026-10-19T13:54:34+00:00",
+      "last_traded_at": "2026-10-19T13:54:34+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AR-EUR",
+      "token_info_url": null,
+      "coin_id": "arweave",
+      "coin_mcap_usd": 248129999.75393426
+    },
+    {
+      "base": "AR",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 3.779,
+      "volume": 33681.93616,
+      "converted_last": {
+        "btc": 4.607e-05,
+        "eth": 0.00157407,
+        "usd": 3.78
+      },
+      "converted_volume": {
+        "btc": 1.551764,
+        "eth": 53.018,
+        "usd": 127367
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.15852,
+      "timestamp": "2026-10-19T13:58:00+00:00",
+      "last_traded_at": "2026-10-19T13:58:00+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/AR-USD",
+      "token_info_url": null,
+      "coin_id": "arweave",
+      "coin_mcap_usd": 248129999.75393426
+    },
+    {
+      "base": "ARB",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1746,
+      "volume": 4615886.19412,
+      "converted_last": {
+        "btc": 2.39e-06,
+        "eth": 8.163e-05,
+        "usd": 0.196094
+      },
+      "converted_volume": {
+        "btc": 11.027774,
+        "eth": 376.776,
+        "usd": 905149
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.057241,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARB-EUR",
+      "token_info_url": null,
+      "coin_id": "arbitrum",
+      "coin_mcap_usd": 1349968037.7225752
+    },
+    {
+      "base": "ARB",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1958,
+      "volume": 9638966.61068,
+      "converted_last": {
+        "btc": 2.39e-06,
+        "eth": 8.156e-05,
+        "usd": 0.195928
+      },
+      "converted_volume": {
+        "btc": 23.008842,
+        "eth": 786.122,
+        "usd": 1888544
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.101989,
+      "timestamp": "2026-10-19T13:57:26+00:00",
+      "last_traded_at": "2026-10-19T13:57:26+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARB-USD",
+      "token_info_url": null,
+      "coin_id": "arbitrum",
+      "coin_mcap_usd": 1349968037.7225752
+    },
+    {
+      "base": "ARC",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.0411,
+      "volume": 452991.50327,
+      "converted_last": {
+        "btc": 5.62381e-07,
+        "eth": 1.921e-05,
+        "usd": 0.04615966
+      },
+      "converted_volume": {
+        "btc": 0.25475364,
+        "eth": 8.703938,
+        "usd": 20910
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.654228,
+      "timestamp": "2026-10-19T13:30:55+00:00",
+      "last_traded_at": "2026-10-19T13:30:55+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARC-EUR",
+      "token_info_url": null,
+      "coin_id": "ai-rig-complex",
+      "coin_mcap_usd": 46003728.22971597
+    },
+    {
+      "base": "ARKM",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1014,
+      "volume": 92155.85522,
+      "converted_last": {
+        "btc": 1.39e-06,
+        "eth": 4.74e-05,
+        "usd": 0.113883
+      },
+      "converted_volume": {
+        "btc": 0.12786433,
+        "eth": 4.368626,
+        "usd": 10494.98
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.099206,
+      "timestamp": "2026-10-19T12:57:03+00:00",
+      "last_traded_at": "2026-10-19T12:57:03+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARKM-EUR",
+      "token_info_url": null,
+      "coin_id": "arkham",
+      "coin_mcap_usd": 80571453.45976856
+    },
+    {
+      "base": "ARKM",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.1129,
+      "volume": 734592.37294,
+      "converted_last": {
+        "btc": 1.38e-06,
+        "eth": 4.703e-05,
+        "usd": 0.112974
+      },
+      "converted_volume": {
+        "btc": 1.011095,
+        "eth": 34.545173,
+        "usd": 82990
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.088417,
+      "timestamp": "2026-10-19T13:56:42+00:00",
+      "last_traded_at": "2026-10-19T13:56:42+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARKM-USD",
+      "token_info_url": null,
+      "coin_id": "arkham",
+      "coin_mcap_usd": 80571453.45976856
+    },
+    {
+      "base": "ARPA",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00987,
+      "volume": 785154.7068525,
+      "converted_last": {
+        "btc": 1.20329e-07,
+        "eth": 4.11e-06,
+        "usd": 0.00987645
+      },
+      "converted_volume": {
+        "btc": 0.09447654,
+        "eth": 3.227895,
+        "usd": 7754.54
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.202634,
+      "timestamp": "2026-10-19T13:36:54+00:00",
+      "last_traded_at": "2026-10-19T13:36:54+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARPA-USD",
+      "token_info_url": null,
+      "coin_id": "arpa",
+      "coin_mcap_usd": 17178513.037044995
+    },
+    {
+      "base": "ARX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.22884,
+      "volume": 87864.22368,
+      "converted_last": {
+        "btc": 2.79e-06,
+        "eth": 9.532e-05,
+        "usd": 0.22899
+      },
+      "converted_volume": {
+        "btc": 0.24512952,
+        "eth": 8.37512,
+        "usd": 20120
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.435692,
+      "timestamp": "2026-10-19T13:26:16+00:00",
+      "last_traded_at": "2026-10-19T13:26:16+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ARX-USD",
+      "token_info_url": null,
+      "coin_id": "arcium",
+      "coin_mcap_usd": 47882297.18272693
+    },
+    {
+      "base": "ASMLX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 1663.79101,
+      "volume": 0.003268,
+      "converted_last": {
+        "btc": 0.02028385,
+        "eth": 0.69302003,
+        "usd": 1664.88
+      },
+      "converted_volume": {
+        "btc": 6.629e-05,
+        "eth": 0.00226479,
+        "usd": 5.44
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.362779,
+      "timestamp": "2026-10-19T13:49:48+00:00",
+      "last_traded_at": "2026-10-19T13:49:48+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASMLx-USD",
+      "token_info_url": null,
+      "coin_id": "asml-xstock",
+      "coin_mcap_usd": 1119925.3218078727
+    },
+    {
+      "base": "ASSET",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.18239,
+      "volume": 976.21159,
+      "converted_last": {
+        "btc": 2.22e-06,
+        "eth": 7.597e-05,
+        "usd": 0.182509
+      },
+      "converted_volume": {
+        "btc": 0.00217068,
+        "eth": 0.0741638,
+        "usd": 178.17
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 2.30316,
+      "timestamp": "2026-10-19T13:13:58+00:00",
+      "last_traded_at": "2026-10-19T13:13:58+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASSET-USD",
+      "token_info_url": null,
+      "coin_id": "asset",
+      "coin_mcap_usd": 32860971.593812123
+    },
+    {
+      "base": "ASTER",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.62306,
+      "volume": 124727.70853,
+      "converted_last": {
+        "btc": 8.53e-06,
+        "eth": 0.00029128,
+        "usd": 0.699762
+      },
+      "converted_volume": {
+        "btc": 1.063362,
+        "eth": 36.330949,
+        "usd": 87280
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.046549,
+      "timestamp": "2026-10-19T13:53:11+00:00",
+      "last_traded_at": "2026-10-19T13:53:11+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASTER-EUR",
+      "token_info_url": null,
+      "coin_id": "aster-2",
+      "coin_mcap_usd": 1897995161.224865
+    },
+    {
+      "base": "ASTER",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.69989,
+      "volume": 422892.11557,
+      "converted_last": {
+        "btc": 8.53e-06,
+        "eth": 0.00029153,
+        "usd": 0.700348
+      },
+      "converted_volume": {
+        "btc": 3.608369,
+        "eth": 123.284,
+        "usd": 296171
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.040053,
+      "timestamp": "2026-10-19T13:45:17+00:00",
+      "last_traded_at": "2026-10-19T13:45:17+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASTER-USD",
+      "token_info_url": null,
+      "coin_id": "aster-2",
+      "coin_mcap_usd": 1897995161.224865
+    },
+    {
+      "base": "ASTR",
+      "target": "EUR",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00525,
+      "volume": 295223.07774206,
+      "converted_last": {
+        "btc": 7.1837e-08,
+        "eth": 2.45e-06,
+        "usd": 0.00589631
+      },
+      "converted_volume": {
+        "btc": 0.02120792,
+        "eth": 0.72459201,
+        "usd": 1740.73
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.381679,
+      "timestamp": "2026-10-19T10:23:03+00:00",
+      "last_traded_at": "2026-10-19T10:23:03+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASTR-EUR",
+      "token_info_url": null,
+      "coin_id": "astar",
+      "coin_mcap_usd": 51594955.3423666
+    },
+    {
+      "base": "ASTR",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 0.00587,
+      "volume": 440831.89311287,
+      "converted_last": {
+        "btc": 7.1563e-08,
+        "eth": 2.45e-06,
+        "usd": 0.00587384
+      },
+      "converted_volume": {
+        "btc": 0.03154734,
+        "eth": 1.077849,
+        "usd": 2589.37
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.340716,
+      "timestamp": "2026-10-19T13:16:46+00:00",
+      "last_traded_at": "2026-10-19T13:16:46+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASTR-USD",
+      "token_info_url": null,
+      "coin_id": "astar",
+      "coin_mcap_usd": 51594955.3423666
+    },
+    {
+      "base": "ASTSX",
+      "target": "USD",
+      "market": {
+        "name": "Kraken",
+        "identifier": "kraken",
+        "has_trading_incentive": false
+      },
+      "last": 42.34,
+      "volume": 4.922188,
+      "converted_last": {
+        "btc": 0.00051618,
+        "eth": 0.01763591,
+        "usd": 42.37
+      },
+      "converted_volume": {
+        "btc": 0.00254074,
+        "eth": 0.08680726,
+        "usd": 208.54
+      },
+      "trust_score": null,
+      "bid_ask_spread_percentage": 0.533643,
+      "timestamp": "2026-10-19T13:36:55+00:00",
+      "last_traded_at": "2026-10-19T13:36:55+00:00",
+      "last_fetch_at": "2026-10-19T13:57:40+00:00",
+      "is_anomaly": false,
+      "is_stale": false,
+      "trade_url": "https://pro.kraken.com/app/trade/ASTSx-USD",
+      "token_info_url": null,
+      "coin_id": "ast-spacemobile-xstock",
+      "coin_mcap_usd": 0.0
+    }
+  ]
+}

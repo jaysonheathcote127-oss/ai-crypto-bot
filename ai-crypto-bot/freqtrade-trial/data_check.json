@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-19T13:56:29.923797+00:00",
+  "data": [
+    {
+      "pair": "BTC/USD",
+      "completed_bars": 719,
+      "start": "2026-09-19T14:00:00+00:00",
+      "end": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "pair": "ETH/USD",
+      "completed_bars": 719,
+      "start": "2026-09-19T14:00:00+00:00",
+      "end": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "pair": "SOL/USD",
+      "completed_bars": 719,
+      "start": "2026-09-19T14:00:00+00:00",
+      "end": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "pair": "XRP/USD",
+      "completed_bars": 719,
+      "start": "2026-09-19T14:00:00+00:00",
+      "end": "2026-10-19T12:00:00+00:00"
+    },
+    {
+      "pair": "LINK/USD",
+      "completed_bars": 719,
+      "start": "2026-09-19T14:00:00+00:00",
+      "end": "2026-10-19T12:00:00+00:00"
+    }
+  ],
+  "limitation": "Recent candles only. Compatibility check, not strategy validation. No historic top100 membership reconstruction."
+}

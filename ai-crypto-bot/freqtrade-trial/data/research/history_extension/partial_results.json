@@ -1,0 +1,166 @@
+{
+  "earlier_year_base": {
+    "DailyRelativeStrength": {
+      "return_pct": 8.891004751999999,
+      "profit": 88.91004751999999,
+      "final_balance": 1088.91004752,
+      "trades": 253,
+      "hourly_close_drawdown_pct": 5.017302884445107,
+      "engine_four_hour_open_drawdown_pct": 4.85132245497919,
+      "force_exits": 5,
+      "hourly_final_difference": -7.766175258439034e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_base/backtest-result-2026-10-19_15-14-00.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 8.871684014,
+      "profit": 88.71684014,
+      "final_balance": 1088.71684014,
+      "trades": 255,
+      "hourly_close_drawdown_pct": 4.831740566782017,
+      "engine_four_hour_open_drawdown_pct": 4.665143119646753,
+      "force_exits": 5,
+      "hourly_final_difference": -3.89793513022596e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_base/backtest-result-2026-10-19_15-14-00.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 10.518243958999998,
+      "profit": 105.18243958999997,
+      "final_balance": 1105.1824395899998,
+      "trades": 195,
+      "hourly_close_drawdown_pct": 6.337100374942473,
+      "engine_four_hour_open_drawdown_pct": 6.187579124863407,
+      "force_exits": 5,
+      "hourly_final_difference": -9.365567166241817e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_base/backtest-result-2026-10-19_15-14-00.zip"
+    }
+  },
+  "earlier_year_stress": {
+    "DailyRelativeStrength": {
+      "return_pct": 5.063609890000001,
+      "profit": 50.636098900000015,
+      "final_balance": 1050.6360989,
+      "trades": 253,
+      "hourly_close_drawdown_pct": 6.357098228873337,
+      "engine_four_hour_open_drawdown_pct": 6.187753094273852,
+      "force_exits": 5,
+      "hourly_final_difference": -3.9338374335784465e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_stress/backtest-result-2026-10-19_15-14-09.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 5.014301066,
+      "profit": 50.14301066,
+      "final_balance": 1050.14301066,
+      "trades": 255,
+      "hourly_close_drawdown_pct": 6.159782291920546,
+      "engine_four_hour_open_drawdown_pct": 5.9897804878506715,
+      "force_exits": 5,
+      "hourly_final_difference": -4.719163371191826e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_stress/backtest-result-2026-10-19_15-14-09.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 7.557263479000001,
+      "profit": 75.57263479000001,
+      "final_balance": 1075.57263479,
+      "trades": 195,
+      "hourly_close_drawdown_pct": 7.429596972372387,
+      "engine_four_hour_open_drawdown_pct": 7.277018279102265,
+      "force_exits": 5,
+      "hourly_final_difference": 1.3913449947722256e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2024-09-30 20:00:00",
+      "source_archive": "data/research/history_extension/earlier_year_stress/backtest-result-2026-10-19_15-14-09.zip"
+    }
+  },
+  "extended_continuous_base": {
+    "DailyRelativeStrength": {
+      "return_pct": 25.870378406000004,
+      "profit": 258.70378406000003,
+      "final_balance": 1258.70378406,
+      "trades": 779,
+      "hourly_close_drawdown_pct": 8.915571805974498,
+      "engine_four_hour_open_drawdown_pct": 8.909592481374151,
+      "force_exits": 0,
+      "hourly_final_difference": -7.611379260197282e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 28.478572815000003,
+      "profit": 284.78572815,
+      "final_balance": 1284.7857281499996,
+      "trades": 785,
+      "hourly_close_drawdown_pct": 8.459626330964443,
+      "engine_four_hour_open_drawdown_pct": 8.458376721373329,
+      "force_exits": 0,
+      "hourly_final_difference": -1.520106707175728e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 27.919578224,
+      "profit": 279.19578223999997,
+      "final_balance": 1279.1957822399997,
+      "trades": 560,
+      "hourly_close_drawdown_pct": 9.736072068069534,
+      "engine_four_hour_open_drawdown_pct": 9.73572272563976,
+      "force_exits": 0,
+      "hourly_final_difference": -8.001529749890324e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    }
+  },
+  "extended_continuous_stress": {
+    "DailyRelativeStrength": {
+      "return_pct": 14.090169885000003,
+      "profit": 140.90169885000003,
+      "final_balance": 1140.90169885,
+      "trades": 779,
+      "hourly_close_drawdown_pct": 14.035194668874318,
+      "engine_four_hour_open_drawdown_pct": 13.99511292057477,
+      "force_exits": 0,
+      "hourly_final_difference": -1.0031203601101879e-07,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 16.600394563000002,
+      "profit": 166.00394563,
+      "final_balance": 1166.00394563,
+      "trades": 785,
+      "hourly_close_drawdown_pct": 12.771432637821656,
+      "engine_four_hour_open_drawdown_pct": 12.731790124770349,
+      "force_exits": 0,
+      "hourly_final_difference": -4.0636223275214434e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 19.423126813,
+      "profit": 194.23126813,
+      "final_balance": 1194.23126813,
+      "trades": 560,
+      "hourly_close_drawdown_pct": 12.946128798545619,
+      "engine_four_hour_open_drawdown_pct": 12.952330800050781,
+      "force_exits": 0,
+      "hourly_final_difference": 3.2735442800913006e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    }
+  }
+}

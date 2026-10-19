@@ -1,0 +1,202 @@
+{
+  "funnel": {
+    "BTC-USDT": {
+      "closed_bars": 27936,
+      "range_sweeps": 18,
+      "trend_sweeps": 1,
+      "rejection_context_pass": 19
+    },
+    "ETH-USDT": {
+      "closed_bars": 27936,
+      "range_sweeps": 10,
+      "trend_sweeps": 0,
+      "rejection_context_pass": 10
+    }
+  },
+  "results": [
+    {
+      "model": "NC",
+      "fee_per_side": 0.0015,
+      "trades": 3,
+      "wins": 0,
+      "losses": 2,
+      "breakeven": 1,
+      "return_pct": -0.9975000000000178,
+      "final_equity": 990.0249999999999,
+      "close_drawdown_pct": 0.9975000000000178,
+      "fees": 5.577367949032881,
+      "profit_factor": 0.0,
+      "mean_net_r": -0.6666666666666758,
+      "exposure_pct": 0.08873456790123457,
+      "blocks": [
+        {
+          "start": "2026-07-21 00:00:00+00:00",
+          "end": "2026-08-20 00:00:00+00:00",
+          "marked_return_pct": -0.5000000000000004,
+          "closed_trades": 1
+        },
+        {
+          "start": "2026-08-20 00:00:00+00:00",
+          "end": "2026-09-19 00:00:00+00:00",
+          "marked_return_pct": -0.5000000000000115,
+          "closed_trades": 2
+        },
+        {
+          "start": "2026-09-19 00:00:00+00:00",
+          "end": "2026-10-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        }
+      ],
+      "pair_pnl": {
+        "BTC-USDT": -9.975000000000023,
+        "ETH-USDT": -1.1368683772161603e-13
+      },
+      "rejections": {
+        "outside_session": 22,
+        "session_used": 1,
+        "position_open": 0,
+        "rr_or_gap": 0
+      },
+      "pnl_reconciliation_error": 0.0
+    },
+    {
+      "model": "NC",
+      "fee_per_side": 0.0045,
+      "trades": 3,
+      "wins": 0,
+      "losses": 3,
+      "breakeven": 0,
+      "return_pct": -1.4925124999999984,
+      "final_equity": 985.074875,
+      "close_drawdown_pct": 1.4925124999999984,
+      "fees": 9.550213238747006,
+      "profit_factor": 0.0,
+      "mean_net_r": -0.999999999999991,
+      "exposure_pct": 0.3395061728395062,
+      "blocks": [
+        {
+          "start": "2026-07-21 00:00:00+00:00",
+          "end": "2026-08-20 00:00:00+00:00",
+          "marked_return_pct": -0.5000000000000004,
+          "closed_trades": 1
+        },
+        {
+          "start": "2026-08-20 00:00:00+00:00",
+          "end": "2026-09-19 00:00:00+00:00",
+          "marked_return_pct": -0.9974999999999956,
+          "closed_trades": 2
+        },
+        {
+          "start": "2026-09-19 00:00:00+00:00",
+          "end": "2026-10-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        }
+      ],
+      "pair_pnl": {
+        "BTC-USDT": -9.950124999999957,
+        "ETH-USDT": -4.974999999999909
+      },
+      "rejections": {
+        "outside_session": 22,
+        "session_used": 1,
+        "position_open": 0,
+        "rr_or_gap": 0
+      },
+      "pnl_reconciliation_error": -1.1368683772161603e-13
+    },
+    {
+      "model": "SBC",
+      "fee_per_side": 0.0015,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakeven": 0,
+      "return_pct": 0.0,
+      "final_equity": 1000.0,
+      "close_drawdown_pct": 0.0,
+      "fees": 0,
+      "profit_factor": null,
+      "mean_net_r": null,
+      "exposure_pct": 0.0,
+      "blocks": [
+        {
+          "start": "2026-07-21 00:00:00+00:00",
+          "end": "2026-08-20 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        },
+        {
+          "start": "2026-08-20 00:00:00+00:00",
+          "end": "2026-09-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        },
+        {
+          "start": "2026-09-19 00:00:00+00:00",
+          "end": "2026-10-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        }
+      ],
+      "pair_pnl": {
+        "BTC-USDT": 0,
+        "ETH-USDT": 0
+      },
+      "rejections": {
+        "outside_session": 1,
+        "session_used": 0,
+        "position_open": 0,
+        "rr_or_gap": 0
+      },
+      "pnl_reconciliation_error": 0.0
+    },
+    {
+      "model": "SBC",
+      "fee_per_side": 0.0045,
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "breakeven": 0,
+      "return_pct": 0.0,
+      "final_equity": 1000.0,
+      "close_drawdown_pct": 0.0,
+      "fees": 0,
+      "profit_factor": null,
+      "mean_net_r": null,
+      "exposure_pct": 0.0,
+      "blocks": [
+        {
+          "start": "2026-07-21 00:00:00+00:00",
+          "end": "2026-08-20 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        },
+        {
+          "start": "2026-08-20 00:00:00+00:00",
+          "end": "2026-09-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        },
+        {
+          "start": "2026-09-19 00:00:00+00:00",
+          "end": "2026-10-19 00:00:00+00:00",
+          "marked_return_pct": 0.0,
+          "closed_trades": 0
+        }
+      ],
+      "pair_pnl": {
+        "BTC-USDT": 0,
+        "ETH-USDT": 0
+      },
+      "rejections": {
+        "outside_session": 1,
+        "session_used": 0,
+        "position_open": 0,
+        "rr_or_gap": 0
+      },
+      "pnl_reconciliation_error": 0.0
+    }
+  ]
+}

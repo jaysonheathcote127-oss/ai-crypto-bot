@@ -1,0 +1,397 @@
+{
+  "earlier_start": "2023-07-01T00:00:00+00:00",
+  "earlier_end_exclusive": "2024-10-01T00:00:00+00:00",
+  "assets": {
+    "BTC/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "1a9630f97bc47d48261a1d61964f6bdba51bd70242df5fbe68e51eb5f7fa4223",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "b5c35be716fdc80a15c48afc816d8d9eef7fc5fd9912d5e5782cb35129dfb0a7"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "8a2aeebd427b510d03571dcbf32b68800d48f3d2802163314cd5ca376d465b39",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "d05d9fbdf03e76e03944f090948a8205bb097fcfd2e8f29d17cc729a692cdd5e"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "ETH/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "2882f7a8d59bd98605b66a281ce8789e77b82ba84d689df31920d34406c48822",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "66c3d43b75c6abdbe99bb6f18924c0e99d8077f3dd5e9899e017f69815207acf"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "dc29338175ffce8c130bdc2ce28fa291b7c6a5d80704aa77be1c2a9953c2ef9f",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "3713c043ac21b9b35c486e6fe6be9016dd4cce2161ff7db07b12b1f032805a87"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "BNB/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "f1f383430cea61ecca0892454d7f85da6788117931ed05ca912733febcdf179e",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "0a7d7f6fc54df49a0ff20e2fbc0b9dcb3eab95097cf8050b92a8b2dd68b9251f"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "c1750192f4734d9590f323523ea241547f078017d82f9acdffd8e2a6a220253f",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "2f2da3640d2a54fbfde6112e991d0c296a0796ee555643a03a2875dd8274ca29"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "XRP/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "42dd1768216d093147212a49fc08fe1f8dab89db617b541da5d225d4b463d493",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "6e6328725221759d13f71b98bb3c89fd7471117a10c4ec7efa625ef518694efe"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "bd25e575d2607dfa5e8d25837f8fe6c196dee100abc1918571021ab57560d2ae",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "651cbb4c11c8cd4cc5cb88251f9232f05891338e13b1f7304c7afdf3dcd1d70a"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "SOL/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "024c9db7c67f661ba14fb4d00294c0180ede2cf71ff731973b02443a5ae47fef",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "84c5b7cd5e760de303765b22b3ddd0dbcc7e26166b73e33e30a668d7f1cb4bb8"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "b07c806a3474babbd1caf0a68f83801a2181359c3f1187459f16c8509a497080",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "a58a321f7cf5a03a5ce13b15004679fbb445e150a320d5fafb2c5bb8a7940588"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "TRX/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "374bbebb89e1c18b80edc99be0861a61dcc159a07e41632ddafcb912ca0c08d3",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "af54f31cbde3af6c2ade62deba0f84ceefaa94679770ca5b798d026c336a73a9"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "ab4defc59b522ab17f179ade4171c7250dbfba719f729207b4122c30196dff50",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "c65d2e1af5cf820e6ae67cd46aff702108c0b1909220b460f95730435795b91b"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "DOGE/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "e2fb769a2cf7c9d1f81693face6bcb850a5111794db5a1edcb1be411919d81ff",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "1f5b7c5b87654a0830ff03105520fa8fb74f290b53fcbc0031d8960a0f3efd48"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "11bf5c8097f99ffbfbe5d5166cf88291e56bb094bcefd380a2883fa12222b9b2",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "599347e39acda06457850f6ec3fb3868baaa6721a2e2129ced5ebdf0e4a444f7"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "LINK/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "f5148ab648c77a96c95e678ec89f56eca8166119ad3adf751cb54b3c6a297a88",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "ad27aba8950414db1555eeb10b490c7b785b91d9cdb6f14301d18c1458b15778"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "a95f9ba80c5d764842d32b1fedda74764bded3cc996a010bd8af440a0ed2e73a",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "41fe346ce5ebb1f4fd2d626ff9fd37a4ccc5806c78c442553d689e9988b4f1a6"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "ADA/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "9a07064123a532009c23168bd6fd22006ee963fa03c740361eb59166f5b4627f",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "8e21ba8cf4b0cc419212a32292b72eff6c3a6e2ea4d3f85e9c96230200e98482"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "d567d41caa32e05ba092784850d722498e10e432b3a14bbe23e59af3042c6a0b",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "9fa389032f3570b3a49c0937312ae63ad8813fb74bd190f52df0ac33224c3a51"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "NEAR/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "f4f839be33f319ec1fcb976bd76cfcfef5cdf50f1e7a31ba82a4a5ece5ac87b5",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "d1dcf7cb826f1b2e3810d96c7d0ec9fb85a7fc74e53161d6a0dcc95b086713b9"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "6c6d9e5062e2c3f9979a4e21dea463304c548c3b4921d7ef2d896733293edc69",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "4fa28dca45e9defe03950b08b424b0fa879b298f3d0a5743679f6957ad559b0e"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "XLM/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "48297918d7fd028ce9b8264a09f31e3f51fadbcc4e2f6ca0df8aba8bc0aa6ad5",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "724104ae7fd68092db4fe67096b8acb0e93a72c22bae0f8e34cc17c848dcf383"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "64a4e8269a878bf87c1e0f5be6b1ddd0f9b355a7bd5d47f5f01b37575352794c",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "e451ccf1c6a3b214b4342291146a6053bdc6f1b3f8ad949ce89217edca7d9647"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "BCH/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "2894dfac81019501d7cc087670d0843d003864a388c7aacc2c4121593c86ba39",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "6061056c43732292ef56012a43d3bb8f64ce806e3e57f9bcdfef3e7918497a35"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "2a38512a88deab9caea624874abdba80f08957316c63ed0feed4cedb565a09ea",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "1f503fe313965e9b3ee37b9e44123a58aeeaf65e8448812f42e5a6afa43215be"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "LTC/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "fe99d588d3ec2f7bb92d2e6733e2ddb9f5e9b0a02ad66268abf0cccd1b073d91",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "53dae6be09f5d0d71404176d8afbb743522dfb3317f152b05da2830bd45bd7de"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "2cfa40fbacff18cc9bc8539e4fd5247e60c0326fd17f3b1e7ec0e8d7505846ba",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "32390d564afb6e92f82ff34c8fc05d4cfbcbb5740809495aae947f9e7c59bed4"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "UNI/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "3b63e769120596a06413bdc086073329a14bc99b0bb7f13d1e4303e59e2849b3",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "2a65191ddb87c41dd298a938df577db69465b3507f3406d7d09e4aff23e06fc0"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "e8fe1d91c5e20373b648c6981991f537eb1a4be1f36b9e10bbeb19b36b509b5a",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "8593f1d205767de865020359f6a596a6fe937aa7f60070639d080650dc127c74"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "AVAX/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "a2c6857bf44c4efb7174266bf6ba9ef32f301704f8472fe9a178cb101bec4fa7",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "9c33fda0754caeb5b03439285907e1711af4c3b93feca7781d7a8874b0fd7bb9"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "db83fda1ac1bac2e08dfc3e1646ee1541389c40d4f45b0f7053577578126553a",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "9c34893648123cf6bf94adba2b4f4930dfcfe8beff216505f93a454e40f8e730"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "SUI/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "fa735b6b88354371671030cd4be0b6d9e530323082c9c034c2c22cd20855199d",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "610ecfc03c75ab78b5f8be25d1b63d2e12927243045d280d2bd6936fcffc4708"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "ccda2e1b4be043603e764327430072ff2cc52430af5af6833df524e393399dc0",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "d3d5e01b238b05af336080c400618c42d06570e1841b4a36af048fb946cdc941"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    },
+    "HBAR/USDT": {
+      "4h": {
+        "candles": 2748,
+        "source_sha256": "0c7d4bd98c981b028ca8c418027d63891521485f38a78978269770b073ba7b93",
+        "merged_candles": 7236,
+        "overlap_candles": 552,
+        "merged_sha256": "cae5d64e94c4edf0bbc2c889319e514b2daf717fcb48abdac4c5429f74f93d24"
+      },
+      "1h": {
+        "candles": 10992,
+        "source_sha256": "52c177884f9d551fbb300769b01c1190e57d1b502a5310095f7d09f6f68b54de",
+        "merged_candles": 28944,
+        "overlap_candles": 0,
+        "merged_sha256": "8ceb604c26bb899bb59954fd3bef7fa99993dde21cf05380923cc790e784f51d"
+      },
+      "aggregation_mismatches": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "status": "complete"
+    }
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "completed_at": "2026-10-19T14:23:16.221642+00:00",
+  "status": "exploratory_only_no_promotion",
+  "hashes": {
+    "DISCORD_EXPERIMENT.md": "43fca2d5332b819a2b6f90e1b8d84c3cb2e9a8b191cedad60af6b72928b66157",
+    "user_data/strategies/discord_proxies.py": "b62bb7e3b0c5c116dc243db451e0888c0f4fade999301404ec7ce8adfe33c583",
+    "config.research.json": "0e07ce374ee94587ec427d3f74f5451e193828ff62853964f03932f9a0cbc755"
+  },
+  "warning": "All historical periods previously inspected; no untouched holdout.",
+  "results": {
+    "development_base": {
+      "SweepConfirm": {
+        "return_pct": -6.052829704999999,
+        "profit": -60.52829704999999,
+        "final_balance": 939.47170295,
+        "trades": 75,
+        "closed_trade_drawdown_pct": 9.637266442551667,
+        "marked_wallet_drawdown_pct": 10.356098579946881,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/development_base/backtest-result-2026-10-19_14-22-55.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": -4.230215215000001,
+        "profit": -42.302152150000005,
+        "final_balance": 957.69784785,
+        "trades": 21,
+        "closed_trade_drawdown_pct": 7.871153759828954,
+        "marked_wallet_drawdown_pct": 9.286008210427966,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/development_base/backtest-result-2026-10-19_14-22-55.zip"
+      }
+    },
+    "development_stress": {
+      "SweepConfirm": {
+        "return_pct": -10.541397215999998,
+        "profit": -105.41397215999999,
+        "final_balance": 894.58602784,
+        "trades": 75,
+        "closed_trade_drawdown_pct": 12.790012677230647,
+        "marked_wallet_drawdown_pct": 13.475960353137495,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/development_stress/backtest-result-2026-10-19_14-22-59.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": -5.479395070999999,
+        "profit": -54.79395070999999,
+        "final_balance": 945.20604929,
+        "trades": 21,
+        "closed_trade_drawdown_pct": 8.516031298872328,
+        "marked_wallet_drawdown_pct": 10.042107534255539,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/development_stress/backtest-result-2026-10-19_14-22-59.zip"
+      }
+    },
+    "validation_base": {
+      "SweepConfirm": {
+        "return_pct": 0.39386744399999996,
+        "profit": 3.9386744399999998,
+        "final_balance": 1003.93867444,
+        "trades": 45,
+        "closed_trade_drawdown_pct": 5.070662483482905,
+        "marked_wallet_drawdown_pct": 5.272112331422784,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 4,
+        "source_archive": "data/research/discord_exploratory/validation_base/backtest-result-2026-10-19_14-23-03.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": 0.505352488,
+        "profit": 5.05352488,
+        "final_balance": 1005.05352488,
+        "trades": 2,
+        "closed_trade_drawdown_pct": 0.04807121554959565,
+        "marked_wallet_drawdown_pct": 0.4874416776409318,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/discord_exploratory/validation_base/backtest-result-2026-10-19_14-23-03.zip"
+      }
+    },
+    "validation_stress": {
+      "SweepConfirm": {
+        "return_pct": -2.3113649240000007,
+        "profit": -23.113649240000004,
+        "final_balance": 976.88635076,
+        "trades": 45,
+        "closed_trade_drawdown_pct": 5.59535591486829,
+        "marked_wallet_drawdown_pct": 5.842627584192517,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 4,
+        "source_archive": "data/research/discord_exploratory/validation_stress/backtest-result-2026-10-19_14-23-07.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": 0.3836541,
+        "profit": 3.8365409999999995,
+        "final_balance": 1003.836541,
+        "trades": 2,
+        "closed_trade_drawdown_pct": 0.10775221464834371,
+        "marked_wallet_drawdown_pct": 0.4877406224045977,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 1,
+        "source_archive": "data/research/discord_exploratory/validation_stress/backtest-result-2026-10-19_14-23-07.zip"
+      }
+    },
+    "holdout_base": {
+      "SweepConfirm": {
+        "return_pct": -1.6626927799999995,
+        "profit": -16.626927799999997,
+        "final_balance": 983.3730722,
+        "trades": 34,
+        "closed_trade_drawdown_pct": 4.222318853417392,
+        "marked_wallet_drawdown_pct": 4.325001682819963,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/holdout_base/backtest-result-2026-10-19_14-23-11.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": 0.6046953219999999,
+        "profit": 6.046953219999999,
+        "final_balance": 1006.04695322,
+        "trades": 9,
+        "closed_trade_drawdown_pct": 0.8662991141687153,
+        "marked_wallet_drawdown_pct": 1.6040499585475931,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/holdout_base/backtest-result-2026-10-19_14-23-11.zip"
+      }
+    },
+    "holdout_stress": {
+      "SweepConfirm": {
+        "return_pct": -3.7007600789999997,
+        "profit": -37.00760079,
+        "final_balance": 962.99239921,
+        "trades": 34,
+        "closed_trade_drawdown_pct": 5.425028345545294,
+        "marked_wallet_drawdown_pct": 5.527266546596222,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/holdout_stress/backtest-result-2026-10-19_14-23-15.zip"
+      },
+      "SweepTrendConfirm": {
+        "return_pct": 0.06206792100000027,
+        "profit": 0.6206792100000027,
+        "final_balance": 1000.62067921,
+        "trades": 9,
+        "closed_trade_drawdown_pct": 1.0792777450000017,
+        "marked_wallet_drawdown_pct": 1.78326480411104,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/discord_exploratory/holdout_stress/backtest-result-2026-10-19_14-23-15.zip"
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+rank,coin_id,pair,status,completed_candle,last_close,reason
+,,BTC/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,ETH/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,BNB/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,XRP/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,SOL/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,TRX/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,DOGE/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,LINK/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,ADA/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,NEAR/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,XLM/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,BCH/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,LTC/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,UNI/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,AVAX/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,SUI/USDT,blocked,,,Fixed-universe snapshot blocked; see errors
+,,HBAR/USDT,blocked,,,Fixed-universe snapshot blocked; see errors

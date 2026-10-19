@@ -1,0 +1,210 @@
+{
+  "start": "2024-10-01T00:00:00+00:00",
+  "end_exclusive": "2026-10-19T00:00:00+00:00",
+  "assets": {
+    "BTC/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "5bfe2f9b8e77add21beafdbd6b7aedddb1da9f16024dbfc62198be6d0dda9eb9",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "ETH/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "5fc7c970fcdf765d8696e7a881bc18f287fda0ac31e27dba4b83542d6a057aa3",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "BNB/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "38289f37432ea22987ea00838257df596de6a33625ceda5f9deb53df37b87c07",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "SOL/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "f26dfb710b1e0fa9dee913d9bd3299979b99c25fb4917a67a4c0feff46513d8d",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "XRP/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "8d5bdd5f561009937f21bf2cdd2d09455aae95cede174bad6b6710c5a1dee732",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "TRX/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "0babf69846250583094993664fcff297a463427a89452f95894a0ab48cc8d3a9",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "DOGE/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "807360029d0b7a2fca04c634b2636a344124a62012f8deb9da89b9d655f8b0b4",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "LINK/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "fa4c3318d9d05cdc058b62354fdb2133798eec9a97bbaa40b114e93c923526f5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "ADA/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "acb726da4403cc1f37d1da4489ba10aeeb52c50b225bae25539be08b4511f792",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "NEAR/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "4ced969370197d2bcf52924438aec6beb71ca192a703c70ceab687f65511d696",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "XLM/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "765eaa7ff29b7e7ccd901becc5ffdd744281bfe1725a9f1004ccf38daaad8406",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "BCH/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "b3550cf4bddf1cb65161b0ad2e27617f16ee8e5b2c35b4529eb60aaba30c496e",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "LTC/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "8fd6da751e67eef04e9ee5dc85443903957fc3cb9582354a54b4a86c2e7ae4a3",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "UNI/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "4832a8c2b2ee90269ced48e773e5720e9d7f3428a81d8fc3a8b026da13764289",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "AVAX/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "3d53bfd7036c57ee81b24b99461a98c0e43544aa12d81632389742a0b6e4b8e5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "SUI/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "a4ca8440b3cd881b2d534efb2eba524a7fb335777f5391203be6fa6bedfabde5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "HBAR/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "b399e907a4d06cb4eab42659166e57020afd44072e335853201f858e708fdf36",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    }
+  }
+}

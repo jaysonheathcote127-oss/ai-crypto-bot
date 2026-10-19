@@ -1,0 +1,249 @@
+{
+  "retrieved_at": "2026-10-19T15:24:22.943397+00:00",
+  "ranking_source": "https://coinmarketcap.com/historical/20230924/",
+  "ranking_date": "2023-09-24",
+  "verified_ranked_rows": 20,
+  "provisional_nonstable_nonwrapped_assets": 15,
+  "metadata": {
+    "BTC": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "ETH": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "BNB": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1671540483000"
+    },
+    "XRP": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "DOGE": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "ADA": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "SOL": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "TON": {
+      "current_spot_pair_present": false,
+      "current_active": null,
+      "current_list_time": null
+    },
+    "TRX": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "DOT": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "MATIC": {
+      "current_spot_pair_present": false,
+      "current_active": null,
+      "current_list_time": null
+    },
+    "LTC": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "SHIB": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1620446728000"
+    },
+    "BCH": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    },
+    "LINK": {
+      "current_spot_pair_present": true,
+      "current_active": true,
+      "current_list_time": "1611907686000"
+    }
+  },
+  "probes": {
+    "BTC_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "BTC_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "ETH_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "ETH_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "BNB_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "BNB_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "XRP_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "XRP_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "DOGE_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "DOGE_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "ADA_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "ADA_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "SOL_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "SOL_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "TON_2023-07-01": {
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "TON_2024-09-01": {
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "TRX_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "TRX_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "DOT_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "DOT_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "MATIC_2023-07-01": {
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "MATIC_2024-09-01": {
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "LTC_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "LTC_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "SHIB_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "SHIB_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "BCH_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "BCH_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "LINK_2023-07-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2023-07-01T00:00:00+00:00"
+    },
+    "LINK_2024-09-01": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-01T00:00:00+00:00"
+    },
+    "MATIC_2024-09-08": {
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "POL_2024-09-08": {
+      "status": "sample_available",
+      "sample_bars": 3,
+      "first_bar": "2024-09-08T00:00:00+00:00"
+    }
+  },
+  "raw_sha256": "1eb25cdef12d3aa788eb3df8380d11e8c1e6c9d4fdfba3b13706dd3c899022db",
+  "status": "feasibility_only_no_universe_backtest",
+  "limitations": [
+    "Only explicit top20 rows verified, not top100.",
+    "Current market metadata is not historical eligibility.",
+    "Sample candles do not prove full history, liquidity, spread or identity mapping.",
+    "MATIC/POL migration requires explicit instrument/event treatment; no silent substitution."
+  ]
+}

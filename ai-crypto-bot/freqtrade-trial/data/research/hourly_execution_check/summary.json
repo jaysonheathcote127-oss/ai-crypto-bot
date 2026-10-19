@@ -1,0 +1,324 @@
+{
+  "completed_at": "2026-10-19T15:07:01.614003+00:00",
+  "status": "posthoc_execution_sensitivity_no_promotion",
+  "hashes": {
+    "INTRABAR_EXECUTION_EXPERIMENT.md": "d45fc98b68dc7becadbde9888a3635b5c4d9662869ba7e60b388198f5afcac0e",
+    "config.low_exposure.json": "7943706ae55e53e41e026e9d0ec2c8f8df9c617b757b1454d0737493fea7b218",
+    "config.research.json": "0e07ce374ee94587ec427d3f74f5451e193828ff62853964f03932f9a0cbc755",
+    "evaluate_hourly_execution.py": "0999736777603c4434b43f3bf774f422e78f988dc8b8e27a13a9e4b514200f41",
+    "evaluate_low_exposure.py": "256987ca314e77728738aaa587bfcc8be17bf4560af29a315373302f98d8f83a",
+    "evaluate_research.py": "c3843d322e9034c3d898b38fc7dd90bfdf5e913799b15d715d36c6ab849ed449",
+    "download_hourly_detail.py": "cb276ea54e3e061cf93826e453a5e4d0a5aaf855e14c8b95d9f5ecc3b95fbf99",
+    "data/research/hourly_detail/manifest.json": "6d1c00a817094807f9549e83af196d38e3fe5f4e0f267e4986fd0d2e63bc6678",
+    "user_data/strategies/absolute_momentum.py": "31dcf912803936912d85a2a8056264580f52d98cdce3547fca6e19b87113c331",
+    "user_data/strategies/daily_relative_strength.py": "2ac2cc4c21d356568ecd242476eba56a7d4cd81bb83489485ebb9e2f5f331658",
+    "user_data/strategies/regime_relative_strength.py": "0b841f6d436f5ba3f3718ef36c903fdb29520a350a47c1b2922c2dd3175821dc",
+    "user_data/strategies/research_baselines.py": "46e6e1987e85c72ec87e7c3150d29c4f8cf00498bef332f505d56854c3ee1841",
+    "user_data/data/okx/ADA_USDT-4h.feather": "ff442ed1af4f2ba32af872cf3133fdaf6104cb86bc052342afbb29ef9ad7bd6c",
+    "user_data/data/okx/AVAX_USDT-4h.feather": "21e924ae54bd75aeddb3f7c41c8300441fbaae33376bcc77d7599df0efa44132",
+    "user_data/data/okx/BCH_USDT-4h.feather": "8fa142bb9909f16be6b6abd846698c0e9b2b167b9bc7b662a8874f3f99fe869d",
+    "user_data/data/okx/BNB_USDT-4h.feather": "6832c682f2cdad9ae99df3d446ec642cd28b0d7f30c98126fe9506e90570577f",
+    "user_data/data/okx/BTC_USDT-4h.feather": "a0ec97f0314185c4f80d4ea53cd98a99128f837c2f5fbdebfc6b39bb58881f47",
+    "user_data/data/okx/DOGE_USDT-4h.feather": "86354e482ac817158b30e88d66abd064461f308f88ca860a1dfd9d0175b0adc3",
+    "user_data/data/okx/ETH_USDT-4h.feather": "b8579de7040c2d03e4eba837a57c268213939f4e11b63ee4c888271db7f7d010",
+    "user_data/data/okx/HBAR_USDT-4h.feather": "fb2af7a69322fbe73e34fba6eba450835f7e7288e3e2cf68c1b525d88c2b3727",
+    "user_data/data/okx/LINK_USDT-4h.feather": "f639e6c9d9e26b7224fedb78327c348a06bbca3b5e69c962cfc999bf094c782d",
+    "user_data/data/okx/LTC_USDT-4h.feather": "64487171b50a23c73e8973f7cd172156fbddd97414debb5000695d291bfb9d8e",
+    "user_data/data/okx/NEAR_USDT-4h.feather": "331a4ea25f6383ccc4f54935bcf2b3377c96521e490d00492599cc87476c2f1a",
+    "user_data/data/okx/SOL_USDT-4h.feather": "ae8f484b42410f9eaf183e06a2d57e1cdd5e25cfd6abb1d3780b70c9dc9cf152",
+    "user_data/data/okx/SUI_USDT-4h.feather": "18990b5c6e689f6f5c182cced73782592732eb544198dc7c0205d6ba76ba8c97",
+    "user_data/data/okx/TRX_USDT-4h.feather": "67623752b966bac38e0b0a4690ad9c8da7ac1a47322acfe0b27697da7633d0e0",
+    "user_data/data/okx/UNI_USDT-4h.feather": "805b9fe84d537043274dd4d3b0fcd0578c6acb516dcb6309739115f27328d73a",
+    "user_data/data/okx/XLM_USDT-4h.feather": "b408c25d8000d47542b0e5367dcd01e21bbdc0a442ca0ecc862ce479241073d9",
+    "user_data/data/okx/XRP_USDT-4h.feather": "cdc2ec21fc77b793d2fa89a5bfd381dc6a19b8d0c6a5e232cefc0d6dadc40d98",
+    "user_data/data/okx/ADA_USDT-1h.feather": "acb726da4403cc1f37d1da4489ba10aeeb52c50b225bae25539be08b4511f792",
+    "user_data/data/okx/AVAX_USDT-1h.feather": "3d53bfd7036c57ee81b24b99461a98c0e43544aa12d81632389742a0b6e4b8e5",
+    "user_data/data/okx/BCH_USDT-1h.feather": "b3550cf4bddf1cb65161b0ad2e27617f16ee8e5b2c35b4529eb60aaba30c496e",
+    "user_data/data/okx/BNB_USDT-1h.feather": "38289f37432ea22987ea00838257df596de6a33625ceda5f9deb53df37b87c07",
+    "user_data/data/okx/BTC_USDT-1h.feather": "5bfe2f9b8e77add21beafdbd6b7aedddb1da9f16024dbfc62198be6d0dda9eb9",
+    "user_data/data/okx/DOGE_USDT-1h.feather": "807360029d0b7a2fca04c634b2636a344124a62012f8deb9da89b9d655f8b0b4",
+    "user_data/data/okx/ETH_USDT-1h.feather": "5fc7c970fcdf765d8696e7a881bc18f287fda0ac31e27dba4b83542d6a057aa3",
+    "user_data/data/okx/HBAR_USDT-1h.feather": "b399e907a4d06cb4eab42659166e57020afd44072e335853201f858e708fdf36",
+    "user_data/data/okx/LINK_USDT-1h.feather": "fa4c3318d9d05cdc058b62354fdb2133798eec9a97bbaa40b114e93c923526f5",
+    "user_data/data/okx/LTC_USDT-1h.feather": "8fd6da751e67eef04e9ee5dc85443903957fc3cb9582354a54b4a86c2e7ae4a3",
+    "user_data/data/okx/NEAR_USDT-1h.feather": "4ced969370197d2bcf52924438aec6beb71ca192a703c70ceab687f65511d696",
+    "user_data/data/okx/SOL_USDT-1h.feather": "f26dfb710b1e0fa9dee913d9bd3299979b99c25fb4917a67a4c0feff46513d8d",
+    "user_data/data/okx/SUI_USDT-1h.feather": "a4ca8440b3cd881b2d534efb2eba524a7fb335777f5391203be6fa6bedfabde5",
+    "user_data/data/okx/TRX_USDT-1h.feather": "0babf69846250583094993664fcff297a463427a89452f95894a0ab48cc8d3a9",
+    "user_data/data/okx/UNI_USDT-1h.feather": "4832a8c2b2ee90269ced48e773e5720e9d7f3428a81d8fc3a8b026da13764289",
+    "user_data/data/okx/XLM_USDT-1h.feather": "765eaa7ff29b7e7ccd901becc5ffdd744281bfe1725a9f1004ccf38daaad8406",
+    "user_data/data/okx/XRP_USDT-1h.feather": "8d5bdd5f561009937f21bf2cdd2d09455aae95cede174bad6b6710c5a1dee732"
+  },
+  "results": {
+    "base": {
+      "DailyRelativeStrength": {
+        "return_pct": 17.649797317,
+        "marked_wallet_drawdown_pct": 9.498258376192458,
+        "trades": 524,
+        "final_balance": 1176.49797317,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 0.00012346400000495805,
+        "drawdown_difference_from_four_hour_pp": -9.425258529205394e-06,
+        "source_archive": "data/research/hourly_execution_check/base/backtest-result-2026-10-19_15-06-48.zip"
+      },
+      "DailyAbsoluteMomentum": {
+        "return_pct": 20.277312464000005,
+        "marked_wallet_drawdown_pct": 9.016624621170056,
+        "trades": 528,
+        "final_balance": 1202.7731246399999,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 0.00012346400000495805,
+        "drawdown_difference_from_four_hour_pp": -8.95868443784309e-06,
+        "source_archive": "data/research/hourly_execution_check/base/backtest-result-2026-10-19_15-06-48.zip"
+      },
+      "DailySlowMomentum": {
+        "return_pct": 17.678276051,
+        "marked_wallet_drawdown_pct": 10.523780375976976,
+        "trades": 365,
+        "final_balance": 1176.78276051,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 2.4601384779999993,
+        "drawdown_difference_from_four_hour_pp": -0.03531266415215484,
+        "source_archive": "data/research/hourly_execution_check/base/backtest-result-2026-10-19_15-06-48.zip"
+      }
+    },
+    "stress": {
+      "DailyRelativeStrength": {
+        "return_pct": 9.725014463000004,
+        "marked_wallet_drawdown_pct": 14.489801884488463,
+        "trades": 524,
+        "final_balance": 1097.25014463,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 0.00012309300000445944,
+        "drawdown_difference_from_four_hour_pp": -1.4442831352212693e-05,
+        "source_archive": "data/research/hourly_execution_check/stress/backtest-result-2026-10-19_15-07-00.zip"
+      },
+      "DailyAbsoluteMomentum": {
+        "return_pct": 12.284547965000002,
+        "marked_wallet_drawdown_pct": 13.177307863551412,
+        "trades": 528,
+        "final_balance": 1122.84547965,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 0.00012309300000268308,
+        "drawdown_difference_from_four_hour_pp": -1.3151340205297402e-05,
+        "source_archive": "data/research/hourly_execution_check/stress/backtest-result-2026-10-19_15-07-00.zip"
+      },
+      "DailySlowMomentum": {
+        "return_pct": 12.141973148,
+        "marked_wallet_drawdown_pct": 13.700903349096771,
+        "trades": 365,
+        "final_balance": 1121.41973148,
+        "trade_signatures_identical_to_four_hour_execution": false,
+        "return_difference_from_four_hour_pp": 2.4677695259999997,
+        "drawdown_difference_from_four_hour_pp": -0.09132479312963149,
+        "source_archive": "data/research/hourly_execution_check/stress/backtest-result-2026-10-19_15-07-00.zip"
+      }
+    }
+  },
+  "aggregation_checks": {
+    "BTC/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "5bfe2f9b8e77add21beafdbd6b7aedddb1da9f16024dbfc62198be6d0dda9eb9",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "ETH/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "5fc7c970fcdf765d8696e7a881bc18f287fda0ac31e27dba4b83542d6a057aa3",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "BNB/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "38289f37432ea22987ea00838257df596de6a33625ceda5f9deb53df37b87c07",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "SOL/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "f26dfb710b1e0fa9dee913d9bd3299979b99c25fb4917a67a4c0feff46513d8d",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "XRP/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "8d5bdd5f561009937f21bf2cdd2d09455aae95cede174bad6b6710c5a1dee732",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "TRX/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "0babf69846250583094993664fcff297a463427a89452f95894a0ab48cc8d3a9",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "DOGE/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "807360029d0b7a2fca04c634b2636a344124a62012f8deb9da89b9d655f8b0b4",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "LINK/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "fa4c3318d9d05cdc058b62354fdb2133798eec9a97bbaa40b114e93c923526f5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "ADA/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "acb726da4403cc1f37d1da4489ba10aeeb52c50b225bae25539be08b4511f792",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "NEAR/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "4ced969370197d2bcf52924438aec6beb71ca192a703c70ceab687f65511d696",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "XLM/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "765eaa7ff29b7e7ccd901becc5ffdd744281bfe1725a9f1004ccf38daaad8406",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "BCH/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "b3550cf4bddf1cb65161b0ad2e27617f16ee8e5b2c35b4529eb60aaba30c496e",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "LTC/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "8fd6da751e67eef04e9ee5dc85443903957fc3cb9582354a54b4a86c2e7ae4a3",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "UNI/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "4832a8c2b2ee90269ced48e773e5720e9d7f3428a81d8fc3a8b026da13764289",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "AVAX/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "3d53bfd7036c57ee81b24b99461a98c0e43544aa12d81632389742a0b6e4b8e5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "SUI/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "a4ca8440b3cd881b2d534efb2eba524a7fb335777f5391203be6fa6bedfabde5",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    },
+    "HBAR/USDT": {
+      "status": "complete",
+      "candles": 17952,
+      "sha256": "b399e907a4d06cb4eab42659166e57020afd44072e335853201f858e708fdf36",
+      "mismatched_four_hour_values": {
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0
+      },
+      "rows": 4488
+    }
+  }
+}

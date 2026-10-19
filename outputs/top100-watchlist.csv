@@ -1,0 +1,201 @@
+exchange,market_cap_rank,coin_id,name,eligible_now,selected_pair,reported_pair_volume_usd_24h,spread_pct,exclusion_reasons
+okx,1,bitcoin,Bitcoin,True,BTC/USDT,459716791.0,0.010122,
+okx,2,ethereum,Ethereum,True,ETH/USDT,212374759.0,0.010416,
+okx,3,tether,Tether,False,,,,stablecoins; no_eligible_USDT_pair
+okx,4,binancecoin,BNB,True,BNB/USDT,4626514.0,0.013748,
+okx,5,ripple,XRP,True,XRP/USDT,28458288.0,0.017672,
+okx,6,usd-coin,USDC,False,,,,stablecoins
+okx,7,solana,Solana,True,SOL/USDT,63902246.0,0.019493,
+okx,8,tron,TRON,True,TRX/USDT,5303654.0,0.016027,
+okx,9,figure-heloc,Figure Heloc,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,10,zcash,Zcash,True,ZEC/USDT,56402862.0,0.020047,
+okx,11,hyperliquid,Hyperliquid,True,HYPE/USDT,15598674.0,0.017577,
+okx,12,dogecoin,Dogecoin,True,DOGE/USDT,24745064.0,0.012539,
+okx,13,monero,Monero,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,14,usds,USDS,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+okx,15,whitebit,WhiteBIT Coin,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,16,chainlink,Chainlink,True,LINK/USDT,3800751.0,0.01826,
+okx,17,leo-token,LEO Token,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,18,cardano,Cardano,True,ADA/USDT,3402799.0,0.045935,
+okx,19,near,NEAR Protocol,True,NEAR/USDT,24271553.0,0.040169,
+okx,20,rain,Rain,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,21,stellar,Stellar,True,XLM/USDT,3863209.0,0.033868,
+okx,22,bitcoin-cash,Bitcoin Cash,True,BCH/USDT,2406606.0,0.071788,
+okx,23,ethena-usde,Ethena USDe,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,24,litecoin,Litecoin,True,LTC/USDT,6010298.0,0.016565,
+okx,25,uniswap,Uniswap,True,UNI/USDT,14114242.0,0.027167,
+okx,26,dai,Dai,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,27,avalanche-2,Avalanche,True,AVAX/USDT,2830335.0,0.031017,
+okx,28,canton-network,Canton,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,29,sui,Sui,True,SUI/USDT,12583406.0,0.019955,
+okx,30,usd1-wlfi,USD1,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+okx,31,the-open-network,Gram (prev. Toncoin),True,GRAM/USDT,1605466.0,0.074239,
+okx,32,hedera-hashgraph,Hedera,True,HBAR/USDT,4641235.0,0.023995,
+okx,33,tether-gold,Tether Gold,True,XAUT/USDT,4999280.0,0.012408,
+okx,34,global-dollar,Global Dollar,False,,,,stablecoins
+okx,35,bittensor,Bittensor,True,TAO/USDT,3653839.0,0.036697,
+okx,36,shiba-inu,Shiba Inu,True,SHIB/USDT,1599377.0,0.019833,
+okx,37,crypto-com-chain,Cronos,True,CRO/USDT,1017231.0,0.086311,
+okx,38,bitway,Bitway,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,39,quant-network,Quant,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,40,paypal-usd,PayPal USD,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+okx,41,ethena,Ethena,True,ENA/USDT,6190630.0,0.026694,
+okx,42,ripple-usd,Ripple USD,False,,,,stablecoins
+okx,43,okb,OKB,True,OKB/USDT,12739032.0,0.018784,
+okx,44,hashnote-usyc,Circle USYC,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,45,ondo-us-dollar-yield,Ondo US Dollar Yield,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,46,aave,Aave,True,AAVE/USDT,2249224.0,0.020047,
+okx,47,blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,48,ondo-finance,Ondo,True,ONDO/USDT,3940795.0,0.022805,
+okx,49,pump-fun,Pump.fun,True,PUMP/USDT,12375425.0,0.06737,
+okx,50,worldcoin-wld,Worldcoin,True,WLD/USDT,15461181.0,0.019604,
+okx,51,polkadot,Polkadot,True,DOT/USDT,2996972.0,0.018843,
+okx,52,aster-2,Aster,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,53,falcon-finance,Falcon USD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,54,pax-gold,PAX Gold,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,55,world-liberty-financial,World Liberty Financial,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,56,usdd,USDD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,57,mantle,Mantle,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,58,pepe,Pepe,True,PEPE/USDT,11573248.0,0.024108,
+okx,59,morpho,Morpho,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,60,spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,61,sky,Sky,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,62,internet-computer,Internet Computer,True,ICP/USDT,1671037.0,0.069252,
+okx,63,memecore,MemeCore,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,64,united-stables,United Stables,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,65,htx-dao,HTX DAO,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,66,arbitrum,Arbitrum,True,ARB/USDT,7328410.0,0.015096,
+okx,67,bfusd,BFUSD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,68,bitget-token,Bitget Token,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,69,usdgo,USDGO,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,70,ethereum-classic,Ethereum Classic,True,ETC/USDT,1051703.0,0.025833,
+okx,71,venice-token,Venice Token,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,72,just,JUST,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,73,gatechain-token,Gate,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,74,kucoin-shares,KuCoin,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,75,kaspa,Kaspa,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,76,algorand,Algorand,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,77,jupiter-exchange-solana,Jupiter,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,78,polygon-ecosystem-token,POL (ex-MATIC),True,POL/USDT,1279889.0,0.032436,
+okx,79,blockchain-capital,Blockchain Capital,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,80,cosmos,Cosmos Hub,False,,,,fails_current_liquidity_spread_or_freshness_filter
+okx,81,render-token,Render,True,RENDER/USDT,1281831.0,0.055402,
+okx,82,pi-network,Pi Network,True,PI/USDT,1462090.0,0.051256,
+okx,83,filecoin,Filecoin,True,FIL/USDT,9886366.0,0.019606,
+okx,84,injective-protocol,Injective,True,INJ/USDT,3142430.0,0.046512,
+okx,85,open-usd,Open USD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,86,superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,87,nexo,NEXO,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,88,aerodrome-finance,Aerodrome Finance,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,89,lighter,Lighter,True,LIT/USDT,7266238.0,0.019555,
+okx,90,layerzero,LayerZero,True,ZRO/USDT,3476770.0,0.037854,
+okx,91,gho,GHO,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+okx,92,blockstack,Stacks,True,STX/USDT,2455400.0,0.079156,
+okx,93,pancakeswap-token,PancakeSwap,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,94,aptos,Aptos,True,APT/USDT,2093965.0,0.064842,
+okx,95,akedo,Akedo,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,96,ether-fi,Ether.fi,True,ETHFI/USDT,1846563.0,0.043497,
+okx,97,midnight-3,Midnight,True,NIGHT/USDT,1608556.0,0.012496,
+okx,98,xdce-crowd-sale,XDC Network,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,99,pearl-2,Pearl,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+okx,100,dash,Dash,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,1,bitcoin,Bitcoin,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,2,ethereum,Ethereum,True,ETH/USD,55016574.0,0.010416,
+kraken,3,tether,Tether,False,,,,stablecoins
+kraken,4,binancecoin,BNB,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,5,ripple,XRP,True,XRP/USD,24709404.0,0.017725,
+kraken,6,usd-coin,USDC,False,,,,stablecoins
+kraken,7,solana,Solana,True,SOL/USD,24416439.0,0.01917,
+kraken,8,tron,TRON,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,9,figure-heloc,Figure Heloc,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,10,zcash,Zcash,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,11,hyperliquid,Hyperliquid,True,HYPE/USD,8357772.0,0.012641,
+kraken,12,dogecoin,Dogecoin,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,13,monero,Monero,True,XMR/USD,4098845.0,0.091133,
+kraken,14,usds,USDS,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,15,whitebit,WhiteBIT Coin,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,16,chainlink,Chainlink,True,LINK/USD,3554827.0,0.039361,
+kraken,17,leo-token,LEO Token,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,18,cardano,Cardano,True,ADA/USD,4435029.0,0.033544,
+kraken,19,near,NEAR Protocol,True,NEAR/USD,21317960.0,0.04648,
+kraken,20,rain,Rain,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,21,stellar,Stellar,True,XLM/USD,4692326.0,0.025051,
+kraken,22,bitcoin-cash,Bitcoin Cash,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,23,ethena-usde,Ethena USDe,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,24,litecoin,Litecoin,True,LTC/USD,4424284.0,0.016683,
+kraken,25,uniswap,Uniswap,True,UNI/USD,4034603.0,0.05419,
+kraken,26,dai,Dai,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,27,avalanche-2,Avalanche,True,AVAX/USD,2351016.0,0.010354,
+kraken,28,canton-network,Canton,True,CC/USD,1326213.0,0.047371,
+kraken,29,sui,Sui,True,SUI/USD,15953240.0,0.030528,
+kraken,30,usd1-wlfi,USD1,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,31,the-open-network,Gram (prev. Toncoin),False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,32,hedera-hashgraph,Hedera,True,HBAR/USD,3643743.0,0.04821,
+kraken,33,tether-gold,Tether Gold,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,34,global-dollar,Global Dollar,False,,,,stablecoins
+kraken,35,bittensor,Bittensor,True,TAO/USD,6946296.0,0.033142,
+kraken,36,shiba-inu,Shiba Inu,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,37,crypto-com-chain,Cronos,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,38,bitway,Bitway,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,39,quant-network,Quant,True,QNT/USD,8383948.0,0.040675,
+kraken,40,paypal-usd,PayPal USD,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,41,ethena,Ethena,True,ENA/USD,2334970.0,0.053476,
+kraken,42,ripple-usd,Ripple USD,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,43,okb,OKB,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,44,hashnote-usyc,Circle USYC,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,45,ondo-us-dollar-yield,Ondo US Dollar Yield,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,46,aave,Aave,True,AAVE/USD,1174718.0,0.040134,
+kraken,47,blackrock-usd-institutional-digital-liquidity-fund,BlackRock USD Institutional Digital Liquidity Fund,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,48,ondo-finance,Ondo,True,ONDO/USD,1616005.0,0.016112,
+kraken,49,pump-fun,Pump.fun,True,PUMP/USD,8944674.0,0.089948,
+kraken,50,worldcoin-wld,Worldcoin,True,WLD/USD,2980063.0,0.119119,
+kraken,51,polkadot,Polkadot,True,DOT/USD,1213575.0,0.026586,
+kraken,52,aster-2,Aster,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,53,falcon-finance,Falcon USD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,54,pax-gold,PAX Gold,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,55,world-liberty-financial,World Liberty Financial,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,56,usdd,USDD,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,57,mantle,Mantle,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,58,pepe,Pepe,True,PEPE/USD,1133139.0,0.048745,
+kraken,59,morpho,Morpho,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,60,spiko-amundi-overnight-swap-fund-eur,Spiko Amundi Overnight Swap Fund (EUR),False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,61,sky,Sky,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,62,internet-computer,Internet Computer,True,ICP/USD,1287415.0,0.035014,
+kraken,63,memecore,MemeCore,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,64,united-stables,United Stables,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,65,htx-dao,HTX DAO,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,66,arbitrum,Arbitrum,True,ARB/USD,1882628.0,0.101989,
+kraken,67,bfusd,BFUSD,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,68,bitget-token,Bitget Token,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,69,usdgo,USDGO,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,70,ethereum-classic,Ethereum Classic,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,71,venice-token,Venice Token,True,VVV/USD,2567876.0,0.150635,
+kraken,72,just,JUST,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,73,gatechain-token,Gate,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,74,kucoin-shares,KuCoin,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,75,kaspa,Kaspa,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,76,algorand,Algorand,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,77,jupiter-exchange-solana,Jupiter,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,78,polygon-ecosystem-token,POL (ex-MATIC),False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,79,blockchain-capital,Blockchain Capital,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,80,cosmos,Cosmos Hub,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,81,render-token,Render,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,82,pi-network,Pi Network,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,83,filecoin,Filecoin,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,84,injective-protocol,Injective,True,INJ/USD,6737791.0,0.07068,
+kraken,85,open-usd,Open USD,False,,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+kraken,86,superstate-short-duration-us-government-securities-fund-ustb,Invesco Short Duration US Government Securities Fund,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,87,nexo,NEXO,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,88,aerodrome-finance,Aerodrome Finance,True,AERO/USD,1020597.0,0.115459,
+kraken,89,lighter,Lighter,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,90,layerzero,LayerZero,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,91,gho,GHO,False,,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,92,blockstack,Stacks,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,93,pancakeswap-token,PancakeSwap,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,94,aptos,Aptos,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,95,akedo,Akedo,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,96,ether-fi,Ether.fi,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,97,midnight-3,Midnight,True,NIGHT/USD,1669639.0,0.025132,
+kraken,98,xdce-crowd-sale,XDC Network,False,,,,fails_current_liquidity_spread_or_freshness_filter
+kraken,99,pearl-2,Pearl,False,,,,no_identity_verified_USD_USDT_USDC_spot_pair
+kraken,100,dash,Dash,False,,,,fails_current_liquidity_spread_or_freshness_filter

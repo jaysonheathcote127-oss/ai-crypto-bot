@@ -1,0 +1,640 @@
+{
+  "mode": "fresh_public_data",
+  "observed_at": "2026-10-19T14:59:37.540864+00:00",
+  "assets": [
+    {
+      "pair": "BTC/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 82357.7,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 4.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 4.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 4.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 3.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 82261.5,
+      "quote_at": "2026-10-19T14:59:32.673000+00:00",
+      "spread_pct": 0.00012155874783041432,
+      "quote_volume_24h_usdt": 468298115.21355027,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "ETH/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 2420.05,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 9.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 9.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 9.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 5.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 2409.86,
+      "quote_at": "2026-10-19T14:59:32.068000+00:00",
+      "spread_pct": 0.0004149644479111117,
+      "quote_volume_24h_usdt": 228102817.51941612,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "BNB/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 725.9,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 5.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 5.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 5.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 4.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 728.0,
+      "quote_at": "2026-10-19T14:59:32.762000+00:00",
+      "spread_pct": 0.013737207225774125,
+      "quote_volume_24h_usdt": 4478788.1805822,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "XRP/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 1.3034,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 11.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 11.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 11.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 10.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 1.3045,
+      "quote_at": "2026-10-19T14:59:33.664000+00:00",
+      "spread_pct": 0.007665478517495611,
+      "quote_volume_24h_usdt": 30865424.033926874,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "SOL/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 104.7,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 6.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 6.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 6.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 7.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 104.64,
+      "quote_at": "2026-10-19T14:59:33.772000+00:00",
+      "spread_pct": 0.0095561183047495,
+      "quote_volume_24h_usdt": 70310828.8067653,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "TRX/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.33142,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 3.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 3.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 3.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 2.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.33202,
+      "quote_at": "2026-10-19T14:59:33.856000+00:00",
+      "spread_pct": 0.003011821398994052,
+      "quote_volume_24h_usdt": 5294036.978454681,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "DOGE/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.07915,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 14.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 14.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 14.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 12.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.07952,
+      "quote_at": "2026-10-19T14:59:33.866000+00:00",
+      "spread_pct": 0.012574662055969823,
+      "quote_volume_24h_usdt": 24134153.227666426,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "LINK/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 12.024,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 15.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 15.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 15.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 15.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 12.037,
+      "quote_at": "2026-10-19T14:59:34.065000+00:00",
+      "spread_pct": 0.024911770811709477,
+      "quote_volume_24h_usdt": 3701043.40525234,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "ADA/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.2182,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 16.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 16.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 16.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 9.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.2181,
+      "quote_at": "2026-10-19T14:59:34.568000+00:00",
+      "spread_pct": 0.04581901489117479,
+      "quote_volume_24h_usdt": 3354283.52000807,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "NEAR/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 4.952,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 8.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 8.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 8.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 1.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 4.922,
+      "quote_at": "2026-10-19T14:59:34.766000+00:00",
+      "spread_pct": 0.04059265272985143,
+      "quote_volume_24h_usdt": 22945666.016575206,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "XLM/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.17624,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 17.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 17.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 17.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 16.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.17663,
+      "quote_at": "2026-10-19T14:59:35.071000+00:00",
+      "spread_pct": 0.005660430758770693,
+      "quote_volume_24h_usdt": 3681273.591382637,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "BCH/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 276.8,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 2.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 2.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 2.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 6.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 279.0,
+      "quote_at": "2026-10-19T14:59:35.046000+00:00",
+      "spread_pct": 0.035823034210985455,
+      "quote_volume_24h_usdt": 2572569.8598014,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "LTC/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 59.72,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 7.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 7.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 7.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 8.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 59.91,
+      "quote_at": "2026-10-19T14:59:35.155000+00:00",
+      "spread_pct": 0.016687526074256172,
+      "quote_volume_24h_usdt": 5808816.81116339,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "UNI/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 7.348,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 1.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 1.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 1.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 14.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 7.345,
+      "quote_at": "2026-10-19T14:59:36.078000+00:00",
+      "spread_pct": 0.01361748485055265,
+      "quote_volume_24h_usdt": 13788181.348834746,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "AVAX/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 9.642,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 12.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 12.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 12.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 13.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 9.683,
+      "quote_at": "2026-10-19T14:59:35.674000+00:00",
+      "spread_pct": 0.030974136595943565,
+      "quote_volume_24h_usdt": 2554332.419846566,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "SUI/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.9959,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 13.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 13.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 13.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 11.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.9994,
+      "quote_at": "2026-10-19T14:59:36.468000+00:00",
+      "spread_pct": 0.010005503026674672,
+      "quote_volume_24h_usdt": 13200296.87918898,
+      "phase": "baseline_only"
+    },
+    {
+      "pair": "HBAR/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-19T08:00:00+00:00",
+      "last_close": 0.08295,
+      "signals": {
+        "RegimeRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 10.0,
+          "btc_risk_on": false
+        },
+        "DailyRelativeStrength": {
+          "entry": false,
+          "exit": true,
+          "rank": 10.0,
+          "btc_risk_on": false
+        },
+        "DailyAbsoluteMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 10.0,
+          "btc_risk_on": false
+        },
+        "DailySlowMomentum": {
+          "entry": false,
+          "exit": true,
+          "rank": 17.0,
+          "btc_risk_on": false
+        }
+      },
+      "price": 0.08265,
+      "quote_at": "2026-10-19T14:59:36.323000+00:00",
+      "spread_pct": 0.012097018085037348,
+      "quote_volume_24h_usdt": 4468774.442989293,
+      "phase": "baseline_only"
+    }
+  ],
+  "errors": {},
+  "source_file": "source_f5ae070190e30f84a091d524719a7ef468666704beb9b9908310dd75b117c014.json",
+  "source_sha256": "f5ae070190e30f84a091d524719a7ef468666704beb9b9908310dd75b117c014",
+  "manifest_created_at": "2026-10-19T14:59:31.034255+00:00",
+  "notice": "Unpromoted research flags only; no orders, portfolio, fills or P&L."
+}

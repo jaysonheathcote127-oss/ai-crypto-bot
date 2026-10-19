@@ -1,0 +1,98 @@
+{
+  "mode": "fresh_public_data",
+  "observed_at": "2026-10-19T14:58:42.618667+00:00",
+  "assets": [
+    {
+      "pair": "BTC/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "ETH/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "BNB/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "XRP/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "SOL/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "TRX/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "DOGE/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "LINK/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "ADA/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "NEAR/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "XLM/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "BCH/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "LTC/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "UNI/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "AVAX/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "SUI/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    },
+    {
+      "pair": "HBAR/USDT",
+      "status": "blocked",
+      "reason": "Fixed-universe snapshot blocked; see errors"
+    }
+  ],
+  "errors": {
+    "analysis": "Need at least 300 completed four-hour candles"
+  },
+  "source_file": "source_1ae46ebef538cdff2cacb490516f697d0449a570e5e6dac055e8d5d244728daa.json",
+  "source_sha256": "1ae46ebef538cdff2cacb490516f697d0449a570e5e6dac055e8d5d244728daa",
+  "manifest_created_at": "2026-10-19T14:58:36.562296+00:00",
+  "notice": "Unpromoted research flags only; no orders, portfolio, fills or P&L."
+}

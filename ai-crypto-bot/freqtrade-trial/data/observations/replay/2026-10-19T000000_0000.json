@@ -1,0 +1,999 @@
+{
+  "mode": "saved_data_replay",
+  "observed_at": "2026-10-19T00:00:00+00:00",
+  "collected_at": "2026-10-19T14:16:58.997631+00:00",
+  "exchange": "okx",
+  "universe_checked_at": "2026-10-19T14:06:33.916868+00:00",
+  "assets": [
+    {
+      "rank": 1,
+      "coin_id": "bitcoin",
+      "pair": "BTC/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 82109.3,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": true
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 2,
+      "coin_id": "ethereum",
+      "pair": "ETH/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 2410.51,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 3,
+      "coin_id": "tether",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_eligible_USDT_pair"
+    },
+    {
+      "rank": 4,
+      "coin_id": "binancecoin",
+      "pair": "BNB/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 723.5,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": true
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 5,
+      "coin_id": "ripple",
+      "pair": "XRP/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 1.3072,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 6,
+      "coin_id": "usd-coin",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins"
+    },
+    {
+      "rank": 7,
+      "coin_id": "solana",
+      "pair": "SOL/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 104.12,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 8,
+      "coin_id": "tron",
+      "pair": "TRX/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.33276,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 9,
+      "coin_id": "figure-heloc",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 10,
+      "coin_id": "zcash",
+      "pair": "ZEC/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 11,
+      "coin_id": "hyperliquid",
+      "pair": "HYPE/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 12,
+      "coin_id": "dogecoin",
+      "pair": "DOGE/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.07944,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 13,
+      "coin_id": "monero",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 14,
+      "coin_id": "usds",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 15,
+      "coin_id": "whitebit",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 16,
+      "coin_id": "chainlink",
+      "pair": "LINK/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 12.04,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 17,
+      "coin_id": "leo-token",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 18,
+      "coin_id": "cardano",
+      "pair": "ADA/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.2213,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 19,
+      "coin_id": "near",
+      "pair": "NEAR/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 5.014,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": false
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": false
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 20,
+      "coin_id": "rain",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 21,
+      "coin_id": "stellar",
+      "pair": "XLM/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.17793,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 22,
+      "coin_id": "bitcoin-cash",
+      "pair": "BCH/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 276.2,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 23,
+      "coin_id": "ethena-usde",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 24,
+      "coin_id": "litecoin",
+      "pair": "LTC/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 59.13,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 25,
+      "coin_id": "uniswap",
+      "pair": "UNI/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 7.196,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 26,
+      "coin_id": "dai",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 27,
+      "coin_id": "avalanche-2",
+      "pair": "AVAX/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 9.785,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 28,
+      "coin_id": "canton-network",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 29,
+      "coin_id": "sui",
+      "pair": "SUI/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.997,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": false
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 30,
+      "coin_id": "usd1-wlfi",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 31,
+      "coin_id": "the-open-network",
+      "pair": "GRAM/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 32,
+      "coin_id": "hedera-hashgraph",
+      "pair": "HBAR/USDT",
+      "status": "observed",
+      "completed_candle": "2026-10-18T20:00:00+00:00",
+      "last_close": 0.08546,
+      "signals": {
+        "TrendBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "MomentumBaseline": {
+          "entry": false,
+          "exit": true
+        },
+        "ReversionBaseline": {
+          "entry": false,
+          "exit": true
+        }
+      },
+      "price": null,
+      "quote_at": null
+    },
+    {
+      "rank": 33,
+      "coin_id": "tether-gold",
+      "pair": "XAUT/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 34,
+      "coin_id": "global-dollar",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins"
+    },
+    {
+      "rank": 35,
+      "coin_id": "bittensor",
+      "pair": "TAO/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 36,
+      "coin_id": "shiba-inu",
+      "pair": "SHIB/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 37,
+      "coin_id": "crypto-com-chain",
+      "pair": "CRO/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 38,
+      "coin_id": "bitway",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 39,
+      "coin_id": "quant-network",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 40,
+      "coin_id": "paypal-usd",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 41,
+      "coin_id": "ethena",
+      "pair": "ENA/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 42,
+      "coin_id": "ripple-usd",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins"
+    },
+    {
+      "rank": 43,
+      "coin_id": "okb",
+      "pair": "OKB/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 44,
+      "coin_id": "hashnote-usyc",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 45,
+      "coin_id": "ondo-us-dollar-yield",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 46,
+      "coin_id": "aave",
+      "pair": "AAVE/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 47,
+      "coin_id": "blackrock-usd-institutional-digital-liquidity-fund",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 48,
+      "coin_id": "ondo-finance",
+      "pair": "ONDO/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 49,
+      "coin_id": "pump-fun",
+      "pair": "PUMP/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 50,
+      "coin_id": "worldcoin-wld",
+      "pair": "WLD/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 51,
+      "coin_id": "polkadot",
+      "pair": "DOT/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 52,
+      "coin_id": "aster-2",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 53,
+      "coin_id": "falcon-finance",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 54,
+      "coin_id": "pax-gold",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 55,
+      "coin_id": "world-liberty-financial",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 56,
+      "coin_id": "usdd",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 57,
+      "coin_id": "mantle",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 58,
+      "coin_id": "pepe",
+      "pair": "PEPE/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 59,
+      "coin_id": "morpho",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 60,
+      "coin_id": "spiko-amundi-overnight-swap-fund-eur",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 61,
+      "coin_id": "sky",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 62,
+      "coin_id": "internet-computer",
+      "pair": "ICP/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 63,
+      "coin_id": "memecore",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 64,
+      "coin_id": "united-stables",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 65,
+      "coin_id": "htx-dao",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 66,
+      "coin_id": "arbitrum",
+      "pair": "ARB/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 67,
+      "coin_id": "bfusd",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 68,
+      "coin_id": "bitget-token",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 69,
+      "coin_id": "usdgo",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 70,
+      "coin_id": "ethereum-classic",
+      "pair": "ETC/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 71,
+      "coin_id": "venice-token",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 72,
+      "coin_id": "just",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 73,
+      "coin_id": "gatechain-token",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 74,
+      "coin_id": "kucoin-shares",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 75,
+      "coin_id": "kaspa",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 76,
+      "coin_id": "algorand",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 77,
+      "coin_id": "jupiter-exchange-solana",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 78,
+      "coin_id": "polygon-ecosystem-token",
+      "pair": "POL/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 79,
+      "coin_id": "blockchain-capital",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 80,
+      "coin_id": "cosmos",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    },
+    {
+      "rank": 81,
+      "coin_id": "render-token",
+      "pair": "RENDER/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 82,
+      "coin_id": "pi-network",
+      "pair": "PI/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 83,
+      "coin_id": "filecoin",
+      "pair": "FIL/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 84,
+      "coin_id": "injective-protocol",
+      "pair": "INJ/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 85,
+      "coin_id": "open-usd",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 86,
+      "coin_id": "superstate-short-duration-us-government-securities-fund-ustb",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 87,
+      "coin_id": "nexo",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 88,
+      "coin_id": "aerodrome-finance",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 89,
+      "coin_id": "lighter",
+      "pair": "LIT/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 90,
+      "coin_id": "layerzero",
+      "pair": "ZRO/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 91,
+      "coin_id": "gho",
+      "pair": "",
+      "status": "excluded",
+      "reason": "stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 92,
+      "coin_id": "blockstack",
+      "pair": "STX/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 93,
+      "coin_id": "pancakeswap-token",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 94,
+      "coin_id": "aptos",
+      "pair": "APT/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 95,
+      "coin_id": "akedo",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 96,
+      "coin_id": "ether-fi",
+      "pair": "ETHFI/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 97,
+      "coin_id": "midnight-3",
+      "pair": "NIGHT/USDT",
+      "status": "unavailable_in_replay",
+      "reason": "No saved history; no live request attempted"
+    },
+    {
+      "rank": 98,
+      "coin_id": "xdce-crowd-sale",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 99,
+      "coin_id": "pearl-2",
+      "pair": "",
+      "status": "excluded",
+      "reason": "no_identity_verified_USD_USDT_USDC_spot_pair"
+    },
+    {
+      "rank": 100,
+      "coin_id": "dash",
+      "pair": "",
+      "status": "excluded",
+      "reason": "fails_current_liquidity_spread_or_freshness_filter"
+    }
+  ],
+  "notice": "Raw research signals only. Strategies failed validation. No orders or paper fills are generated."
+}

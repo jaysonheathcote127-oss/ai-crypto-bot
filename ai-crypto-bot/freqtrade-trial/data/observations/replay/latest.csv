@@ -1,0 +1,101 @@
+rank,coin_id,pair,status,completed_candle,last_close,reason
+1,bitcoin,BTC/USDT,observed,2026-10-18T20:00:00+00:00,82109.3,
+2,ethereum,ETH/USDT,observed,2026-10-18T20:00:00+00:00,2410.51,
+3,tether,,excluded,,,stablecoins; no_eligible_USDT_pair
+4,binancecoin,BNB/USDT,observed,2026-10-18T20:00:00+00:00,723.5,
+5,ripple,XRP/USDT,observed,2026-10-18T20:00:00+00:00,1.3072,
+6,usd-coin,,excluded,,,stablecoins
+7,solana,SOL/USDT,observed,2026-10-18T20:00:00+00:00,104.12,
+8,tron,TRX/USDT,observed,2026-10-18T20:00:00+00:00,0.33276,
+9,figure-heloc,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+10,zcash,ZEC/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+11,hyperliquid,HYPE/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+12,dogecoin,DOGE/USDT,observed,2026-10-18T20:00:00+00:00,0.07944,
+13,monero,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+14,usds,,excluded,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+15,whitebit,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+16,chainlink,LINK/USDT,observed,2026-10-18T20:00:00+00:00,12.04,
+17,leo-token,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+18,cardano,ADA/USDT,observed,2026-10-18T20:00:00+00:00,0.2213,
+19,near,NEAR/USDT,observed,2026-10-18T20:00:00+00:00,5.014,
+20,rain,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+21,stellar,XLM/USDT,observed,2026-10-18T20:00:00+00:00,0.17793,
+22,bitcoin-cash,BCH/USDT,observed,2026-10-18T20:00:00+00:00,276.2,
+23,ethena-usde,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+24,litecoin,LTC/USDT,observed,2026-10-18T20:00:00+00:00,59.13,
+25,uniswap,UNI/USDT,observed,2026-10-18T20:00:00+00:00,7.196,
+26,dai,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+27,avalanche-2,AVAX/USDT,observed,2026-10-18T20:00:00+00:00,9.785,
+28,canton-network,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+29,sui,SUI/USDT,observed,2026-10-18T20:00:00+00:00,0.997,
+30,usd1-wlfi,,excluded,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+31,the-open-network,GRAM/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+32,hedera-hashgraph,HBAR/USDT,observed,2026-10-18T20:00:00+00:00,0.08546,
+33,tether-gold,XAUT/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+34,global-dollar,,excluded,,,stablecoins
+35,bittensor,TAO/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+36,shiba-inu,SHIB/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+37,crypto-com-chain,CRO/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+38,bitway,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+39,quant-network,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+40,paypal-usd,,excluded,,,stablecoins; fails_current_liquidity_spread_or_freshness_filter
+41,ethena,ENA/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+42,ripple-usd,,excluded,,,stablecoins
+43,okb,OKB/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+44,hashnote-usyc,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+45,ondo-us-dollar-yield,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+46,aave,AAVE/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+47,blackrock-usd-institutional-digital-liquidity-fund,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+48,ondo-finance,ONDO/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+49,pump-fun,PUMP/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+50,worldcoin-wld,WLD/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+51,polkadot,DOT/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+52,aster-2,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+53,falcon-finance,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+54,pax-gold,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+55,world-liberty-financial,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+56,usdd,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+57,mantle,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+58,pepe,PEPE/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+59,morpho,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+60,spiko-amundi-overnight-swap-fund-eur,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+61,sky,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+62,internet-computer,ICP/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+63,memecore,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+64,united-stables,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+65,htx-dao,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+66,arbitrum,ARB/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+67,bfusd,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+68,bitget-token,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+69,usdgo,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+70,ethereum-classic,ETC/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+71,venice-token,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+72,just,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+73,gatechain-token,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+74,kucoin-shares,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+75,kaspa,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+76,algorand,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+77,jupiter-exchange-solana,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+78,polygon-ecosystem-token,POL/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+79,blockchain-capital,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+80,cosmos,,excluded,,,fails_current_liquidity_spread_or_freshness_filter
+81,render-token,RENDER/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+82,pi-network,PI/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+83,filecoin,FIL/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+84,injective-protocol,INJ/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+85,open-usd,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+86,superstate-short-duration-us-government-securities-fund-ustb,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+87,nexo,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+88,aerodrome-finance,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+89,lighter,LIT/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+90,layerzero,ZRO/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+91,gho,,excluded,,,stablecoins; no_identity_verified_USD_USDT_USDC_spot_pair
+92,blockstack,STX/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+93,pancakeswap-token,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+94,aptos,APT/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+95,akedo,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+96,ether-fi,ETHFI/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+97,midnight-3,NIGHT/USDT,unavailable_in_replay,,,No saved history; no live request attempted
+98,xdce-crowd-sale,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+99,pearl-2,,excluded,,,no_identity_verified_USD_USDT_USDC_spot_pair
+100,dash,,excluded,,,fails_current_liquidity_spread_or_freshness_filter

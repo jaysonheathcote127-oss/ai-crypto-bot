@@ -1,0 +1,10 @@
+# Direct research dependencies from the verified local environment.
+# TA-Lib/Python platform prerequisites still require per-platform setup.
+freqtrade==2026.9
+ccxt==4.5.88
+pandas==3.0.6
+numpy==2.5.4
+TA-Lib==0.8.2
+technical==1.7.0
+pyarrow==26.0.0
+scipy==1.18.1

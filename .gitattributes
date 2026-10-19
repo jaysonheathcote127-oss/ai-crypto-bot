@@ -1,0 +1,6 @@
+# Preserve exact bytes across computers: experiment manifests use SHA256 hashes.
+* -text
+*.feather binary
+*.zip binary
+*.png binary
+*.pdf binary

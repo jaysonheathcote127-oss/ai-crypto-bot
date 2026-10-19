@@ -1,0 +1,476 @@
+{
+  "extended_base_control": {
+    "DailyRelativeStrength": {
+      "return_pct": 25.870378406000004,
+      "profit": 258.70378406000003,
+      "final_balance": 1258.70378406,
+      "trades": 779,
+      "hourly_close_drawdown_pct": 8.915571805974498,
+      "engine_four_hour_open_drawdown_pct": 8.909592481374151,
+      "force_exits": 0,
+      "hourly_final_difference": -7.611379260197282e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 28.478572815000003,
+      "profit": 284.78572815,
+      "final_balance": 1284.7857281499996,
+      "trades": 785,
+      "hourly_close_drawdown_pct": 8.459626330964443,
+      "engine_four_hour_open_drawdown_pct": 8.458376721373329,
+      "force_exits": 0,
+      "hourly_final_difference": -1.520106707175728e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 27.919578224,
+      "profit": 279.19578223999997,
+      "final_balance": 1279.1957822399997,
+      "trades": 560,
+      "hourly_close_drawdown_pct": 9.736072068069534,
+      "engine_four_hour_open_drawdown_pct": 9.73572272563976,
+      "force_exits": 0,
+      "hourly_final_difference": -8.001529749890324e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_base/backtest-result-2026-10-19_15-14-25.zip"
+    }
+  },
+  "extended_base_delay": {
+    "DailyRelativeStrength": {
+      "tested_class": "DelayedDailyControl",
+      "return_pct": 25.921260184,
+      "trades": 774,
+      "final_balance": 1259.2126018400002,
+      "hourly_close_drawdown_pct": 8.785495168419788,
+      "force_exits": 0,
+      "hourly_final_difference": 6.987738743191585e-08,
+      "source_archive": "data/research/operational_robustness/extended_base_delay/backtest-result-2026-10-19_15-20-03.zip",
+      "return_delta_pp": 0.05088177799999727,
+      "drawdown_delta_pp": -0.13007663755471022,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DelayedDailyAbsolute",
+      "return_pct": 28.424047097,
+      "trades": 782,
+      "final_balance": 1284.24047097,
+      "hourly_close_drawdown_pct": 8.551709040980759,
+      "force_exits": 0,
+      "hourly_final_difference": 5.96123754803557e-08,
+      "source_archive": "data/research/operational_robustness/extended_base_delay/backtest-result-2026-10-19_15-20-03.zip",
+      "return_delta_pp": -0.054525718000004275,
+      "drawdown_delta_pp": 0.09208271001631552,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DelayedDailySlow",
+      "return_pct": 31.692727705000003,
+      "trades": 553,
+      "final_balance": 1316.9272770500002,
+      "hourly_close_drawdown_pct": 8.65721010365813,
+      "force_exits": 0,
+      "hourly_final_difference": -6.725031198584475e-08,
+      "source_archive": "data/research/operational_robustness/extended_base_delay/backtest-result-2026-10-19_15-20-03.zip",
+      "return_delta_pp": 3.7731494810000044,
+      "drawdown_delta_pp": -1.078861964411404,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "extended_base_reverse": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": 30.578854785999997,
+      "trades": 774,
+      "final_balance": 1305.7885478599997,
+      "hourly_close_drawdown_pct": 8.912130033765875,
+      "force_exits": 0,
+      "hourly_final_difference": -5.356105248210952e-08,
+      "source_archive": "data/research/operational_robustness/extended_base_reverse/backtest-result-2026-10-19_15-20-20.zip",
+      "return_delta_pp": 4.708476379999993,
+      "drawdown_delta_pp": -0.003441772208622851,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": 30.517277889,
+      "trades": 786,
+      "final_balance": 1305.1727788899998,
+      "hourly_close_drawdown_pct": 8.58543305421171,
+      "force_exits": 0,
+      "hourly_final_difference": -9.708855941426009e-09,
+      "source_archive": "data/research/operational_robustness/extended_base_reverse/backtest-result-2026-10-19_15-20-20.zip",
+      "return_delta_pp": 2.0387050739999957,
+      "drawdown_delta_pp": 0.12580672324726727,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": 23.884424472000003,
+      "trades": 565,
+      "final_balance": 1238.8442447199998,
+      "hourly_close_drawdown_pct": 10.142125270221147,
+      "force_exits": 0,
+      "hourly_final_difference": -7.61162937124027e-08,
+      "source_archive": "data/research/operational_robustness/extended_base_reverse/backtest-result-2026-10-19_15-20-20.zip",
+      "return_delta_pp": -4.035153751999996,
+      "drawdown_delta_pp": 0.4060532021516128,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "extended_stress_control": {
+    "DailyRelativeStrength": {
+      "return_pct": 14.090169885000003,
+      "profit": 140.90169885000003,
+      "final_balance": 1140.90169885,
+      "trades": 779,
+      "hourly_close_drawdown_pct": 14.035194668874318,
+      "engine_four_hour_open_drawdown_pct": 13.99511292057477,
+      "force_exits": 0,
+      "hourly_final_difference": -1.0031203601101879e-07,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "return_pct": 16.600394563000002,
+      "profit": 166.00394563,
+      "final_balance": 1166.00394563,
+      "trades": 785,
+      "hourly_close_drawdown_pct": 12.771432637821656,
+      "engine_four_hour_open_drawdown_pct": 12.731790124770349,
+      "force_exits": 0,
+      "hourly_final_difference": -4.0636223275214434e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    },
+    "DailySlowMomentum": {
+      "return_pct": 19.423126813,
+      "profit": 194.23126813,
+      "final_balance": 1194.23126813,
+      "trades": 560,
+      "hourly_close_drawdown_pct": 12.946128798545619,
+      "engine_four_hour_open_drawdown_pct": 12.952330800050781,
+      "force_exits": 0,
+      "hourly_final_difference": 3.2735442800913006e-08,
+      "start": "2023-10-01 00:00:00",
+      "end": "2026-10-18 20:00:00",
+      "source_archive": "data/research/history_extension/extended_continuous_stress/backtest-result-2026-10-19_15-14-42.zip"
+    }
+  },
+  "extended_stress_delay": {
+    "DailyRelativeStrength": {
+      "tested_class": "DelayedDailyControl",
+      "return_pct": 14.216018535000002,
+      "trades": 774,
+      "final_balance": 1142.16018535,
+      "hourly_close_drawdown_pct": 13.796518488702048,
+      "force_exits": 0,
+      "hourly_final_difference": 1.3595126802101731e-08,
+      "source_archive": "data/research/operational_robustness/extended_stress_delay/backtest-result-2026-10-19_15-20-36.zip",
+      "return_delta_pp": 0.12584864999999823,
+      "drawdown_delta_pp": -0.23867618017226988,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DelayedDailyAbsolute",
+      "return_pct": 16.591110453000002,
+      "trades": 782,
+      "final_balance": 1165.91110453,
+      "hourly_close_drawdown_pct": 12.59269180606194,
+      "force_exits": 0,
+      "hourly_final_difference": -2.4081600713543594e-08,
+      "source_archive": "data/research/operational_robustness/extended_stress_delay/backtest-result-2026-10-19_15-20-36.zip",
+      "return_delta_pp": -0.009284109999999401,
+      "drawdown_delta_pp": -0.17874083175971656,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DelayedDailySlow",
+      "return_pct": 23.290097568999997,
+      "trades": 553,
+      "final_balance": 1232.90097569,
+      "hourly_close_drawdown_pct": 11.412850827936595,
+      "force_exits": 0,
+      "hourly_final_difference": 6.662776286248118e-08,
+      "source_archive": "data/research/operational_robustness/extended_stress_delay/backtest-result-2026-10-19_15-20-36.zip",
+      "return_delta_pp": 3.866970755999997,
+      "drawdown_delta_pp": -1.5332779706090243,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "extended_stress_reverse": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": 18.859605626,
+      "trades": 774,
+      "final_balance": 1188.59605626,
+      "hourly_close_drawdown_pct": 13.113233857896677,
+      "force_exits": 0,
+      "hourly_final_difference": 2.6365114536019973e-08,
+      "source_archive": "data/research/operational_robustness/extended_stress_reverse/backtest-result-2026-10-19_15-20-53.zip",
+      "return_delta_pp": 4.769435740999997,
+      "drawdown_delta_pp": -0.9219608109776409,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": 18.61794396100001,
+      "trades": 786,
+      "final_balance": 1186.1794396100001,
+      "hourly_close_drawdown_pct": 13.004676981990848,
+      "force_exits": 0,
+      "hourly_final_difference": 5.52245182916522e-09,
+      "source_archive": "data/research/operational_robustness/extended_stress_reverse/backtest-result-2026-10-19_15-20-53.zip",
+      "return_delta_pp": 2.017549398000007,
+      "drawdown_delta_pp": 0.23324434416919182,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": 15.324980607999999,
+      "trades": 565,
+      "final_balance": 1153.24980608,
+      "hourly_close_drawdown_pct": 13.47754110713385,
+      "force_exits": 0,
+      "hourly_final_difference": 3.881268639815971e-09,
+      "source_archive": "data/research/operational_robustness/extended_stress_reverse/backtest-result-2026-10-19_15-20-53.zip",
+      "return_delta_pp": -4.098146205000001,
+      "drawdown_delta_pp": 0.5314123085882319,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "middle_base_control": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": -2.2714495750000006,
+      "trades": 61,
+      "final_balance": 977.28550425,
+      "hourly_close_drawdown_pct": 3.0222362530366143,
+      "force_exits": 0,
+      "hourly_final_difference": -5.4584461395279504e-09,
+      "source_archive": "data/research/operational_robustness/middle_base_control/backtest-result-2026-10-19_15-21-00.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": -2.3476939999999997,
+      "trades": 61,
+      "final_balance": 976.52306,
+      "hourly_close_drawdown_pct": 3.0402031493334647,
+      "force_exits": 0,
+      "hourly_final_difference": -2.6898305804934353e-10,
+      "source_archive": "data/research/operational_robustness/middle_base_control/backtest-result-2026-10-19_15-21-00.zip"
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": -2.816827392,
+      "trades": 47,
+      "final_balance": 971.83172608,
+      "hourly_close_drawdown_pct": 3.782463806316416,
+      "force_exits": 0,
+      "hourly_final_difference": -3.3409378374926746e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_control/backtest-result-2026-10-19_15-21-00.zip"
+    }
+  },
+  "middle_base_delay": {
+    "DailyRelativeStrength": {
+      "tested_class": "DelayedDailyControl",
+      "return_pct": -2.235466634000001,
+      "trades": 63,
+      "final_balance": 977.64533366,
+      "hourly_close_drawdown_pct": 3.6658922957626627,
+      "force_exits": 0,
+      "hourly_final_difference": -4.866478775511496e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_delay/backtest-result-2026-10-19_15-21-05.zip",
+      "return_delta_pp": 0.035982940999999435,
+      "drawdown_delta_pp": 0.6436560427260485,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DelayedDailyAbsolute",
+      "return_pct": -2.0835099169999998,
+      "trades": 63,
+      "final_balance": 979.16490083,
+      "hourly_close_drawdown_pct": 3.516158906472211,
+      "force_exits": 0,
+      "hourly_final_difference": -2.8868953450000845e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_delay/backtest-result-2026-10-19_15-21-05.zip",
+      "return_delta_pp": 0.26418408299999996,
+      "drawdown_delta_pp": 0.47595575713874627,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DelayedDailySlow",
+      "return_pct": -3.2890226409999994,
+      "trades": 47,
+      "final_balance": 967.10977359,
+      "hourly_close_drawdown_pct": 4.28431771211012,
+      "force_exits": 0,
+      "hourly_final_difference": 2.2123799681139644e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_delay/backtest-result-2026-10-19_15-21-05.zip",
+      "return_delta_pp": -0.47219524899999943,
+      "drawdown_delta_pp": 0.5018539057937037,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "middle_base_reverse": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": -2.7668826699999998,
+      "trades": 65,
+      "final_balance": 972.3311733,
+      "hourly_close_drawdown_pct": 3.544530966397763,
+      "force_exits": 0,
+      "hourly_final_difference": -1.8292666936758906e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_reverse/backtest-result-2026-10-19_15-21-11.zip",
+      "return_delta_pp": -0.4954330949999992,
+      "drawdown_delta_pp": 0.5222947133611489,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": -2.770159509000001,
+      "trades": 65,
+      "final_balance": 972.29840491,
+      "hourly_close_drawdown_pct": 3.493001647432048,
+      "force_exits": 0,
+      "hourly_final_difference": -1.7898173609864898e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_reverse/backtest-result-2026-10-19_15-21-11.zip",
+      "return_delta_pp": -0.4224655090000011,
+      "drawdown_delta_pp": 0.4527984980985833,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": -2.8578016780000004,
+      "trades": 46,
+      "final_balance": 971.42198322,
+      "hourly_close_drawdown_pct": 3.8230309605604362,
+      "force_exits": 0,
+      "hourly_final_difference": -2.371905338804936e-08,
+      "source_archive": "data/research/operational_robustness/middle_base_reverse/backtest-result-2026-10-19_15-21-11.zip",
+      "return_delta_pp": -0.040974286000000415,
+      "drawdown_delta_pp": 0.04056715424402002,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "middle_stress_control": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": -3.1809927439999997,
+      "trades": 61,
+      "final_balance": 968.19007256,
+      "hourly_close_drawdown_pct": 3.72960833060485,
+      "force_exits": 0,
+      "hourly_final_difference": -1.3975295587442815e-08,
+      "source_archive": "data/research/operational_robustness/middle_stress_control/backtest-result-2026-10-19_15-21-16.zip"
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": -3.25700821,
+      "trades": 61,
+      "final_balance": 967.4299179,
+      "hourly_close_drawdown_pct": 3.8051930611871176,
+      "force_exits": 0,
+      "hourly_final_difference": -2.9469902074197307e-09,
+      "source_archive": "data/research/operational_robustness/middle_stress_control/backtest-result-2026-10-19_15-21-16.zip"
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": -3.514416712,
+      "trades": 47,
+      "final_balance": 964.85583288,
+      "hourly_close_drawdown_pct": 4.4235957816899045,
+      "force_exits": 0,
+      "hourly_final_difference": 7.252197065099608e-09,
+      "source_archive": "data/research/operational_robustness/middle_stress_control/backtest-result-2026-10-19_15-21-16.zip"
+    }
+  },
+  "middle_stress_delay": {
+    "DailyRelativeStrength": {
+      "tested_class": "DelayedDailyControl",
+      "return_pct": -3.1751629879999994,
+      "trades": 63,
+      "final_balance": 968.24837012,
+      "hourly_close_drawdown_pct": 4.498874576084678,
+      "force_exits": 0,
+      "hourly_final_difference": -2.0294010028010234e-08,
+      "source_archive": "data/research/operational_robustness/middle_stress_delay/backtest-result-2026-10-19_15-21-22.zip",
+      "return_delta_pp": 0.005829756000000241,
+      "drawdown_delta_pp": 0.7692662454798276,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DelayedDailyAbsolute",
+      "return_pct": -3.0236616599999997,
+      "trades": 63,
+      "final_balance": 969.7633834,
+      "hourly_close_drawdown_pct": 4.349444451692608,
+      "force_exits": 0,
+      "hourly_final_difference": -8.626670933153946e-09,
+      "source_archive": "data/research/operational_robustness/middle_stress_delay/backtest-result-2026-10-19_15-21-22.zip",
+      "return_delta_pp": 0.23334655000000026,
+      "drawdown_delta_pp": 0.5442513905054902,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DelayedDailySlow",
+      "return_pct": -3.9851938329999994,
+      "trades": 47,
+      "final_balance": 960.1480616700001,
+      "hourly_close_drawdown_pct": 4.92406998472873,
+      "force_exits": 0,
+      "hourly_final_difference": 2.121169018209912e-08,
+      "source_archive": "data/research/operational_robustness/middle_stress_delay/backtest-result-2026-10-19_15-21-22.zip",
+      "return_delta_pp": -0.47077712099999935,
+      "drawdown_delta_pp": 0.5004742030388254,
+      "trade_signatures_identical_to_control": false
+    }
+  },
+  "middle_stress_reverse": {
+    "DailyRelativeStrength": {
+      "tested_class": "DailyRelativeStrength",
+      "return_pct": -3.7350256179999994,
+      "trades": 65,
+      "final_balance": 962.64974382,
+      "hourly_close_drawdown_pct": 4.276701832914343,
+      "force_exits": 0,
+      "hourly_final_difference": -3.957666194764897e-09,
+      "source_archive": "data/research/operational_robustness/middle_stress_reverse/backtest-result-2026-10-19_15-21-27.zip",
+      "return_delta_pp": -0.5540328739999998,
+      "drawdown_delta_pp": 0.5470935023094929,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailyAbsoluteMomentum": {
+      "tested_class": "DailyAbsoluteMomentum",
+      "return_pct": -3.7382939029999993,
+      "trades": 65,
+      "final_balance": 962.61706097,
+      "hourly_close_drawdown_pct": 4.27995172610296,
+      "force_exits": 0,
+      "hourly_final_difference": 1.0145981832465623e-08,
+      "source_archive": "data/research/operational_robustness/middle_stress_reverse/backtest-result-2026-10-19_15-21-27.zip",
+      "return_delta_pp": -0.48128569299999935,
+      "drawdown_delta_pp": 0.47475866491584195,
+      "trade_signatures_identical_to_control": false
+    },
+    "DailySlowMomentum": {
+      "tested_class": "DailySlowMomentum",
+      "return_pct": -3.5402468719999995,
+      "trades": 46,
+      "final_balance": 964.59753128,
+      "hourly_close_drawdown_pct": 4.449182546157548,
+      "force_exits": 0,
+      "hourly_final_difference": -1.2172449714853428e-09,
+      "source_archive": "data/research/operational_robustness/middle_stress_reverse/backtest-result-2026-10-19_15-21-27.zip",
+      "return_delta_pp": -0.02583015999999949,
+      "drawdown_delta_pp": 0.02558676446764352,
+      "trade_signatures_identical_to_control": false
+    }
+  }
+}

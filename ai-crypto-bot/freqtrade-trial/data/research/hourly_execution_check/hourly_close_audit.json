@@ -1,0 +1,48 @@
+{
+  "base": {
+    "DailyRelativeStrength": {
+      "hourly_close_drawdown_pct": 9.504696296460203,
+      "engine_four_hour_open_drawdown_pct": 9.498258376192458,
+      "minimum_cash": 865.679472124454,
+      "final_equity": 1176.497973170081,
+      "final_equity_difference_from_engine": 8.094502845779061e-11
+    },
+    "DailyAbsoluteMomentum": {
+      "hourly_close_drawdown_pct": 9.018017001973732,
+      "engine_four_hour_open_drawdown_pct": 9.016624621170056,
+      "minimum_cash": 864.1020424717105,
+      "final_equity": 1202.7731246623102,
+      "final_equity_difference_from_engine": 2.2310359781840816e-08
+    },
+    "DailySlowMomentum": {
+      "hourly_close_drawdown_pct": 10.524256980903957,
+      "engine_four_hour_open_drawdown_pct": 10.523780375976976,
+      "minimum_cash": 864.9478282701162,
+      "final_equity": 1176.7827605157813,
+      "final_equity_difference_from_engine": 5.7814304454950616e-09
+    }
+  },
+  "stress": {
+    "DailyRelativeStrength": {
+      "hourly_close_drawdown_pct": 14.53150504998073,
+      "engine_four_hour_open_drawdown_pct": 14.489801884488463,
+      "minimum_cash": 858.5717893908624,
+      "final_equity": 1097.2501445725036,
+      "final_equity_difference_from_engine": -5.749643605668098e-08
+    },
+    "DailyAbsoluteMomentum": {
+      "hourly_close_drawdown_pct": 13.218522146429478,
+      "engine_four_hour_open_drawdown_pct": 13.177307863551412,
+      "minimum_cash": 856.9991001869919,
+      "final_equity": 1122.8454796600327,
+      "final_equity_difference_from_engine": 1.0032636055257171e-08
+    },
+    "DailySlowMomentum": {
+      "hourly_close_drawdown_pct": 13.694660119823032,
+      "engine_four_hour_open_drawdown_pct": 13.700903349096771,
+      "minimum_cash": 862.0486462995486,
+      "final_equity": 1121.4197314948046,
+      "final_equity_difference_from_engine": 1.4804527381784283e-08
+    }
+  }
+}

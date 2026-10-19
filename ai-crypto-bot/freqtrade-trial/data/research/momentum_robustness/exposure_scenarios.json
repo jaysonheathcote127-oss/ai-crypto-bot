@@ -1,0 +1,118 @@
+{
+  "base": {
+    "RegimeRelativeStrength": {
+      "1.0": {
+        "arithmetic_return_pct": 38.938493729000015,
+        "marked_drawdown_pct": 28.167002260259345
+      },
+      "0.5": {
+        "arithmetic_return_pct": 19.469246864500008,
+        "marked_drawdown_pct": 17.619326683643642
+      },
+      "0.25": {
+        "arithmetic_return_pct": 9.734623432250004,
+        "marked_drawdown_pct": 10.074297716895675
+      }
+    },
+    "DailyRelativeStrength": {
+      "1.0": {
+        "arithmetic_return_pct": 70.59849393399999,
+        "marked_drawdown_pct": 23.912881240784944
+      },
+      "0.5": {
+        "arithmetic_return_pct": 35.299246966999995,
+        "marked_drawdown_pct": 15.879824821506784
+      },
+      "0.25": {
+        "arithmetic_return_pct": 17.649623483499997,
+        "marked_drawdown_pct": 9.498297138931344
+      }
+    },
+    "DailyAbsoluteMomentum": {
+      "1.0": {
+        "arithmetic_return_pct": 81.108467722,
+        "marked_drawdown_pct": 22.74413927946901
+      },
+      "0.5": {
+        "arithmetic_return_pct": 40.554233861,
+        "marked_drawdown_pct": 15.087469324863278
+      },
+      "0.25": {
+        "arithmetic_return_pct": 20.2771169305,
+        "marked_drawdown_pct": 9.016664030692567
+      }
+    },
+    "DailySlowMomentum": {
+      "1.0": {
+        "arithmetic_return_pct": 60.87263392,
+        "marked_drawdown_pct": 26.780184796262485
+      },
+      "0.5": {
+        "arithmetic_return_pct": 30.43631696,
+        "marked_drawdown_pct": 17.71091124272911
+      },
+      "0.25": {
+        "arithmetic_return_pct": 15.21815848,
+        "marked_drawdown_pct": 10.559102091556039
+      }
+    }
+  },
+  "stress": {
+    "RegimeRelativeStrength": {
+      "1.0": {
+        "arithmetic_return_pct": -18.264007146,
+        "marked_drawdown_pct": 56.78900024257626
+      },
+      "0.5": {
+        "arithmetic_return_pct": -9.132003573,
+        "marked_drawdown_pct": 34.985836213167346
+      },
+      "0.25": {
+        "arithmetic_return_pct": -4.5660017865,
+        "marked_drawdown_pct": 19.78987164852675
+      }
+    },
+    "DailyRelativeStrength": {
+      "1.0": {
+        "arithmetic_return_pct": 38.89921076599999,
+        "marked_drawdown_pct": 36.899996224912
+      },
+      "0.5": {
+        "arithmetic_return_pct": 19.449605382999994,
+        "marked_drawdown_pct": 24.347836028841396
+      },
+      "0.25": {
+        "arithmetic_return_pct": 9.724802691499997,
+        "marked_drawdown_pct": 14.489879198215771
+      }
+    },
+    "DailyAbsoluteMomentum": {
+      "1.0": {
+        "arithmetic_return_pct": 49.137249751999995,
+        "marked_drawdown_pct": 33.623945417503776
+      },
+      "0.5": {
+        "arithmetic_return_pct": 24.568624875999998,
+        "marked_drawdown_pct": 22.16166148157108
+      },
+      "0.25": {
+        "arithmetic_return_pct": 12.284312437999999,
+        "marked_drawdown_pct": 13.177402068988242
+      }
+    },
+    "DailySlowMomentum": {
+      "1.0": {
+        "arithmetic_return_pct": 38.696791491,
+        "marked_drawdown_pct": 35.22896247712881
+      },
+      "0.5": {
+        "arithmetic_return_pct": 19.3483957455,
+        "marked_drawdown_pct": 23.206172332370723
+      },
+      "0.25": {
+        "arithmetic_return_pct": 9.67419787275,
+        "marked_drawdown_pct": 13.792251043645564
+      }
+    }
+  }
+}

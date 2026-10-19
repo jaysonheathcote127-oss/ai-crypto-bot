@@ -1,0 +1,249 @@
+{
+  "completed_at": "2026-10-19T14:38:41.247075+00:00",
+  "status": "exploratory_only_no_promotion",
+  "hashes": {
+    "RELATIVE_STRENGTH_EXPERIMENT.md": "3ab527e044f4e1d2159d5bd892727d402f48aadf1631382c81843224aaf848b0",
+    "user_data/strategies/regime_relative_strength.py": "0b841f6d436f5ba3f3718ef36c903fdb29520a350a47c1b2922c2dd3175821dc",
+    "config.research.json": "0e07ce374ee94587ec427d3f74f5451e193828ff62853964f03932f9a0cbc755",
+    "evaluate_relative_strength.py": "da59b6d50f6eee986b3e3cc7953f2ee3e270fe7d11235fc60a62ecf3f85188d9",
+    "evaluate_research.py": "c3843d322e9034c3d898b38fc7dd90bfdf5e913799b15d715d36c6ab849ed449",
+    "user_data/data/okx/ADA_USDT-4h.feather": "ff442ed1af4f2ba32af872cf3133fdaf6104cb86bc052342afbb29ef9ad7bd6c",
+    "user_data/data/okx/AVAX_USDT-4h.feather": "21e924ae54bd75aeddb3f7c41c8300441fbaae33376bcc77d7599df0efa44132",
+    "user_data/data/okx/BCH_USDT-4h.feather": "8fa142bb9909f16be6b6abd846698c0e9b2b167b9bc7b662a8874f3f99fe869d",
+    "user_data/data/okx/BNB_USDT-4h.feather": "6832c682f2cdad9ae99df3d446ec642cd28b0d7f30c98126fe9506e90570577f",
+    "user_data/data/okx/BTC_USDT-4h.feather": "a0ec97f0314185c4f80d4ea53cd98a99128f837c2f5fbdebfc6b39bb58881f47",
+    "user_data/data/okx/DOGE_USDT-4h.feather": "86354e482ac817158b30e88d66abd064461f308f88ca860a1dfd9d0175b0adc3",
+    "user_data/data/okx/ETH_USDT-4h.feather": "b8579de7040c2d03e4eba837a57c268213939f4e11b63ee4c888271db7f7d010",
+    "user_data/data/okx/HBAR_USDT-4h.feather": "fb2af7a69322fbe73e34fba6eba450835f7e7288e3e2cf68c1b525d88c2b3727",
+    "user_data/data/okx/LINK_USDT-4h.feather": "f639e6c9d9e26b7224fedb78327c348a06bbca3b5e69c962cfc999bf094c782d",
+    "user_data/data/okx/LTC_USDT-4h.feather": "64487171b50a23c73e8973f7cd172156fbddd97414debb5000695d291bfb9d8e",
+    "user_data/data/okx/NEAR_USDT-4h.feather": "331a4ea25f6383ccc4f54935bcf2b3377c96521e490d00492599cc87476c2f1a",
+    "user_data/data/okx/SOL_USDT-4h.feather": "ae8f484b42410f9eaf183e06a2d57e1cdd5e25cfd6abb1d3780b70c9dc9cf152",
+    "user_data/data/okx/SUI_USDT-4h.feather": "18990b5c6e689f6f5c182cced73782592732eb544198dc7c0205d6ba76ba8c97",
+    "user_data/data/okx/TRX_USDT-4h.feather": "67623752b966bac38e0b0a4690ad9c8da7ac1a47322acfe0b27697da7633d0e0",
+    "user_data/data/okx/UNI_USDT-4h.feather": "805b9fe84d537043274dd4d3b0fcd0578c6acb516dcb6309739115f27328d73a",
+    "user_data/data/okx/XLM_USDT-4h.feather": "b408c25d8000d47542b0e5367dcd01e21bbdc0a442ca0ecc862ce479241073d9",
+    "user_data/data/okx/XRP_USDT-4h.feather": "cdc2ec21fc77b793d2fa89a5bfd381dc6a19b8d0c6a5e232cefc0d6dadc40d98"
+  },
+  "results": {
+    "development_base": {
+      "RegimeRelativeStrength": {
+        "return_pct": 48.59480410100001,
+        "profit": 485.9480410100001,
+        "final_balance": 1485.9480410100002,
+        "trades": 537,
+        "closed_trade_drawdown_pct": 20.20650557780188,
+        "marked_wallet_drawdown_pct": 22.81874203402017,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 3,
+        "source_archive": "data/research/relative_strength/development_base/backtest-result-2026-10-19_14-38-19.zip"
+      }
+    },
+    "development_stress": {
+      "RegimeRelativeStrength": {
+        "return_pct": 16.180473899000003,
+        "profit": 161.80473899000003,
+        "final_balance": 1161.80473899,
+        "trades": 537,
+        "closed_trade_drawdown_pct": 33.173326041949785,
+        "marked_wallet_drawdown_pct": 35.40314372761058,
+        "start": "2024-10-01 00:00:00",
+        "end": "2025-09-30 20:00:00",
+        "force_exits": 3,
+        "source_archive": "data/research/relative_strength/development_stress/backtest-result-2026-10-19_14-38-24.zip"
+      }
+    },
+    "validation_base": {
+      "RegimeRelativeStrength": {
+        "return_pct": -11.611712143,
+        "profit": -116.11712143,
+        "final_balance": 883.88287857,
+        "trades": 127,
+        "closed_trade_drawdown_pct": 14.735102656087918,
+        "marked_wallet_drawdown_pct": 16.083908248361357,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/relative_strength/validation_base/backtest-result-2026-10-19_14-38-28.zip"
+      }
+    },
+    "validation_stress": {
+      "RegimeRelativeStrength": {
+        "return_pct": -19.208252916000003,
+        "profit": -192.08252916,
+        "final_balance": 807.9174708400001,
+        "trades": 127,
+        "closed_trade_drawdown_pct": 21.691749782098796,
+        "marked_wallet_drawdown_pct": 22.981831615952686,
+        "start": "2025-10-01 00:00:00",
+        "end": "2026-03-31 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/relative_strength/validation_stress/backtest-result-2026-10-19_14-38-32.zip"
+      }
+    },
+    "holdout_base": {
+      "RegimeRelativeStrength": {
+        "return_pct": 2.322167565000002,
+        "profit": 23.221675650000023,
+        "final_balance": 1023.22167565,
+        "trades": 287,
+        "closed_trade_drawdown_pct": 16.68438795000001,
+        "marked_wallet_drawdown_pct": 20.882916044291967,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/relative_strength/holdout_base/backtest-result-2026-10-19_14-38-36.zip"
+      }
+    },
+    "holdout_stress": {
+      "RegimeRelativeStrength": {
+        "return_pct": -14.930651858,
+        "profit": -149.30651858,
+        "final_balance": 850.6934814200001,
+        "trades": 287,
+        "closed_trade_drawdown_pct": 27.450465105,
+        "marked_wallet_drawdown_pct": 28.77466110874405,
+        "start": "2026-04-01 00:00:00",
+        "end": "2026-10-18 20:00:00",
+        "force_exits": 0,
+        "source_archive": "data/research/relative_strength/holdout_stress/backtest-result-2026-10-19_14-38-40.zip"
+      }
+    }
+  },
+  "benchmarks": {
+    "development_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 39.775682991092665,
+        "marked_wallet_drawdown_pct": 19.3200594296569
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 79.55136598218533,
+        "marked_wallet_drawdown_pct": 30.640001256407913
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 51.135122475704996,
+        "marked_wallet_drawdown_pct": 40.923127473261935
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 102.27024495140999,
+        "marked_wallet_drawdown_pct": 56.484330519160366
+      }
+    },
+    "development_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 39.23863640783147,
+        "marked_wallet_drawdown_pct": 19.29870176260072
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 78.47727281566293,
+        "marked_wallet_drawdown_pct": 30.640001256407913
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 50.53012265655943,
+        "marked_wallet_drawdown_pct": 40.88938351325019
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 101.06024531311886,
+        "marked_wallet_drawdown_pct": 56.48433051916037
+      }
+    },
+    "validation_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": -20.155544160783666,
+        "marked_wallet_drawdown_pct": 26.081048409287234
+      },
+      "BTC_hold_100pct": {
+        "return_pct": -40.31108832156735,
+        "marked_wallet_drawdown_pct": 49.83438454362058
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": -25.596114544017013,
+        "marked_wallet_drawdown_pct": 31.208024553175672
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": -51.19222908803401,
+        "marked_wallet_drawdown_pct": 59.415452484539124
+      }
+    },
+    "validation_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": -20.33407650388299,
+        "marked_wallet_drawdown_pct": 26.043863115196842
+      },
+      "BTC_hold_100pct": {
+        "return_pct": -40.66815300776596,
+        "marked_wallet_drawdown_pct": 49.83438454362058
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": -25.742100883143316,
+        "marked_wallet_drawdown_pct": 31.163706213587705
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": -51.48420176628663,
+        "marked_wallet_drawdown_pct": 59.415452484539124
+      }
+    },
+    "holdout_base": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 9.948637142063777,
+        "marked_wallet_drawdown_pct": 15.997225606635368
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 19.897274284127576,
+        "marked_wallet_drawdown_pct": 29.25261073667731
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 14.97356111521908,
+        "marked_wallet_drawdown_pct": 15.627264919807516
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 29.947122230438183,
+        "marked_wallet_drawdown_pct": 28.9965603709025
+      }
+    },
+    "holdout_stress": {
+      "cash": {
+        "return_pct": 0.0,
+        "marked_wallet_drawdown_pct": 0.0
+      },
+      "BTC_hold_50pct": {
+        "return_pct": 9.590018753702378,
+        "marked_wallet_drawdown_pct": 15.975540898012552
+      },
+      "BTC_hold_100pct": {
+        "return_pct": 19.180037507404755,
+        "marked_wallet_drawdown_pct": 29.25261073667731
+      },
+      "equal_weight_hold_50pct": {
+        "return_pct": 14.584883158820784,
+        "marked_wallet_drawdown_pct": 15.605711513682907
+      },
+      "equal_weight_hold_100pct": {
+        "return_pct": 29.16976631764152,
+        "marked_wallet_drawdown_pct": 28.99656037090249
+      }
+    }
+  },
+  "warning": "Previously inspected history, current-universe bias, fee proxy is not actual fills."
+}

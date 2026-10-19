@@ -1,0 +1,218 @@
+{
+  "extended_base_delay_DailyRelativeStrength": {
+    "shared_entry_keys": 0,
+    "removed_entries": 779,
+    "added_entries": 774,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 258.70378406,
+    "added_entry_net_pnl": 259.21260184,
+    "total_net_pnl_delta": 0.5088177799999585
+  },
+  "extended_base_reverse_DailyRelativeStrength": {
+    "shared_entry_keys": 578,
+    "removed_entries": 201,
+    "added_entries": 196,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 115.0135563,
+    "added_entry_net_pnl": 162.09832009999997,
+    "total_net_pnl_delta": 47.08476379999996
+  },
+  "extended_stress_delay_DailyRelativeStrength": {
+    "shared_entry_keys": 0,
+    "removed_entries": 779,
+    "added_entries": 774,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 140.90169885,
+    "added_entry_net_pnl": 142.16018535,
+    "total_net_pnl_delta": 1.2584865000000036
+  },
+  "extended_stress_reverse_DailyRelativeStrength": {
+    "shared_entry_keys": 578,
+    "removed_entries": 201,
+    "added_entries": 196,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 84.47289918,
+    "added_entry_net_pnl": 132.16725659,
+    "total_net_pnl_delta": 47.69435740999998
+  },
+  "extended_base_delay_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 785,
+    "added_entries": 782,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 284.78572814999995,
+    "added_entry_net_pnl": 284.2404709700001,
+    "total_net_pnl_delta": -0.5452571800000214
+  },
+  "extended_base_reverse_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 607,
+    "removed_entries": 178,
+    "added_entries": 179,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 92.30599596999998,
+    "added_entry_net_pnl": 112.69304671,
+    "total_net_pnl_delta": 20.387050740000006
+  },
+  "extended_stress_delay_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 785,
+    "added_entries": 782,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 166.00394563,
+    "added_entry_net_pnl": 165.91110453,
+    "total_net_pnl_delta": -0.09284109999998691
+  },
+  "extended_stress_reverse_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 607,
+    "removed_entries": 178,
+    "added_entries": 179,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 65.28876137999998,
+    "added_entry_net_pnl": 85.46425536000001,
+    "total_net_pnl_delta": 20.175493980000084
+  },
+  "extended_base_delay_DailySlowMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 560,
+    "added_entries": 553,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 279.19578223999997,
+    "added_entry_net_pnl": 316.92727704999993,
+    "total_net_pnl_delta": 37.731494810000015
+  },
+  "extended_base_reverse_DailySlowMomentum": {
+    "shared_entry_keys": 496,
+    "removed_entries": 64,
+    "added_entries": 69,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 159.88271081,
+    "added_entry_net_pnl": 119.53117329,
+    "total_net_pnl_delta": -40.351537519999965
+  },
+  "extended_stress_delay_DailySlowMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 560,
+    "added_entries": 553,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 194.23126813000002,
+    "added_entry_net_pnl": 232.90097569000002,
+    "total_net_pnl_delta": 38.669707560000006
+  },
+  "extended_stress_reverse_DailySlowMomentum": {
+    "shared_entry_keys": 496,
+    "removed_entries": 64,
+    "added_entries": 69,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": 149.78797985,
+    "added_entry_net_pnl": 108.80651780000001,
+    "total_net_pnl_delta": -40.981462050000005
+  },
+  "middle_base_delay_DailyRelativeStrength": {
+    "shared_entry_keys": 0,
+    "removed_entries": 61,
+    "added_entries": 63,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -22.71449575,
+    "added_entry_net_pnl": -22.35466634,
+    "total_net_pnl_delta": 0.35982940999999613
+  },
+  "middle_base_reverse_DailyRelativeStrength": {
+    "shared_entry_keys": 47,
+    "removed_entries": 14,
+    "added_entries": 18,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -9.81412508,
+    "added_entry_net_pnl": -14.76845603,
+    "total_net_pnl_delta": -4.954330949999996
+  },
+  "middle_stress_delay_DailyRelativeStrength": {
+    "shared_entry_keys": 0,
+    "removed_entries": 61,
+    "added_entries": 63,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -31.80992744,
+    "added_entry_net_pnl": -31.751629880000003,
+    "total_net_pnl_delta": 0.05829755999999975
+  },
+  "middle_stress_reverse_DailyRelativeStrength": {
+    "shared_entry_keys": 47,
+    "removed_entries": 14,
+    "added_entries": 18,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -11.88777352,
+    "added_entry_net_pnl": -17.428102260000003,
+    "total_net_pnl_delta": -5.54032874
+  },
+  "middle_base_delay_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 61,
+    "added_entries": 63,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -23.476940000000003,
+    "added_entry_net_pnl": -20.835099170000007,
+    "total_net_pnl_delta": 2.6418408299999996
+  },
+  "middle_base_reverse_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 51,
+    "removed_entries": 10,
+    "added_entries": 14,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -9.35375307,
+    "added_entry_net_pnl": -13.57840816,
+    "total_net_pnl_delta": -4.224655090000006
+  },
+  "middle_stress_delay_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 61,
+    "added_entries": 63,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -32.57008210000001,
+    "added_entry_net_pnl": -30.2366166,
+    "total_net_pnl_delta": 2.3334655000000026
+  },
+  "middle_stress_reverse_DailyAbsoluteMomentum": {
+    "shared_entry_keys": 51,
+    "removed_entries": 10,
+    "added_entries": 14,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -10.82788334,
+    "added_entry_net_pnl": -15.64074027,
+    "total_net_pnl_delta": -4.812856929999995
+  },
+  "middle_base_delay_DailySlowMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 47,
+    "added_entries": 47,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -28.16827392,
+    "added_entry_net_pnl": -32.890226410000004,
+    "total_net_pnl_delta": -4.721952489999996
+  },
+  "middle_base_reverse_DailySlowMomentum": {
+    "shared_entry_keys": 38,
+    "removed_entries": 9,
+    "added_entries": 8,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -2.5660430200000004,
+    "added_entry_net_pnl": -2.97578588,
+    "total_net_pnl_delta": -0.4097428600000015
+  },
+  "middle_stress_delay_DailySlowMomentum": {
+    "shared_entry_keys": 0,
+    "removed_entries": 47,
+    "added_entries": 47,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -35.14416711999999,
+    "added_entry_net_pnl": -39.85193833,
+    "total_net_pnl_delta": -4.707771209999997
+  },
+  "middle_stress_reverse_DailySlowMomentum": {
+    "shared_entry_keys": 38,
+    "removed_entries": 9,
+    "added_entries": 8,
+    "shared_entry_net_pnl_delta": 0.0,
+    "removed_entry_net_pnl": -3.91034347,
+    "added_entry_net_pnl": -4.16864507,
+    "total_net_pnl_delta": -0.2583015999999958
+  }
+}

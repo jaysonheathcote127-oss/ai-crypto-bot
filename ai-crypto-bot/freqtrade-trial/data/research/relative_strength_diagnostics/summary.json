@@ -1,0 +1,1264 @@
+{
+  "development_base": {
+    "net_profit": 485.9480410100001,
+    "gross_price_pnl": 648.0196919956504,
+    "fee_proxy_paid": 162.071651028592,
+    "trades": 537,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 274,
+    "short_trades_net_profit": -509.26320058,
+    "positive_coins": 9,
+    "positive_realized_months": 4,
+    "realized_months": 12,
+    "top5_trades_net_profit": 622.95636515,
+    "net_without_top5_trades_arithmetic": -137.0083241399999,
+    "top3_coins_net_profit": 542.26926292,
+    "coins": [
+      {
+        "pair": "XLM/USDT",
+        "trades": 19,
+        "net_profit": 327.07828265,
+        "gross_price_pnl": 333.27819992998,
+        "fee_proxy_paid": 6.19991728883016
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 20,
+        "net_profit": 114.19146221,
+        "gross_price_pnl": 120.37202022744,
+        "fee_proxy_paid": 6.180558024033901
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 30,
+        "net_profit": 100.99951806,
+        "gross_price_pnl": 110.16476517822002,
+        "fee_proxy_paid": 9.165247137461341
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 34,
+        "net_profit": 76.13264506,
+        "gross_price_pnl": 86.46233843610005,
+        "fee_proxy_paid": 10.32969338246865
+      },
+      {
+        "pair": "SUI/USDT",
+        "trades": 43,
+        "net_profit": 45.63028935,
+        "gross_price_pnl": 58.618195730000075,
+        "fee_proxy_paid": 12.987906378795001
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 25,
+        "net_profit": 27.469705740000006,
+        "gross_price_pnl": 35.022238411000025,
+        "fee_proxy_paid": 7.5525326662095
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 43,
+        "net_profit": 23.657896129999997,
+        "gross_price_pnl": 36.612574729999956,
+        "fee_proxy_paid": 12.954678635595
+      },
+      {
+        "pair": "UNI/USDT",
+        "trades": 34,
+        "net_profit": 5.986370169999999,
+        "gross_price_pnl": 16.21068587700007,
+        "fee_proxy_paid": 10.2243157015185
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 30,
+        "net_profit": 5.43146542,
+        "gross_price_pnl": 14.453117099999963,
+        "fee_proxy_paid": 9.02165169675
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 27,
+        "net_profit": -4.350496609999999,
+        "gross_price_pnl": 3.7551331500000007,
+        "fee_proxy_paid": 8.105629762965
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 37,
+        "net_profit": -7.690229350000001,
+        "gross_price_pnl": 3.4148434540000387,
+        "fee_proxy_paid": 11.105072808795
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 32,
+        "net_profit": -7.765482520000003,
+        "gross_price_pnl": 1.8372531999999584,
+        "fee_proxy_paid": 9.6027357009
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 32,
+        "net_profit": -21.536451749999998,
+        "gross_price_pnl": -11.954387469999988,
+        "fee_proxy_paid": 9.582064269285
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 33,
+        "net_profit": -31.58800883,
+        "gross_price_pnl": -21.72059958999998,
+        "fee_proxy_paid": 9.867409233945
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 38,
+        "net_profit": -34.62481789,
+        "gross_price_pnl": -23.259707472719942,
+        "fee_proxy_paid": 11.36511042536463
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 27,
+        "net_profit": -42.667443889999994,
+        "gross_price_pnl": -34.619372924369976,
+        "fee_proxy_paid": 8.048070939336794
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 33,
+        "net_profit": -90.40666294,
+        "gross_price_pnl": -80.62760597099992,
+        "fee_proxy_paid": 9.7790569763385
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2024-10",
+        "trades": 61,
+        "net_profit": -108.57804833
+      },
+      {
+        "realized_month": "2024-11",
+        "trades": 43,
+        "net_profit": 624.46364752
+      },
+      {
+        "realized_month": "2024-12",
+        "trades": 46,
+        "net_profit": -11.454500449999996
+      },
+      {
+        "realized_month": "2025-01",
+        "trades": 54,
+        "net_profit": -91.12807046
+      },
+      {
+        "realized_month": "2025-02",
+        "trades": 7,
+        "net_profit": -24.787469119999997
+      },
+      {
+        "realized_month": "2025-03",
+        "trades": 12,
+        "net_profit": -41.13928868
+      },
+      {
+        "realized_month": "2025-04",
+        "trades": 41,
+        "net_profit": 58.89813183
+      },
+      {
+        "realized_month": "2025-05",
+        "trades": 77,
+        "net_profit": -34.98193669
+      },
+      {
+        "realized_month": "2025-06",
+        "trades": 60,
+        "net_profit": -59.275704090000005
+      },
+      {
+        "realized_month": "2025-07",
+        "trades": 61,
+        "net_profit": 149.55248973
+      },
+      {
+        "realized_month": "2025-08",
+        "trades": 41,
+        "net_profit": 31.392522170000003
+      },
+      {
+        "realized_month": "2025-09",
+        "trades": 34,
+        "net_profit": -7.013732420000002
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 514,
+        "net_profit": 692.5039793400001
+      },
+      {
+        "exit_reason": "force_exit",
+        "trades": 3,
+        "net_profit": -0.90884734
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 20,
+        "net_profit": -205.64709099
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 287,
+        "net_profit": 514.90037588,
+        "mean_trade_return_pct": 1.7913935061087576
+      },
+      "breadth_half_or_lower": {
+        "trades": 250,
+        "net_profit": -28.952334870000016,
+        "mean_trade_return_pct": -0.11563825189285235
+      },
+      "btc_sma200_rising": {
+        "trades": 424,
+        "net_profit": 576.84064173,
+        "mean_trade_return_pct": 1.3584365492044344
+      },
+      "btc_sma200_not_rising": {
+        "trades": 113,
+        "net_profit": -90.89260071999999,
+        "mean_trade_return_pct": -0.8031568458644236
+      }
+    }
+  },
+  "development_stress": {
+    "net_profit": 161.80473899000003,
+    "gross_price_pnl": 648.0196919956504,
+    "fee_proxy_paid": 486.21495308577585,
+    "trades": 537,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 274,
+    "short_trades_net_profit": -672.37972852,
+    "positive_coins": 6,
+    "positive_realized_months": 4,
+    "realized_months": 12,
+    "top5_trades_net_profit": 618.0801819499999,
+    "net_without_top5_trades_arithmetic": -456.27544295999985,
+    "top3_coins_net_profit": 499.177818,
+    "coins": [
+      {
+        "pair": "XLM/USDT",
+        "trades": 19,
+        "net_profit": 314.67844807,
+        "gross_price_pnl": 333.27819992998,
+        "fee_proxy_paid": 18.59975186649048
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 20,
+        "net_profit": 101.83034615000001,
+        "gross_price_pnl": 120.37202022744,
+        "fee_proxy_paid": 18.5416740721017
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 30,
+        "net_profit": 82.66902378,
+        "gross_price_pnl": 110.16476517822002,
+        "fee_proxy_paid": 27.495741412384017
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 34,
+        "net_profit": 55.47325830000001,
+        "gross_price_pnl": 86.46233843610005,
+        "fee_proxy_paid": 30.989080147405947
+      },
+      {
+        "pair": "SUI/USDT",
+        "trades": 43,
+        "net_profit": 19.654476620000008,
+        "gross_price_pnl": 58.618195730000075,
+        "fee_proxy_paid": 38.963719136384995
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 25,
+        "net_profit": 12.364640419999999,
+        "gross_price_pnl": 35.022238411000025,
+        "fee_proxy_paid": 22.657597998628496
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 43,
+        "net_profit": -2.2514611899999997,
+        "gross_price_pnl": 36.612574729999956,
+        "fee_proxy_paid": 38.864035906785
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 30,
+        "net_profit": -12.61183798,
+        "gross_price_pnl": 14.453117099999963,
+        "fee_proxy_paid": 27.06495509025
+      },
+      {
+        "pair": "UNI/USDT",
+        "trades": 34,
+        "net_profit": -14.462261240000004,
+        "gross_price_pnl": 16.21068587700007,
+        "fee_proxy_paid": 30.672947104555497
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 27,
+        "net_profit": -20.561756159999998,
+        "gross_price_pnl": 3.7551331500000007,
+        "fee_proxy_paid": 24.316889288895
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 32,
+        "net_profit": -26.97095391,
+        "gross_price_pnl": 1.8372531999999584,
+        "fee_proxy_paid": 28.8082071027
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 37,
+        "net_profit": -29.90037493,
+        "gross_price_pnl": 3.4148434540000387,
+        "fee_proxy_paid": 33.315218426384995
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 32,
+        "net_profit": -40.70058027,
+        "gross_price_pnl": -11.954387469999988,
+        "fee_proxy_paid": 28.746192807854996
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 33,
+        "net_profit": -51.3228273,
+        "gross_price_pnl": -21.72059958999998,
+        "fee_proxy_paid": 29.602227701834998
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 38,
+        "net_profit": -57.35503873,
+        "gross_price_pnl": -23.259707472719942,
+        "fee_proxy_paid": 34.09533127609389
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 27,
+        "net_profit": -58.76358573,
+        "gross_price_pnl": -34.619372924369976,
+        "fee_proxy_paid": 24.144212818010384
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 33,
+        "net_profit": -109.96477691,
+        "gross_price_pnl": -80.62760597099992,
+        "fee_proxy_paid": 29.337170929015496
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2024-10",
+        "trades": 61,
+        "net_profit": -144.90675826
+      },
+      {
+        "realized_month": "2024-11",
+        "trades": 43,
+        "net_profit": 596.7487255799999
+      },
+      {
+        "realized_month": "2024-12",
+        "trades": 46,
+        "net_profit": -39.061451649999995
+      },
+      {
+        "realized_month": "2025-01",
+        "trades": 54,
+        "net_profit": -123.30289536
+      },
+      {
+        "realized_month": "2025-02",
+        "trades": 7,
+        "net_profit": -28.9192842
+      },
+      {
+        "realized_month": "2025-03",
+        "trades": 12,
+        "net_profit": -48.22649591
+      },
+      {
+        "realized_month": "2025-04",
+        "trades": 41,
+        "net_profit": 34.084254189999996
+      },
+      {
+        "realized_month": "2025-05",
+        "trades": 77,
+        "net_profit": -81.1460998
+      },
+      {
+        "realized_month": "2025-06",
+        "trades": 60,
+        "net_profit": -95.15161444
+      },
+      {
+        "realized_month": "2025-07",
+        "trades": 61,
+        "net_profit": 112.44829501
+      },
+      {
+        "realized_month": "2025-08",
+        "trades": 41,
+        "net_profit": 6.661319019999999
+      },
+      {
+        "realized_month": "2025-09",
+        "trades": 34,
+        "net_profit": -27.42325519
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 514,
+        "net_profit": 381.56078819000004
+      },
+      {
+        "exit_reason": "force_exit",
+        "trades": 3,
+        "net_profit": -2.7088082699999996
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 20,
+        "net_profit": -217.04724093
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 287,
+        "net_profit": 340.89505008999987,
+        "mean_trade_return_pct": 1.1824678116611358
+      },
+      "breadth_half_or_lower": {
+        "trades": 250,
+        "net_profit": -179.09031109999998,
+        "mean_trade_return_pct": -0.7131559022432962
+      },
+      "btc_sma200_rising": {
+        "trades": 424,
+        "net_profit": 320.32597233,
+        "mean_trade_return_pct": 0.7521008443115561
+      },
+      "btc_sma200_not_rising": {
+        "trades": 113,
+        "net_profit": -158.52123333999998,
+        "mean_trade_return_pct": -1.3965616955944944
+      }
+    }
+  },
+  "validation_base": {
+    "net_profit": -116.11712143,
+    "gross_price_pnl": -78.13441751779989,
+    "fee_proxy_paid": 37.98270388007423,
+    "trades": 127,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 67,
+    "short_trades_net_profit": -101.83342736999998,
+    "positive_coins": 2,
+    "positive_realized_months": 1,
+    "realized_months": 4,
+    "top5_trades_net_profit": 53.144284060000004,
+    "net_without_top5_trades_arithmetic": -169.26140549000002,
+    "top3_coins_net_profit": 23.545241990000005,
+    "coins": [
+      {
+        "pair": "SUI/USDT",
+        "trades": 4,
+        "net_profit": 14.83216017,
+        "gross_price_pnl": 16.056243990000013,
+        "fee_proxy_paid": 1.2240838196250001
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 3,
+        "net_profit": 9.10238383,
+        "gross_price_pnl": 10.017409865000001,
+        "fee_proxy_paid": 0.9150260382794999
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 13,
+        "net_profit": -0.3893020099999993,
+        "gross_price_pnl": 3.515971950259998,
+        "fee_proxy_paid": 3.90527395231392
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 5,
+        "net_profit": -0.8485689600000001,
+        "gross_price_pnl": 0.6524096431000004,
+        "fee_proxy_paid": 1.50097859793705
+      },
+      {
+        "pair": "XLM/USDT",
+        "trades": 4,
+        "net_profit": -2.66046623,
+        "gross_price_pnl": -1.4626602121299908,
+        "fee_proxy_paid": 1.197806008958955
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 3,
+        "net_profit": -3.0719317,
+        "gross_price_pnl": -2.175194649999994,
+        "fee_proxy_paid": 0.896737052385
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 11,
+        "net_profit": -3.5629607800000005,
+        "gross_price_pnl": -0.26336789999998933,
+        "fee_proxy_paid": 3.29959287135
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 7,
+        "net_profit": -6.4375718399999995,
+        "gross_price_pnl": -4.3440879809599995,
+        "fee_proxy_paid": 2.09348386587594
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 13,
+        "net_profit": -7.19732628,
+        "gross_price_pnl": -3.302282070000005,
+        "fee_proxy_paid": 3.895044203385
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 9,
+        "net_profit": -7.711065079999999,
+        "gross_price_pnl": -5.018605204999993,
+        "fee_proxy_paid": 2.6924598727455002
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 10,
+        "net_profit": -8.42735865,
+        "gross_price_pnl": -5.435520199999966,
+        "fee_proxy_paid": 2.991838437
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 2,
+        "net_profit": -10.44534906,
+        "gross_price_pnl": -9.860139265859988,
+        "fee_proxy_paid": 0.58520979061866
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 9,
+        "net_profit": -13.63687903,
+        "gross_price_pnl": -10.953309216999985,
+        "fee_proxy_paid": 2.6835698275635
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 8,
+        "net_profit": -14.58159047,
+        "gross_price_pnl": -12.199891179999979,
+        "fee_proxy_paid": 2.38169928519
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 12,
+        "net_profit": -18.76245817,
+        "gross_price_pnl": -15.185293710000014,
+        "fee_proxy_paid": 3.577164453405
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 7,
+        "net_profit": -20.64766413,
+        "gross_price_pnl": -18.57552741921001,
+        "fee_proxy_paid": 2.072136708640215
+      },
+      {
+        "pair": "UNI/USDT",
+        "trades": 7,
+        "net_profit": -21.67117304,
+        "gross_price_pnl": -19.600573956000016,
+        "fee_proxy_paid": 2.070599094801
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2025-10",
+        "trades": 35,
+        "net_profit": -42.7413825
+      },
+      {
+        "realized_month": "2025-12",
+        "trades": 16,
+        "net_profit": -38.64340555
+      },
+      {
+        "realized_month": "2026-01",
+        "trades": 27,
+        "net_profit": 30.291444580000004
+      },
+      {
+        "realized_month": "2026-03",
+        "trades": 49,
+        "net_profit": -65.02377796
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 125,
+        "net_profit": -95.55227882
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 2,
+        "net_profit": -20.56484261
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 79,
+        "net_profit": -96.2343146,
+        "mean_trade_return_pct": -1.2163372346202408
+      },
+      "breadth_half_or_lower": {
+        "trades": 48,
+        "net_profit": -19.88280683,
+        "mean_trade_return_pct": -0.41359591682789476
+      },
+      "btc_sma200_rising": {
+        "trades": 85,
+        "net_profit": -115.28320095999999,
+        "mean_trade_return_pct": -1.3542411368177754
+      },
+      "btc_sma200_not_rising": {
+        "trades": 42,
+        "net_profit": -0.8339204699999967,
+        "mean_trade_return_pct": -0.019827355076834405
+      }
+    }
+  },
+  "validation_stress": {
+    "net_profit": -192.08252916,
+    "gross_price_pnl": -78.13441751779989,
+    "fee_proxy_paid": 113.94811164022272,
+    "trades": 127,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 67,
+    "short_trades_net_profit": -141.78774721000002,
+    "positive_coins": 2,
+    "positive_realized_months": 1,
+    "realized_months": 4,
+    "top5_trades_net_profit": 49.980127769999996,
+    "net_without_top5_trades_arithmetic": -242.06265693,
+    "top3_coins_net_profit": 15.80579813,
+    "coins": [
+      {
+        "pair": "SUI/USDT",
+        "trades": 4,
+        "net_profit": 12.383992529999999,
+        "gross_price_pnl": 16.056243990000013,
+        "fee_proxy_paid": 3.672251458875
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 3,
+        "net_profit": 7.27233176,
+        "gross_price_pnl": 10.017409865000001,
+        "fee_proxy_paid": 2.7450781148384995
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 5,
+        "net_profit": -3.8505261600000003,
+        "gross_price_pnl": 0.6524096431000004,
+        "fee_proxy_paid": 4.502935793811149
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 3,
+        "net_profit": -4.8654058,
+        "gross_price_pnl": -2.175194649999994,
+        "fee_proxy_paid": 2.690211157155
+      },
+      {
+        "pair": "XLM/USDT",
+        "trades": 4,
+        "net_profit": -5.05607824,
+        "gross_price_pnl": -1.4626602121299908,
+        "fee_proxy_paid": 3.5934180268768645
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 13,
+        "net_profit": -8.1998499,
+        "gross_price_pnl": 3.515971950259998,
+        "fee_proxy_paid": 11.715821856941758
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 11,
+        "net_profit": -10.16214653,
+        "gross_price_pnl": -0.26336789999998933,
+        "fee_proxy_paid": 9.898778614049998
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 7,
+        "net_profit": -10.62453958,
+        "gross_price_pnl": -4.3440879809599995,
+        "fee_proxy_paid": 6.2804515976278195
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 2,
+        "net_profit": -11.615768639999999,
+        "gross_price_pnl": -9.860139265859988,
+        "fee_proxy_paid": 1.75562937185598
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 9,
+        "net_profit": -13.095984810000001,
+        "gross_price_pnl": -5.018605204999993,
+        "fee_proxy_paid": 8.0773796182365
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 10,
+        "net_profit": -14.41103552,
+        "gross_price_pnl": -5.435520199999966,
+        "fee_proxy_paid": 8.975515310999999
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 13,
+        "net_profit": -14.98741468,
+        "gross_price_pnl": -3.302282070000005,
+        "fee_proxy_paid": 11.685132610154998
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 9,
+        "net_profit": -19.0040187,
+        "gross_price_pnl": -10.953309216999985,
+        "fee_proxy_paid": 8.0507094826905
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 8,
+        "net_profit": -19.34498903,
+        "gross_price_pnl": -12.199891179999979,
+        "fee_proxy_paid": 7.1450978555699995
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 7,
+        "net_profit": -24.79193754,
+        "gross_price_pnl": -18.57552741921001,
+        "fee_proxy_paid": 6.216410125920644
+      },
+      {
+        "pair": "UNI/USDT",
+        "trades": 7,
+        "net_profit": -25.812371249999998,
+        "gross_price_pnl": -19.600573956000016,
+        "fee_proxy_paid": 6.211797284403
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 12,
+        "net_profit": -25.916787069999998,
+        "gross_price_pnl": -15.185293710000014,
+        "fee_proxy_paid": 10.731493360215
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2025-10",
+        "trades": 35,
+        "net_profit": -63.64441627
+      },
+      {
+        "realized_month": "2025-12",
+        "trades": 16,
+        "net_profit": -48.141700369999995
+      },
+      {
+        "realized_month": "2026-01",
+        "trades": 27,
+        "net_profit": 13.976134469999995
+      },
+      {
+        "realized_month": "2026-03",
+        "trades": 49,
+        "net_profit": -94.27254699
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 125,
+        "net_profit": -170.37767557
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 2,
+        "net_profit": -21.70485359
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 79,
+        "net_profit": -143.41624524000002,
+        "mean_trade_return_pct": -1.8072704000035706
+      },
+      "breadth_half_or_lower": {
+        "trades": 48,
+        "net_profit": -48.66628392,
+        "mean_trade_return_pct": -1.0093311570361436
+      },
+      "btc_sma200_rising": {
+        "trades": 85,
+        "net_profit": -166.01331421000003,
+        "mean_trade_return_pct": -1.9443493481703298
+      },
+      "btc_sma200_not_rising": {
+        "trades": 42,
+        "net_profit": -26.06921495,
+        "mean_trade_return_pct": -0.6179181557985461
+      }
+    }
+  },
+  "holdout_base": {
+    "net_profit": 23.221675650000023,
+    "gross_price_pnl": 109.48577274563999,
+    "fee_proxy_paid": 86.26409708448111,
+    "trades": 287,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 152,
+    "short_trades_net_profit": -287.96333106000003,
+    "positive_coins": 7,
+    "positive_realized_months": 3,
+    "realized_months": 6,
+    "top5_trades_net_profit": 265.55093936,
+    "net_without_top5_trades_arithmetic": -242.32926370999996,
+    "top3_coins_net_profit": 168.77747321000004,
+    "coins": [
+      {
+        "pair": "UNI/USDT",
+        "trades": 22,
+        "net_profit": 70.11452758,
+        "gross_price_pnl": 76.82977207700003,
+        "fee_proxy_paid": 6.7152444845955
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 23,
+        "net_profit": 65.2678492,
+        "gross_price_pnl": 72.27626361279997,
+        "fee_proxy_paid": 7.00841439448674
+      },
+      {
+        "pair": "SUI/USDT",
+        "trades": 12,
+        "net_profit": 33.39509643000001,
+        "gross_price_pnl": 37.05067049999998,
+        "fee_proxy_paid": 3.65557407699
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 21,
+        "net_profit": 14.115805789999998,
+        "gross_price_pnl": 20.446454509999988,
+        "fee_proxy_paid": 6.330648707019
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 18,
+        "net_profit": 2.76140136,
+        "gross_price_pnl": 8.17366154000003,
+        "fee_proxy_paid": 5.412260182725
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 12,
+        "net_profit": 2.4323511700000005,
+        "gross_price_pnl": 6.041411360000004,
+        "fee_proxy_paid": 3.60906020811
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 26,
+        "net_profit": 0.14117917000000024,
+        "gross_price_pnl": 7.95303267999994,
+        "fee_proxy_paid": 7.81185351024
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 6,
+        "net_profit": -0.9483207399999998,
+        "gross_price_pnl": 0.8529586858000346,
+        "fee_proxy_paid": 1.8012794271498
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 13,
+        "net_profit": -3.2822189600000002,
+        "gross_price_pnl": 0.6187089000000272,
+        "fee_proxy_paid": 3.9009278617650005
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 20,
+        "net_profit": -4.92738007,
+        "gross_price_pnl": 1.0742312711999407,
+        "fee_proxy_paid": 6.00161133756675
+      },
+      {
+        "pair": "XLM/USDT",
+        "trades": 8,
+        "net_profit": -12.78089139,
+        "gross_price_pnl": -10.39648611806998,
+        "fee_proxy_paid": 2.3844052684132953
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 21,
+        "net_profit": -13.94912799,
+        "gross_price_pnl": -7.660637599999963,
+        "fee_proxy_paid": 6.2884903974
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 11,
+        "net_profit": -14.198679199999999,
+        "gross_price_pnl": -10.915051775559999,
+        "fee_proxy_paid": 3.28362742085994
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 18,
+        "net_profit": -20.83397376,
+        "gross_price_pnl": -15.457160849999987,
+        "fee_proxy_paid": 5.376812913765
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 20,
+        "net_profit": -24.21859342,
+        "gross_price_pnl": -18.245971799999985,
+        "fee_proxy_paid": 5.9726216277
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 16,
+        "net_profit": -24.93829644,
+        "gross_price_pnl": -20.16854926753002,
+        "fee_proxy_paid": 4.769747174045085
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 20,
+        "net_profit": -44.92905308,
+        "gross_price_pnl": -38.98753497999996,
+        "fee_proxy_paid": 5.94151809165
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2026-04",
+        "trades": 46,
+        "net_profit": -57.7546464
+      },
+      {
+        "realized_month": "2026-05",
+        "trades": 29,
+        "net_profit": 28.57806129
+      },
+      {
+        "realized_month": "2026-07",
+        "trades": 76,
+        "net_profit": -103.51056573000001
+      },
+      {
+        "realized_month": "2026-08",
+        "trades": 50,
+        "net_profit": 12.59234292
+      },
+      {
+        "realized_month": "2026-09",
+        "trades": 52,
+        "net_profit": 177.40800515
+      },
+      {
+        "realized_month": "2026-10",
+        "trades": 34,
+        "net_profit": -34.09152158
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 280,
+        "net_profit": 95.15476432
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 7,
+        "net_profit": -71.93308867
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 127,
+        "net_profit": -111.42903281999997,
+        "mean_trade_return_pct": -0.8760817395552104
+      },
+      "breadth_half_or_lower": {
+        "trades": 160,
+        "net_profit": 134.65070846999998,
+        "mean_trade_return_pct": 0.8403078892517499
+      },
+      "btc_sma200_rising": {
+        "trades": 242,
+        "net_profit": -22.978838669999973,
+        "mean_trade_return_pct": -0.0948132574904172
+      },
+      "btc_sma200_not_rising": {
+        "trades": 45,
+        "net_profit": 46.200514319999996,
+        "mean_trade_return_pct": 1.025148659321093
+      }
+    }
+  },
+  "holdout_stress": {
+    "net_profit": -149.30651858,
+    "gross_price_pnl": 109.48577274563999,
+    "fee_proxy_paid": 258.79229125344335,
+    "trades": 287,
+    "median_holding_hours": 20.0,
+    "short_trades_under_24h": 152,
+    "short_trades_net_profit": -378.43502328,
+    "positive_coins": 4,
+    "positive_realized_months": 2,
+    "realized_months": 6,
+    "top5_trades_net_profit": 261.74858334,
+    "net_without_top5_trades_arithmetic": -411.05510191999997,
+    "top3_coins_net_profit": 134.01900731,
+    "coins": [
+      {
+        "pair": "UNI/USDT",
+        "trades": 22,
+        "net_profit": 56.684038629999996,
+        "gross_price_pnl": 76.82977207700003,
+        "fee_proxy_paid": 20.145733453786498
+      },
+      {
+        "pair": "NEAR/USDT",
+        "trades": 23,
+        "net_profit": 51.25102041000001,
+        "gross_price_pnl": 72.27626361279997,
+        "fee_proxy_paid": 21.02524318346022
+      },
+      {
+        "pair": "SUI/USDT",
+        "trades": 12,
+        "net_profit": 26.08394827,
+        "gross_price_pnl": 37.05067049999998,
+        "fee_proxy_paid": 10.96672223097
+      },
+      {
+        "pair": "BTC/USDT",
+        "trades": 21,
+        "net_profit": 1.454508389999999,
+        "gross_price_pnl": 20.446454509999988,
+        "fee_proxy_paid": 18.991946121056998
+      },
+      {
+        "pair": "XRP/USDT",
+        "trades": 6,
+        "net_profit": -4.550879590000001,
+        "gross_price_pnl": 0.8529586858000346,
+        "fee_proxy_paid": 5.403838281449399
+      },
+      {
+        "pair": "SOL/USDT",
+        "trades": 12,
+        "net_profit": -4.785769270000001,
+        "gross_price_pnl": 6.041411360000004,
+        "fee_proxy_paid": 10.82718062433
+      },
+      {
+        "pair": "LINK/USDT",
+        "trades": 18,
+        "net_profit": -8.06311901,
+        "gross_price_pnl": 8.17366154000003,
+        "fee_proxy_paid": 16.236780548175
+      },
+      {
+        "pair": "AVAX/USDT",
+        "trades": 13,
+        "net_profit": -11.084074689999998,
+        "gross_price_pnl": 0.6187089000000272,
+        "fee_proxy_paid": 11.702783585295
+      },
+      {
+        "pair": "ETH/USDT",
+        "trades": 26,
+        "net_profit": -15.482527849999999,
+        "gross_price_pnl": 7.95303267999994,
+        "fee_proxy_paid": 23.435560530719997
+      },
+      {
+        "pair": "TRX/USDT",
+        "trades": 20,
+        "net_profit": -16.93060276,
+        "gross_price_pnl": 1.0742312711999407,
+        "fee_proxy_paid": 18.004834012700247
+      },
+      {
+        "pair": "XLM/USDT",
+        "trades": 8,
+        "net_profit": -17.54970191,
+        "gross_price_pnl": -10.39648611806998,
+        "fee_proxy_paid": 7.153215805239885
+      },
+      {
+        "pair": "DOGE/USDT",
+        "trades": 11,
+        "net_profit": -20.76593404,
+        "gross_price_pnl": -10.915051775559999,
+        "fee_proxy_paid": 9.85088226257982
+      },
+      {
+        "pair": "BNB/USDT",
+        "trades": 21,
+        "net_profit": -26.52610878,
+        "gross_price_pnl": -7.660637599999963,
+        "fee_proxy_paid": 18.865471192199998
+      },
+      {
+        "pair": "LTC/USDT",
+        "trades": 18,
+        "net_profit": -31.5875996,
+        "gross_price_pnl": -15.457160849999987,
+        "fee_proxy_paid": 16.130438741295
+      },
+      {
+        "pair": "HBAR/USDT",
+        "trades": 16,
+        "net_profit": -34.47779081,
+        "gross_price_pnl": -20.16854926753002,
+        "fee_proxy_paid": 14.309241522135254
+      },
+      {
+        "pair": "BCH/USDT",
+        "trades": 20,
+        "net_profit": -36.16383669,
+        "gross_price_pnl": -18.245971799999985,
+        "fee_proxy_paid": 17.9178648831
+      },
+      {
+        "pair": "ADA/USDT",
+        "trades": 20,
+        "net_profit": -56.81208928,
+        "gross_price_pnl": -38.98753497999996,
+        "fee_proxy_paid": 17.82455427495
+      }
+    ],
+    "months": [
+      {
+        "realized_month": "2026-04",
+        "trades": 46,
+        "net_profit": -85.22253408
+      },
+      {
+        "realized_month": "2026-05",
+        "trades": 29,
+        "net_profit": 11.0660782
+      },
+      {
+        "realized_month": "2026-07",
+        "trades": 76,
+        "net_profit": -148.8679723
+      },
+      {
+        "realized_month": "2026-08",
+        "trades": 50,
+        "net_profit": -17.49051054
+      },
+      {
+        "realized_month": "2026-09",
+        "trades": 52,
+        "net_profit": 145.62813916000002
+      },
+      {
+        "realized_month": "2026-10",
+        "trades": 34,
+        "net_profit": -54.41971902
+      }
+    ],
+    "exits": [
+      {
+        "exit_reason": "exit_signal",
+        "trades": 280,
+        "net_profit": -73.38324533999999
+      },
+      {
+        "exit_reason": "stop_loss",
+        "trades": 7,
+        "net_profit": -75.92327324
+      }
+    ],
+    "entry_context_cohorts": {
+      "breadth_over_half": {
+        "trades": 127,
+        "net_profit": -187.40858579000002,
+        "mean_trade_return_pct": -1.4690503463236713
+      },
+      "breadth_half_or_lower": {
+        "trades": 160,
+        "net_profit": 38.10206721,
+        "mean_trade_return_pct": 0.23707167870967275
+      },
+      "btc_sma200_rising": {
+        "trades": 242,
+        "net_profit": -168.32772865,
+        "mean_trade_return_pct": -0.6924554855326555
+      },
+      "btc_sma200_not_rising": {
+        "trades": 45,
+        "net_profit": 19.021210070000002,
+        "mean_trade_return_pct": 0.4208067135409778
+      }
+    }
+  }
+}

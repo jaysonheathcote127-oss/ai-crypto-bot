@@ -1,0 +1,21 @@
+rank,name,symbol,category
+1,Bitcoin,BTC,candidate
+2,Ethereum,ETH,candidate
+3,Tether USDt,USDT,stablecoin
+4,BNB,BNB,candidate
+5,XRP,XRP,candidate
+6,USD Coin,USDC,stablecoin
+7,Dogecoin,DOGE,candidate
+8,Cardano,ADA,candidate
+9,Solana,SOL,candidate
+10,Toncoin,TON,candidate
+11,TRON,TRX,candidate
+12,Dai,DAI,stablecoin
+13,Polkadot,DOT,candidate
+14,Polygon,MATIC,candidate
+15,Litecoin,LTC,candidate
+16,Shiba Inu,SHIB,candidate
+17,Wrapped Bitcoin,WBTC,wrapped
+18,Bitcoin Cash,BCH,candidate
+19,Chainlink,LINK,candidate
+20,TrueUSD,TUSD,stablecoin

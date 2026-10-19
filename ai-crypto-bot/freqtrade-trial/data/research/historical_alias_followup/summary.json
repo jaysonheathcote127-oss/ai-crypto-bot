@@ -1,0 +1,133 @@
+{
+  "retrieved_at": "2026-10-19T15:26:38.611826+00:00",
+  "hashes": {
+    "PIT_ALIAS_FOLLOWUP.md": "ad5a50d11805866f6a4da3cf9b0cdcce90cfb181f3f49f1e6b59540769689fd7",
+    "audit_historical_aliases.py": "6099c58035bba2d34dbe45de0806005bcfc2c28d6782ff51af960bbe1aa4fd98"
+  },
+  "alias_probes": {
+    "GRAM_2023-07-01": {
+      "request": {
+        "instId": "GRAM-USDT",
+        "bar": "4H",
+        "before": 1688169599999,
+        "after": 1688212800000,
+        "limit": 3
+      },
+      "response": {
+        "code": "0",
+        "data": [],
+        "msg": ""
+      },
+      "status": "no_sample_returned"
+    },
+    "GRAM_2024-09-01": {
+      "request": {
+        "instId": "GRAM-USDT",
+        "bar": "4H",
+        "before": 1725148799999,
+        "after": 1725192000000,
+        "limit": 3
+      },
+      "response": {
+        "code": "0",
+        "data": [],
+        "msg": ""
+      },
+      "status": "no_sample_returned"
+    },
+    "GRAM_2026-06-17": {
+      "request": {
+        "instId": "GRAM-USDT",
+        "bar": "4H",
+        "before": 1781654399999,
+        "after": 1781697600000,
+        "limit": 3
+      },
+      "response": {
+        "code": "0",
+        "data": [
+          [
+            "1781683200000",
+            "1.631",
+            "1.676",
+            "1.626",
+            "1.652",
+            "559425.015",
+            "922035.956427",
+            "922035.956427",
+            "1"
+          ]
+        ],
+        "msg": ""
+      },
+      "status": "sample_available"
+    },
+    "POL_2023-07-01": {
+      "request": {
+        "instId": "POL-USDT",
+        "bar": "4H",
+        "before": 1688169599999,
+        "after": 1688212800000,
+        "limit": 3
+      },
+      "response": {
+        "code": "0",
+        "data": [],
+        "msg": ""
+      },
+      "status": "no_sample_returned"
+    },
+    "TON_2026-06-15": {
+      "request": {
+        "instId": "TON-USDT",
+        "bar": "4H",
+        "before": 1781481599999,
+        "after": 1781524800000,
+        "limit": 3
+      },
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    },
+    "MATIC_2024-09-06": {
+      "request": {
+        "instId": "MATIC-USDT",
+        "bar": "4H",
+        "before": 1725580799999,
+        "after": 1725624000000,
+        "limit": 3
+      },
+      "status": "api_error",
+      "error": "okx {\"code\":\"51001\",\"data\":[],\"msg\":\"Instrument ID, Instrument ID code, or Spread ID doesn't exist.\"}"
+    }
+  },
+  "archives": {
+    "2023-07": {
+      "status": "verified_archive",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MATICUSDT/4h/MATICUSDT-4h-2023-07.zip",
+      "published_sha256": "c45d4172249c2b4091a67c271f0b140ea79726a988889f0c643e9966e9f50d47",
+      "actual_sha256": "c45d4172249c2b4091a67c271f0b140ea79726a988889f0c643e9966e9f50d47",
+      "candles": 186,
+      "first_open": "2023-07-01T00:00:00+00:00",
+      "last_open": "2023-07-31T20:00:00+00:00",
+      "last_close_time": "2023-07-31T23:59:59.999000+00:00",
+      "nonstandard_duration_bars": 0,
+      "venue": "Binance spot",
+      "notice": "Not an OKX replacement or complete-universe backtest."
+    },
+    "2024-09": {
+      "status": "verified_archive",
+      "url": "https://data.binance.vision/data/spot/monthly/klines/MATICUSDT/4h/MATICUSDT-4h-2024-09.zip",
+      "published_sha256": "cd1ab579bf0885d8fac8265e6097c97f18b3df4b6a50080771c18c794db9ae5d",
+      "actual_sha256": "cd1ab579bf0885d8fac8265e6097c97f18b3df4b6a50080771c18c794db9ae5d",
+      "candles": 55,
+      "first_open": "2024-09-01T00:00:00+00:00",
+      "last_open": "2024-09-10T00:00:00+00:00",
+      "last_close_time": "2024-09-10T02:59:59.999000+00:00",
+      "nonstandard_duration_bars": 1,
+      "venue": "Binance spot",
+      "notice": "Not an OKX replacement or complete-universe backtest."
+    }
+  },
+  "status": "feasibility_only_no_performance_results",
+  "historical_universe_ready": false
+}
