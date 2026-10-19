@@ -78,4 +78,4 @@ Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. `.venv` reuse
 ## GitHub upload validation
 
 - Local checkpoint 8520954, merge preserving original remote history 523dd00, handoff instructions 10d8cad. All 659 tracked files matched committed blob bytes before upload; no tracked symlinks or external .venv. Research files preserve exact bytes across operating systems.
-- User completed device authorization; initial push succeeded. Fresh remote checkout verification in progress at this record. Do not infer complete chat transcripts or an older research Git history existed.
+- User completed device authorization; initial push succeeded. Fresh independent clone passed git fsck --full; commit 181b131 and complete tree matched local exactly, with 659 tracked files and clean local working tree. Do not infer complete chat transcripts or an older research Git history existed.
