@@ -1,13 +1,13 @@
 # Experiment register scope
 
 `experiment-register.csv` was generated from completed final research summaries,
-including failures. It contains 86 strategy/window/cost rows across nine distinct
-strategy specifications. These are overlapping scenarios, not 86 independent
+including failures. It contains 122 strategy/window/cost rows across nine distinct
+strategy specifications. These are overlapping scenarios, not 122 independent
 hypothesis tests or evidence of a statistically significant edge.
 
 Stages include corrected baselines, Discord proxies, original relative strength,
 daily cadence, the two absolute/slower momentum variants, continuous controls,
-actual smaller-stake execution, hourly detail and earlier-history extension.
+actual smaller-stake execution, hourly detail, earlier-history extension and operational delay/allocation stresses.
 Repeated controls, alternate fees, windows, sizing and execution resolutions are
 labelled rather than counted as newly invented strategies. All statuses currently
 record no promotion.

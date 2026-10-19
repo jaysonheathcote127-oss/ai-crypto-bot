@@ -5,7 +5,7 @@ positive results in an additional earlier year, alongside the original profitabl
 and losing periods. That improves the historical evidence without establishing
 a dependable trading income stream.
 
-Latest completed extension: same 17 markets and three daily rules, $25 simulated
+Earlier-history extension: same 17 markets and three daily rules, $25 simulated
 entries, $1,000 wallet, five positions, hourly execution, 0.45% assumed cost each
 side. All returns below are net cumulative totals for their stated windows.
 
@@ -26,12 +26,12 @@ Hourly/four-hour aggregation and the original-data overlap validated. Original
 files remain intact. 27 combined checks passed; frozen hashes and hourly
 cashflow/final balances reconcile. No trading promotion or real orders.
 
-Latest [earlier-history report](history-extension-screen.md),
+See the [earlier-history report](history-extension-screen.md),
 [hourly execution report](hourly-execution-check.md),
 [actual lower-size check](low-exposure-execution-check.md),
 [momentum/continuous-wallet screen](momentum-robustness-screen.md), and
 [original profit attribution](relative-strength-diagnostics.md).
-The [experiment register](experiment-register.csv) includes 86 completed final
+The [experiment register](experiment-register.csv) includes 122 completed final
 strategy/window/cost evaluations across nine specifications; these overlap and
 are not independent trials. Earlier compatibility and superseded boundary runs
 remain preserved separately.
@@ -48,6 +48,14 @@ references and gather genuinely subsequent observations, not tune thresholds to
 keep the winning historical months. Exact external structural definitions remain
 necessary for another Discord-inspired strategy. Independent momentum references
 are scoped in [evidence notes](momentum-evidence-notes.md).
+
+Later completed checks: [operational sensitivity](operational-robustness-screen.md)
+confirmed that all variants still lost in the middle window and that allocation
+priority materially changes full-period results. The
+[Jack-informed crypto test](jack-structural-test-report.md) produced only three
+NC trades and zero in-session SBC trades, insufficient for promotion. The
+[historical-universe feasibility audit](historical-universe-feasibility.md)
+left survivor bias unresolved; no historical-universe backtest was completed.
 
 Durable decisions/provenance: `memory/PROJECT_MEMORY.md` and append-only
 `memory/CONVERSATION_LOG.md`; summaries, not a complete chat export.

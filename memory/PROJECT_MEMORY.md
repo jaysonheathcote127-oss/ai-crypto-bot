@@ -12,7 +12,7 @@ Last updated: 2026-10-19 (Europe/London). Read `CONVERSATION_LOG.md` for provena
 
 ## Environment
 
-Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. `.venv` reuses original runtime via symlink; do not remove original runtime/dashboard folder. Native Apple Silicon setup experimental. No Git repository at workspace root; experiment source/data SHA256 hashes used instead of tags.
+Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. Current computer uses the restored `github-workspace/` Git clone with an independent root `.venv` (Python 3.13; full saved dependency lock installed). Original computer used an external environment symlink. Preserve the parent dashboard project. Native Apple Silicon setup remains experimental; experiment hashes remain frozen.
 
 ## Frozen research and decisions
 
@@ -79,3 +79,13 @@ Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. `.venv` reuse
 
 - Local checkpoint 8520954, merge preserving original remote history 523dd00, handoff instructions 10d8cad. All 659 tracked files matched committed blob bytes before upload; no tracked symlinks or external .venv. Research files preserve exact bytes across operating systems.
 - User completed device authorization; initial push succeeded. Fresh independent clone passed git fsck --full; commit 181b131 and complete tree matched local exactly, with 659 tracked files and clean local working tree. Do not infer complete chat transcripts or an older research Git history existed.
+
+## Restored-computer verification (19 October 2026)
+
+- GitHub main `bad62b1` restored with all 659 tracked files; fast-forward pull confirmed current before work. Git integrity passed. Current active clone is `github-workspace/` inside the earlier dashboard folder.
+- Installed independent environment with pinned direct requirements plus full research lock; `pip check` passed. Reproduced all four specifications' saved baseline for 17 markets and both structural signal files (BTC 19, ETH 10) exactly; all eight observer source hashes match.
+- Full shared-process discovery: 36 passed, one structural error. Importing research_baselines adds DataFrame.atr through its indicator dependency; frozen mid.atr column access then resolves to a function. Isolated structural checks pass. Added run_offline_checks.py: all 37 checks across 12 separate module processes passed. Frozen code unchanged; shared-process compatibility issue remains explicit in WORKSPACE.md.
+- Updated stale RESEARCH_STATUS and register notes from 86 to verified 122 overlapping rows across nine underlying specifications; included latest operational/structural/universe findings.
+- First eligible forward candle closes 19 October at 20:00 UTC / 21:00 BST. Still pending at this session's checkpoint; no fresh snapshot, order, scheduler or promotion created. Next useful step: one-shot frozen observer after close, preserving all blocked attempts and avoiding forward-profit claims.
+
+- Sync pending: automatic approval review rejected publishing this continuation checkpoint to public main. Local commit is saved; push did not run. Explicit user approval requested; last fetched remote is bad62b1.
