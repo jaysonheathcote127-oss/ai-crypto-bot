@@ -77,6 +77,13 @@ Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. `.venv` reuse
 ## GitHub sharing preparation (supersedes earlier non-Git status)
 
 - User cannot connect computers and chose GitHub as online project store. Means GitHub service, not third-party source repositories.
-- Root Git repository now initialized on main; prepared README, ignore/attributes, requirements manifest and research-data/result inclusion. ~135 MB checked, no individual file >10 MB; limited credential/config scan found no matches. Keep repository PRIVATE.
+- Root Git repository now initialized on main; prepared README, ignore/attributes, requirements manifest and research-data/result inclusion. ~135 MB checked, no individual file >10 MB; limited credential/config scan found no matches. User subsequently authorized using the existing public repository and will change visibility later.
 - GitHub plugin installed and authenticated as jaysonheathcote127-oss. Existing ai-crypto-bot repository verified PUBLIC; do not upload private notes there. Connector lacks repository creation/privacy settings; browser sign-in needed for private destination. gh absent. No remote or upload yet. Local checkpoint prepared with verified account noreply identity.
 - CROSS_COMPUTER.md now describes clone/pull/commit/push workflow. Git shares files and memory summaries, not local chat history or the external .venv/runtime. Independent Windows environment untested.
+
+## Existing GitHub destination authorized
+
+- User explicitly chose uploading this folder to existing jaysonheathcote127-oss/ai-crypto-bot while public; will change privacy later. Supersedes previous private-only destination requirement.
+- Existing remote commit 9ea6c20 fetched and merged without conflicts; original source under crypto-bot-public-source/ retained. Research checkpoint 8520954 plus merge 523dd00 saved locally. No older research Git history existed. Full chat transcripts/external environments are unavailable; memory and archived evidence retained.
+- AGENTS.md now requires fetch/pull before work and reviewed commit/push after milestones, preserving concurrent edits and reporting failures. CROSS_COMPUTER.md provides clone and handoff workflow.
+- Git push dry-run failed: Git has no login credentials, despite connector authentication. Official GitHub CLI downloaded for device sign-in. Upload not yet completed.

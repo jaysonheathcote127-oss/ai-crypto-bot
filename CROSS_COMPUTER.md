@@ -1,53 +1,30 @@
-# Continue from another computer using GitHub
+# Continue on another computer
 
-Updated 19 October 2026. User prefers keeping the project online via GitHub,
-without a remote connection between computers.
+Repository: https://github.com/jaysonheathcote127-oss/ai-crypto-bot
 
-## Current setup
+The user chose the existing repository, which is currently public, and intends to change visibility later. Existing GitHub history is preserved alongside this folder's local checkpoint. Upload remains pending until authenticated push is verified.
 
-- Git repository initialized locally, branch main.
-- Prepared code, protocols, memory, reports, datasets and research result archives
-  for a PRIVATE repository. Nothing uploaded or remotely synchronized yet.
-- GitHub integration offered but installation/account connection not confirmed.
-- GitHub CLI is not installed. No account owner or repository URL selected.
-- Existing source resources came from public third-party repositories; they are
-  not a GitHub account owned by the assistant or the user.
-- No file exceeds 10 MB in the checked workspace (~135 MB total). Research data
-  is deliberately included; venvs, caches, SQLite journals and credential-file
-  patterns are excluded. SQLite history is represented by retained JSON snapshots.
-- A credential-pattern/config scan found no potential matches. This is a limited
-  local check, not a guarantee that every private source note is publishable.
-  Keep the repository PRIVATE.
+## First setup on each computer
 
-## Normal handoff workflow
+Install Git, authenticate to the same GitHub account (GitHub CLI: `gh auth login`, then `gh auth setup-git`), and clone:
 
-1. Save work, update memory, commit and push before switching computers.
-2. Clone the private repository once on the other PC; thereafter pull before work.
-3. Open that folder as the project. Ask Codex to read AGENTS.md and
-   memory/PROJECT_MEMORY.md, then inspect the latest log/status before continuing.
-4. Commit and push the other computer's updates before returning here.
+```sh
+git clone https://github.com/jaysonheathcote127-oss/ai-crypto-bot.git
+cd ai-crypto-bot
+```
 
-GitHub shares committed files and project notes; local chat history, credentials,
-Python environments and running processes are separate. GitHub does not
-continuously upload unsaved/uncommitted work. Use one active editing copy at a
-time, or separate branches for intentional parallel changes.
+Open the cloned folder as the Codex project. Tell the new chat: “Read AGENTS.md, memory/PROJECT_MEMORY.md and the latest memory/CONVERSATION_LOG.md, inspect GitHub status, and continue the recorded work. Keep GitHub updated.”
 
-The original .venv is an absolute symlink outside this project and is ignored.
-Create a separate supported Python environment on each machine; the direct
-package versions are recorded in requirements-research.txt. This manifest is
-preparation, not proof of a working Windows installation. The original BTC
-service/runtime outside this research folder is not included.
+## Every time you switch computers
 
-## Optional browser-based execution
+Before working, check `git status`, then `git pull --ff-only` with a clean working tree. Before switching away, save files, update memory, inspect `git diff` and `git status`, commit the intended changes and run `git push`. Confirm the latest commit appears on GitHub. If pull fails because both computers changed files, preserve both sets of edits and resolve the divergence; do not force-push or reset. Prefer one active editing computer at a time.
 
-For working without a local runtime, Codex Cloud can use a prepared GitHub-backed
-environment. Local files do not transfer automatically; dependencies/data must
-be made available and the environment tested. Each cloud task has its own working
-files, so commit changes to carry them into later tasks.
+AGENTS.md instructs future agents to commit and push completed work without asking again. This is a workflow instruction, not a background synchronization service. It depends on working credentials/network and agents following the instructions. Failed pushes must be reported.
 
-Official guidance:
-https://learn.chatgpt.com/docs/cloud
-https://learn.chatgpt.com/docs/environments/modes
+## What is included
 
-No private remote repository has been created and no upload/automatic push has
-been configured by this preparation. Complete GitHub installation/sign-in first.
+Research code, reports, protocols, memory and work logs, handoff notes, frozen datasets, JSON observation snapshots, result archives and original GitHub source under crypto-bot-public-source/. The working research is under ai-crypto-bot/freqtrade-trial/. Existing repository commits and the new local research checkpoint are preserved. There was no older Git history for this research folder before setup; recorded logs and archived experiment files provide earlier context. Full chat transcripts are not available as files and are not claimed to be included.
+
+Excluded: credentials, ignored SQLite files/journals, environments, caches and machine logs except retained research run.log files. Inspect `git status --ignored` if an expected artifact is missing. The original .venv is an external absolute link; it cannot run on another computer. Create a supported environment and install requirements-research.txt (Windows setup untested). External BTC services, account sessions and running processes do not transfer.
+
+Do not put new credentials into this public repository. The user intends to make it private through GitHub settings later.

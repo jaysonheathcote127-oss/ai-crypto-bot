@@ -1,25 +1,9 @@
-# Trading Bot research workspace
+# Trading Bot project and research
 
-Private research workspace. No strategy is promoted for live trading.
+Continue with [AGENTS.md](AGENTS.md), [project memory](memory/PROJECT_MEMORY.md), [work log](memory/CONVERSATION_LOG.md), and [cross-computer instructions](CROSS_COMPUTER.md).
 
-Start with [AGENTS.md](AGENTS.md), [project memory](memory/PROJECT_MEMORY.md),
-[work log](memory/CONVERSATION_LOG.md), and [research status](outputs/RESEARCH_STATUS.md).
-Code/protocols are under `ai-crypto-bot/freqtrade-trial/`; reports are under `outputs/`.
-Historical datasets, frozen inputs and results are intentionally retained for reproducibility.
+Research code and protocols: `ai-crypto-bot/freqtrade-trial/`. Reports: `outputs/`. Frozen inputs, datasets and result archives are retained for reproducibility. Original GitHub source remains in `crypto-bot-public-source/`; its original commits are preserved. No research strategy is promoted for live trading.
 
-## Switching computers
+Before switching computers, save, update memory, commit and push. On the other computer, pull before working. Agents must follow AGENTS.md to keep GitHub updated and report failed uploads. Git shares committed files and written summaries, not full chat transcripts or running environments. Rebuild the Python environment from requirements-research.txt; Windows compatibility is untested.
 
-Use this project's own PRIVATE GitHub repository. Before switching, save changes,
-commit and push. On the next computer, pull before opening a new working session.
-Ask Codex to read AGENTS.md and memory/PROJECT_MEMORY.md before continuing.
-Git shares these files and research summaries; it does not copy local Codex chat
-history, signed-in accounts or running processes. Work on one editing copy at a time.
-
-The research `.venv` on the original Mac is an absolute link outside this folder.
-It is excluded from Git. Rebuild a supported environment on each computer or use
-a prepared cloud environment; do not assume copying files installs dependencies.
-The original BTC dashboard/service is outside this research project.
-
-Do not publish this repository publicly: it contains private research/source notes.
-Keep account keys and credentials outside committed files. No GitHub remote has
-been connected or verified by this preparation.
+The user chose this existing public repository and intends to make it private later. Keep passwords, tokens and account keys out of committed files. See CROSS_COMPUTER.md for coverage and exclusions.
