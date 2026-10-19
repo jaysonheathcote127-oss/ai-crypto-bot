@@ -2,7 +2,7 @@
 
 Repository: https://github.com/jaysonheathcote127-oss/ai-crypto-bot
 
-The user chose the existing repository, which is currently public, and intends to change visibility later. Existing GitHub history is preserved alongside this folder's local checkpoint. Upload remains pending until authenticated push is verified.
+The user chose the existing repository, which is currently public, and intends to change visibility later. Existing GitHub history is preserved alongside this folder's local checkpoint. Initial upload completed on 19 October 2026; GitHub main was updated to 10d8cad. Subsequent documentation commits may follow.
 
 ## First setup on each computer
 
@@ -28,3 +28,7 @@ Research code, reports, protocols, memory and work logs, handoff notes, frozen d
 Excluded: credentials, ignored SQLite files/journals, environments, caches and machine logs except retained research run.log files. Inspect `git status --ignored` if an expected artifact is missing. The original .venv is an external absolute link; it cannot run on another computer. Create a supported environment and install requirements-research.txt (Windows setup untested). External BTC services, account sessions and running processes do not transfer.
 
 Do not put new credentials into this public repository. The user intends to make it private through GitHub settings later.
+
+## Authentication on the original Mac
+
+The initial upload used an official GitHub CLI device login from a temporary installation. No authentication files were copied into the project or committed. For durable setup, install GitHub CLI normally and run `gh auth login` and `gh auth setup-git` on each computer. The temporary login used during initial setup is not a portable or guaranteed persistent configuration.

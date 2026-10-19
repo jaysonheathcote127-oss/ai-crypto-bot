@@ -64,26 +64,18 @@ Research: `ai-crypto-bot/freqtrade-trial/`, Freqtrade/CCXT/TA-Lib. `.venv` reuse
 
 ## Cross-computer continuity
 
-- User wants to use the latest work from another computer. Root `CROSS_COMPUTER.md` describes verified current state and setup options.
-- App confirms local project, no Git repository. No cross-device synchronization configured/verified here; same ChatGPT project label does not prove local files sync.
-- Recommended same working host via supported remote connection. Independent copies need private version control plus explicit artifact sync and separate runtimes; current ignore rules omit data/SQLite/venv and .venv points outside workspace.
-- No remote settings, repository publication or cloud sync configured by us.
+- User chose existing https://github.com/jaysonheathcote127-oss/ai-crypto-bot; explicitly authorized uploading while public and will change visibility later.
+- Initial 659-file upload succeeded on 19 October 2026, remote main advanced from original 9ea6c20 to 10d8cad. Existing history and research checkpoint are both ancestors. Code, protocols, memory, logs, reports, datasets and result archives included.
+- AGENTS.md requires fetch/pull before work and reviewed commit/push at milestones; CROSS_COMPUTER.md gives clone/setup/handoff instructions. This is not background autosync.
+- Full chat transcripts, external services/runtimes, credentials, environments, ignored SQLite files and caches are excluded. Windows runtime untested.
+- Initial push authenticated via official GitHub CLI temporary device login. Auto-review rejected copying auth state into .git; that action did not run. Future durable setup should use standard GitHub CLI installation/login per computer. No repository credential storage configured.
 
 ## Latest operational and source audits
 
 - Delay/order sensitivity completed; 29 selected research/observer checks passed. Full-window stress returns remained positive, but reversed allocation priority changed totals -4.10 to +4.77 pp. All middle-window controls/stresses lost (-3.99% to -3.02%). No best order/delay selected. `outputs/operational-robustness-screen.md`; register now 122 overlapping rows across nine underlying specs.
 - Historical-universe feasibility report: `outputs/historical-universe-feasibility.md`. First20 ranked snapshot rows only; not top100. Old TON/MATIC public OKX probes fail, and GRAM/POL do not return requested earlier samples. Alternative Binance MATIC archives recovered/checksummed, but not mixed into OKX. Sep 2024 last bar shortened to three hours. Current-survivor bias unresolved; no historical-universe backtest.
 
-## GitHub sharing preparation (supersedes earlier non-Git status)
+## GitHub upload validation
 
-- User cannot connect computers and chose GitHub as online project store. Means GitHub service, not third-party source repositories.
-- Root Git repository now initialized on main; prepared README, ignore/attributes, requirements manifest and research-data/result inclusion. ~135 MB checked, no individual file >10 MB; limited credential/config scan found no matches. User subsequently authorized using the existing public repository and will change visibility later.
-- GitHub plugin installed and authenticated as jaysonheathcote127-oss. Existing ai-crypto-bot repository verified PUBLIC; do not upload private notes there. Connector lacks repository creation/privacy settings; browser sign-in needed for private destination. gh absent. No remote or upload yet. Local checkpoint prepared with verified account noreply identity.
-- CROSS_COMPUTER.md now describes clone/pull/commit/push workflow. Git shares files and memory summaries, not local chat history or the external .venv/runtime. Independent Windows environment untested.
-
-## Existing GitHub destination authorized
-
-- User explicitly chose uploading this folder to existing jaysonheathcote127-oss/ai-crypto-bot while public; will change privacy later. Supersedes previous private-only destination requirement.
-- Existing remote commit 9ea6c20 fetched and merged without conflicts; original source under crypto-bot-public-source/ retained. Research checkpoint 8520954 plus merge 523dd00 saved locally. No older research Git history existed. Full chat transcripts/external environments are unavailable; memory and archived evidence retained.
-- AGENTS.md now requires fetch/pull before work and reviewed commit/push after milestones, preserving concurrent edits and reporting failures. CROSS_COMPUTER.md provides clone and handoff workflow.
-- Git push dry-run failed: Git has no login credentials, despite connector authentication. Official GitHub CLI downloaded for device sign-in. Upload not yet completed.
+- Local checkpoint 8520954, merge preserving original remote history 523dd00, handoff instructions 10d8cad. All 659 tracked files matched committed blob bytes before upload; no tracked symlinks or external .venv. Research files preserve exact bytes across operating systems.
+- User completed device authorization; initial push succeeded. Fresh remote checkout verification in progress at this record. Do not infer complete chat transcripts or an older research Git history existed.
